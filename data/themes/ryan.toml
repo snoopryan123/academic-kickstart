@@ -17,7 +17,7 @@ primary = "rgb(1, 66, 90)"
 # primary_dark = "#00c4a7"
 
 # Links
-link = linkBlue
+link = "#0083e8"
 link_hover = "rgb(6, 59, 89)"
 
 # Menu
