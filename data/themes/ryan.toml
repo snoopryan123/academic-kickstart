@@ -1,7 +1,7 @@
 # Theme metadata
 name = "ryan"
 
-navBarBlue = "rgb(10, 80, 120)"
+navBarBlue = "rgb(1, 66, 90)"#"rgb(10, 80, 120)"
 babyBlue = "rgb(227, 253, 255)"
 mint = "#efe"
 linkBlue = "#0083e8"
