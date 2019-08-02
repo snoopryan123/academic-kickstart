@@ -5,7 +5,7 @@ name = "ryan"
 light = true
 
 # Primary
-primary = "rgb(6, 59, 89)"
+primary = "rgb(11, 92, 138)"
 # primary = "#00d1b2"
 # primary_light = "#00f1d2"
 # primary_dark = "#00c4a7"
@@ -15,7 +15,7 @@ link = "rgb(14, 128, 229)"
 link_hover = "rgb(6, 59, 89)"
 
 # Menu
-menu_primary = "rgb(6, 59, 89)"#"rgb(06, 3B, 59)"
+menu_primary = "rgb(11, 92, 138)"#"rgb(06, 3B, 59)"
 menu_text = "#fff"
 menu_text_active = "rgb(208, 255, 56)"
 menu_title = "#fff"
