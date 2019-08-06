@@ -2,7 +2,7 @@
 title = "Exploring a Type Theoretic Environment in Python"
 
 # Date first published.
-date = "2019-08-09"
+date = "2018-08-14"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Ryan Brill"]
