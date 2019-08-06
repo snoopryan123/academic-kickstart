@@ -26,7 +26,7 @@ featured = true
 #publication_short = "In *ICA*"
 
 # Abstract and optional shortened version.
-abstract = "I discuss moneylines and implied win probability for sports games."
+abstract = "Nvidia blah blah blah."
 
 # Featured image thumbnail (optional)
 image_preview = ""
