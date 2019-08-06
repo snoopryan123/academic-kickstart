@@ -14,14 +14,15 @@
   weight = 15
 
 [[main]]
-  name = "Accomplishments"
-  url = "#accomplishments"
+  name = "Math Articles"
+  url = "#math-articles"
   weight = 20
 
 [[main]]
-  name = "Math Articles"
-  url = "#math-articles"
+  name = "Accomplishments"
+  url = "#accomplishments"
   weight = 25
+
 
 [[main]]
   name = "Posts"
@@ -39,9 +40,14 @@
   weight = 40
 
 [[main]]
+  name = "Personal"
+  url = "www.google.com"
+  weight = 40
+
+[[main]]
   name = "Contact"
   url = "#contact"
-  weight = 60
+  weight = 100
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
