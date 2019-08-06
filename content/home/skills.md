@@ -60,7 +60,6 @@ subtitle = ""
   description = ""
   
 [[feature]]
-  icon = "{{< figure library="true" src="icon-192.png" title="" lightbox="true" >}}"
   name = "FL Studio"
   description = ""
 
