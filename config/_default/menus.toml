@@ -56,8 +56,9 @@
   parent = "Personal"
   name = "Food"
    #pre = "<i class='fa fa-heart'></i>"
-   url = "/content/personal/food/"
+   url = "/blog/"
    weight = -110
+
 
 #######################################
 
