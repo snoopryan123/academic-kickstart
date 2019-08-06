@@ -7,6 +7,9 @@ date = "2018-07-14"
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Ryan Brill"]
 
+# Show up in `Featured Publications` section
+featured = true
+
 # Publication type.
 # Legend:
 # 0 = Uncategorized

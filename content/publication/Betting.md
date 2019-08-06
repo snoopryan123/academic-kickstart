@@ -7,6 +7,9 @@ title = "Betting and Basic Probability"
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Ryan Brill"]
 
+# Show up in `Featured Publications` section
+featured = true
+
 # Publication type.
 # Legend:
 # 0 = Uncategorized
