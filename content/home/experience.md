@@ -18,6 +18,17 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 #   date_end = "Present"  # this will create a filled in dot in css
+
+[[experience]]
+  title = ""
+  company = "Mathematics Honors Thesis"
+  company_url = ""
+  location = "UC Berkeley"
+  date_start = "2019-08-28"
+  date_end = "2020-05-15"
+  description = """Continuing RIPS Singapore, writing honors thesis on..."""
+  
+  
 [[experience]]
   title = "Undergraduate Researcher"
   company = "RIPS Singapore"
