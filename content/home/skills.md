@@ -18,24 +18,50 @@ subtitle = ""
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
-  description = "swag"
+  description = ""
   
 [[feature]]
   icon = "python"
   icon_pack = "fab"
   name = "Python"
-  description = "swag"  
+  description = ""  
   
 [[feature]]
   icon = "java"
   icon_pack = "fab"
   name = "Java"
-  description = "swag"
+  description = ""
   
 [[feature]]
   icon = "apple"
   icon_pack = "fab"
   name = "Swift"
-  description = "swag"
+  description = ""
+  
+[[feature]]
+  icon = "github"
+  icon_pack = "fab"
+  name = "Github"
+  description = ""
+  
+[[feature]]
+  name = "Latex"
+  description = ""
+  
+[[feature]]
+  name = "Coq"
+  description = ""
+  
+[[feature]]
+  name = "Excel"
+  description = ""
+  
+[[feature]]
+  name = "Photoshop"
+  description = ""
+  
+[[feature]]
+  name = "FL Studio"
+  description = ""
 
 +++
