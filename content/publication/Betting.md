@@ -2,7 +2,7 @@
 title = "Betting and Basic Probability"
 
 # Date first published.
-# date = "2018-04-23"
+date = "2018-04-23"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Ryan Brill"]

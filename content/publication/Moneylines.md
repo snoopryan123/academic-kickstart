@@ -2,7 +2,7 @@
 title = "Moneylines and Win Probability"
 
 # Date first published.
-# date = "2018-03-14"
+date = "2018-03-14"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Ryan Brill"]
