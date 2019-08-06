@@ -58,7 +58,7 @@ date_format = "Jan 2006"
   
 [[experience]]
   title = "Summer Intern"
-  company = "Stout Risius Ross"
+  company = "Stout"
   company_url = "https://www.stout.com/en/services/complex-securities-and-financial-instruments/"
   location = "Los Angeles, CA"
   date_start = "2018-06-04"
