@@ -5,7 +5,7 @@
 
 
 [[main]]
-  name = "Home"
+  name = "About"
   url = "#about"
   weight = 10
 
@@ -28,18 +28,13 @@
 
 [[main]]
   parent = "Math"
-  name = "Math Articles"
+  name = "Articles"
   url = "#featured"
 
 [[main]]
   parent = "Math"
   name = "Projects"
   url = "#projects"
-
-[[main]]
-  parent = "Math"
-  name = "Publications"
-  url = "#featured"
 
 #######################################
 

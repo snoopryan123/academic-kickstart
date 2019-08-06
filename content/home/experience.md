@@ -47,7 +47,7 @@ date_format = "Jan 2006"
   company_url = "http://calhat.com"
   location = "Berkeley, CA"
   date_start = "2016-08-23"
-  date_end = "2018-08-23"
+  date_end = "2018-09-23"
   description = """
   Responsibilities include:
   
