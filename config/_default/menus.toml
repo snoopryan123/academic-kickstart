@@ -9,12 +9,30 @@
   url = "#about"
   weight = 10
 
+[[main]]
+  identifier = "Math"
+  name = "Math"
+  url = "#contact"
+  weight = 12
+
+[[main]]
+  parent = "Math"
+  name = "CV"
+  url = "pdf/CV.pdf"
+
+[[main]]
+  parent = "Math"
+  name = "Math Articles"
+  url = "#math-articles"
+
+
+
 # Link to a PDF of your CV from the menu.
 # To enable, copy your CV to `static/pdf/cv.pdf` and uncomment the lines below.
 [[main]]
    name = "CV"
    url = "pdf/CV.pdf"
-   weight = 12
+   weight = 14
 
 [[main]]
   name = "Experience"
@@ -57,28 +75,21 @@
   url = "#contact"
   weight = 100
 
-[[main]]
-  identifier = "brand"
-  name = "brand"
-  url = "#contact"
-  weight = 101
+
+
+
 
 [[main]]
-  parent = "brand"
-  name = "nike"
-  url = "/brands/nike/"
-
-[[main]]
-  parent = "brand"
+  parent = "frand"
   name = "adidas"
-  url = "/brands/adidas/"
+  url = "/frands/adidas/"
 
-[[main.brands]]
-  name = "brand1"
-  url = "/brands/"
+[[main.frands]]
+  name = "frand1"
+  url = "/frands/"
   weight = 2
 
 [[main.brands]]
-  name = "brand2"
-  url = "/brands/"
+  name = "frand2"
+  url = "/frands/"
   weight = 3
