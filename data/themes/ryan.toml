@@ -5,7 +5,7 @@ name = "ryan"
 light = true
 
 # Primary
-primary = "#3B7EA1"
+primary = "#003262"#"#3B7EA1"
 # primary = "#00d1b2"
 # primary_light = "#00f1d2"
 # primary_dark = "#00c4a7"
@@ -15,7 +15,7 @@ link = "#0083e8"
 link_hover = "rgb(6, 59, 89)"
 
 # Menu
-menu_primary = "#3B7EA1"
+menu_primary = "#003262"#"#3B7EA1"
 menu_text = "#fff"
 menu_text_active = "#FDB515"
 menu_title = "#fff"
@@ -25,5 +25,5 @@ menu_title = "#fff"
 # menu_title = "#000"
 
 # Home sections
-home_section_odd = "rgb(255, 255, 255)"
-home_section_even = "#EEEEEE"#"rgb(247, 247, 247)"
+home_section_odd = "#FFFFFF"
+home_section_even = "rgb(247, 247, 247)"#"#EEEEEE"
