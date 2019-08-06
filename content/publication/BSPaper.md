@@ -1,8 +1,8 @@
 +++
-title = "A publication title, such as title of a paper"
+title = "Options Pricing"
 
 # Date first published.
-date = "2013-07-01"
+date = "2018-07-14"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["First author's name", "Second author's name"]
@@ -39,7 +39,7 @@ selected = true
 projects = []
 
 # Links (optional).
-url_pdf = "pdf/my-paper-name.pdf"
+url_pdf = "pdf/BSPaper.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
