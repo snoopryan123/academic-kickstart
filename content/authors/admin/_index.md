@@ -71,24 +71,12 @@ organizations:
 
 **About me**: I am a [math](https://math.berkeley.edu) faculty member at [UC Berkeley](https://www.berkeley.edu), where I am a member of the Theory Group.
 
-Current students: Haofeng (Fred) Zhang.
+Currently, I am a student at the [University of California, Berkeley](https://www.berkeley.edu) double majoring in [Mathematics](https://math.berkeley.edu) and [Statistics](https://statistics.berkeley.edu) and minoring in [Computer Science](https://eecs.berkeley.edu). I am a [Regents and Chancellors' Scholar](https://financialaid.berkeley.edu/regents-and-chancellors-scholarship). Once I graduate, I plan to further my studies and attain my Ph.D in applied mathematics/statistics.
 
-Current postdocs: Kyle Luh, Paris Syminelakis (starting 9/2019), Huacheng Yu (co-hosted with Madhu Sudan).
+Outside of class, I have used my math/statistics/CS knowledge by engaging in [undergraduate research](), joining the Berkeley math [directed reading program (DRP)](), interning at a [business valuation firm](), and writing lots of [code]().
 
-Former students:
+Also, as an undergraduate, I have led a [successful business](), made myriad [hip-hop instrumentals](), drawn beautiful works of [art](), [travelled the world], and eaten lots of [food]().
 
-Jarosław Błasiok. Junior Fellow, Simons Society of Fellows.
-Vasileios Nakos. Military service (Greece).
-Zhengyu Wang. Tower Research Capital.
-Former postdocs:
-
-Rasmus Kyng. Assistant Professor, ETH Zurich.
-Jakub Pachocki. Researcher, OpenAI.
-Yi Li. Assistant Professor, Nanyang Technological University.
-Other activities: AddisCoder, USVICoder, Workshop on chaining methods in computer science
-
-Notes on sketching and streaming algorithms from the TUM Summer School on Mathematical Methods for High-Dimensional Data Analysis.
-
-Notes on dimensionality reduction from the MADALGO Summer School on Streaming Algorithms.
+Please enjoy this picture of me at a [Husky Cafe](https://www.facebook.com/neverlandsiberians/) in Bangkok, Thailand.
 
 See also my [curriculum vitae](pdf/CV.pdf).
