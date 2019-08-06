@@ -17,6 +17,7 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+#   date_end = "Present"  # this will create a filled in dot in css
 [[experience]]
   title = "Undergraduate Researcher"
   company = "RIPS Singapore"
@@ -32,12 +33,12 @@ date_format = "Jan 2006"
   """
   
 [[experience]]
-  title = "Professor"
-  company = "DRP"
+  title = ""
+  company = "Berkeley Mathematics Directed Reading Program (DRP)"
   company_url = "https://math.berkeley.edu/wp/drp/"
   location = "UC Berkeley"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
+  date_start = "2019-01-22"
+  date_end = "2019-05-22"
   description = """Taught electronic engineering and researched semiconductor physics."""
 
 [[experience]]
@@ -46,7 +47,7 @@ date_format = "Jan 2006"
   company_url = "http://calhat.com"
   location = "Berkeley, CA"
   date_start = "2016-08-23"
-  date_end = "2018-05-23"
+  date_end = "2018" # "2018-08-23"
   description = """
   Responsibilities include:
   
