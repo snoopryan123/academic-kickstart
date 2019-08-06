@@ -50,14 +50,17 @@ subtitle = ""
   description = ""
   
 [[feature]]
+  icon = "img/icon-192.png"
   name = "Coq"
   description = ""
   
 [[feature]]
+  icon = "/img/icon-192.png"
   name = "Photoshop"
   description = ""
   
 [[feature]]
+  icon = "{{< figure library="true" src="icon-192.png" title="" lightbox="true" >}}"
   name = "FL Studio"
   description = ""
 
