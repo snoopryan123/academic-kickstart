@@ -45,7 +45,7 @@ subtitle = ""
   description = ""
   
 [[feature]]
-  icon = "img/icon-192.png"
+  icon = "![](img/icon-192.png)"
   name = "Latex"
   description = ""
   
