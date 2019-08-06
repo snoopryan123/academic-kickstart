@@ -55,9 +55,9 @@ education:
 #   link: https://github.com/gcushen
 # Link to a PDF of your CV from the About widget.
 # To enable, copy your CV to `static/pdf/CV.pdf` and uncomment the lines below.  
-- icon: cv
-  icon_pack: ai
-  link: pdf/CV.pdf
+# - icon: cv
+#   icon_pack: ai
+#   link: pdf/CV.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "ryansbrill@gmail.com"
