@@ -91,4 +91,4 @@ Notes on sketching and streaming algorithms from the TUM Summer School on Mathem
 
 Notes on dimensionality reduction from the MADALGO Summer School on Streaming Algorithms.
 
-See also my [curriculum vitae]({{< ref "pdf/CV.pdf" >}}).
+See also my [curriculum vitae](pdf/CV.pdf).
