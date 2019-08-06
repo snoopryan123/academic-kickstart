@@ -71,10 +71,10 @@ organizations:
 
 Currently, I am a student at the [University of California, Berkeley](https://www.berkeley.edu) double majoring in [Mathematics](https://math.berkeley.edu) and [Statistics](https://statistics.berkeley.edu) and minoring in [Computer Science](https://eecs.berkeley.edu). I am a [Regents and Chancellors' Scholar](https://financialaid.berkeley.edu/regents-and-chancellors-scholarship). Once I graduate, I plan to further my studies and attain my Ph.D in applied mathematics/statistics.
 
-Outside of class, I have used my math/statistics/CS knowledge by engaging in [undergraduate research](), joining the Berkeley math [directed reading program (DRP)](), interning at a [business valuation firm](), and writing lots of [code]().
+Outside of class, I have used my math/statistics/CS knowledge by engaging in [undergraduate research](#experience), joining the Berkeley math [directed reading program (DRP)](#experience), interning at a [business valuation firm](#experience), and writing lots of [code](#projects).
 
 Also, as an undergraduate, I have led a [successful business](), made myriad [hip-hop instrumentals](), drawn beautiful works of [art](), [travelled the world], and eaten lots of [food]().
 
 Please enjoy this picture of me at a [Husky Cafe](https://www.facebook.com/neverlandsiberians/) in Bangkok, Thailand.
 
-See also my [curriculum vitae](pdf/CV.pdf).
+See also my [**curriculum vitae**](pdf/CV.pdf).
