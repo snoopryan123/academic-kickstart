@@ -17,7 +17,7 @@ author = "admin"
 
 ## **Barbeque**
 
-#### Pappy's Smokehouse, St. Louis
+#### [Pappy's Smokehouse, St. Louis](https://www.pappyssmokehouse.com)
 
 1.5 hour line to get in. Tender baby back ribs, savory barbque sauce, unbeatable fries.
 
