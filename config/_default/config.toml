@@ -18,6 +18,8 @@ copyright = ""
 # Enable analytics by entering your Google Analytics tracking ID
 googleAnalytics = ""
 
+SectionPagesMenu = "main"
+
 ############################
 ## Advanced options below ##
 ############################
