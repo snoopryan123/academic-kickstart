@@ -55,7 +55,9 @@
 [[main]]
   parent = "Personal"
   name = "Food"
-  url = "personal/food"
+   #pre = "<i class='fa fa-heart'></i>"
+   url = "/content/personal/food/"
+   weight = -110
 
 #######################################
 
