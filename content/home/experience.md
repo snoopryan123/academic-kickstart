@@ -26,8 +26,8 @@ date_format = "Jan 2006"
   location = "UC Berkeley"
   date_start = "2019-08-28"
   date_end = "2020-05-15"
+  weight = 1
   description = """Continuing RIPS Singapore, writing honors thesis on..."""
-  
   
 [[experience]]
   title = "Undergraduate Researcher"
@@ -36,6 +36,7 @@ date_format = "Jan 2006"
   location = "Institute for Mathematical Sciences, Singapore"
   date_start = "2019-06-17"
   date_end = "2019-08-09"
+  weight = 2
   description = """
   FIXME
   
@@ -50,6 +51,7 @@ date_format = "Jan 2006"
   location = "UC Berkeley"
   date_start = "2019-01-22"
   date_end = "2019-05-22"
+  weight = 3
   description = """Taught electronic engineering and researched semiconductor physics."""
 
 [[experience]]
@@ -59,6 +61,7 @@ date_format = "Jan 2006"
   location = "Berkeley, CA"
   date_start = "2016-08-23"
   date_end = "2018-09-23"
+  weight = 4
   description = """
   Responsibilities include:
   
@@ -74,6 +77,7 @@ date_format = "Jan 2006"
   location = "Los Angeles, CA"
   date_start = "2018-06-04"
   date_end = "2018-08-10"
+  weight = 5
   description = """Taught electronic engineering and researched semiconductor physics."""
 
 +++
