@@ -5,7 +5,7 @@ title = "Exploring a Type Theoretic Environment in Python"
 date = "2018-08-14"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Ryan Brill"]
+authors = ["Ryan Brill", "Tianyu Liu", "Arshay Sheth", "Yutong Zou"]
 
 # Show up in `Featured Publications` section
 featured = true
