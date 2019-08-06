@@ -11,25 +11,21 @@
   weight = 1
 
 [[main]]
-  parent = "M1"
   name = "CV"
   url = "pdf/CV.pdf"
   weight = 2
 
 [[main]]
-  parent = "M1"
   name = "Experience"
   url = "#experience"
   weight = 3
 
 [[main]]
-  parent = "M1"
   name = "Articles"
   url = "#featured"
   weight = 4
 
 [[main]]
-  parent = "M1"
   name = "Projects"
   url = "#projects"
   weight = 5
