@@ -1,11 +1,11 @@
 +++
-title = "Exploring a Type Theoretic Environment for Python Library"
+title = "Moneylines and Win Probability"
 
 # Date first published.
-date = "2019-08-09"
+date = "2018-03-14"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Ryan Brill", "Tianyu Liu", "Arshay Sheth", "Yutong Zou"]
+authors = ["Ryan Brill"]
 
 # Show up in `Featured Publications` section
 featured = true
@@ -26,7 +26,7 @@ featured = true
 #publication_short = "In *ICA*"
 
 # Abstract and optional shortened version.
-abstract = "Nvidia blah blah blah"
+abstract = "I discuss moneylines and implied win probability for sports games."
 
 # Featured image thumbnail (optional)
 image_preview = ""
