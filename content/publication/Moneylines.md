@@ -2,7 +2,7 @@
 title = "Moneylines and Win Probability"
 
 # Date first published.
-# date = "2018-07-14"
+# date = "2018-03-14"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Ryan Brill"]
@@ -38,7 +38,7 @@ selected = true
 projects = []
 
 # Links (optional).
-url_pdf = "pdf/Betting.pdf"
+url_pdf = "pdf/Moneylines.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
