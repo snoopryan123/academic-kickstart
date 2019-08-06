@@ -3,10 +3,18 @@
 #     desired widget in your `content/home/` folder.
 #   The weight parameter defines the order that the links will appear in.
 
+
 [[main]]
   name = "Home"
   url = "#about"
   weight = 10
+
+# Link to a PDF of your CV from the menu.
+# To enable, copy your CV to `static/pdf/cv.pdf` and uncomment the lines below.
+[[main]]
+   name = "CV"
+   url = "pdf/CV.pdf"
+   weight = 12
 
 [[main]]
   name = "Experience"
@@ -49,9 +57,28 @@
   url = "#contact"
   weight = 100
 
-# Link to a PDF of your resume/CV from the menu.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# [[main]]
-#    name = "CV"
-#    url = "files/cv.pdf"
-#    weight = 70
+
+[[menu.main]]
+  identifier = "brand"
+  name = "brand"
+  url = "/brands/"
+
+[[menu.main]]
+  parent = "brand"
+  name = "nike"
+  url = "/brands/nike/"
+
+[[menu.main]]
+  parent = "brand"
+  name = "adidas"
+  url = "/brands/adidas/"
+
+[[menu.main.brands]]
+  name = "brand1"
+  url = "/brands/"
+  weight = 2
+
+[[menu.main.brands]]
+  name = "brand2"
+  url = "/brands/"
+  weight = 3
