@@ -15,7 +15,7 @@ superuser: true
 # Organizations/Affiliations
 organizations:
 - name: UC Berkeley
-  url: ""
+  url: "https://math.berkeley.edu"
 
 # Short bio (displayed in user profile at end of posts)
 # bio: Swag on heem
