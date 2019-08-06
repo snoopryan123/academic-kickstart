@@ -69,7 +69,7 @@ email: "ryansbrill@gmail.com"
 # - Visitors
 ---
 
-About me: I am an EECS faculty member at UC Berkeley, where I am a member of the Theory Group.
+**About me**: I am a [math](http://math.berkeley.edu) faculty member at UC Berkeley, where I am a member of the Theory Group.
 
 Current students: Haofeng (Fred) Zhang.
 
