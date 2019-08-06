@@ -5,7 +5,7 @@ title = "Options Pricing"
 date = "2018-07-14"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["First author's name", "Second author's name"]
+authors = ["Ryan Brill"]
 
 # Publication type.
 # Legend:
@@ -23,7 +23,7 @@ publication = "In *International Conference on Academic*. You may use *Markdown*
 publication_short = "In *ICA*"
 
 # Abstract and optional shortened version.
-abstract = "The abstract. Markdown and math can be used (note that math may require escaping as detailed in the red alert box below)."
+abstract = "Last summer, I interned in the Complex Securities Valuation group of Stout, a global valuation advisory firm. It was my job to find the value of exotic contracts such as the carried interest of a hedge fund and the earnout of an acquisition of one company by another. My boss wanted me to use a Black-Scholes framework to value these contracts, since they have option-like features. My coworkers, however, did not have the time or knowledge to teach me about options pricing and the Black-Scholes formula (and none of them were mathematicians). So, I took it upon myself to learn about the fundamentals of options pricing, and summarized what I learned here."
 abstract_short = "A short version of the abstract."
 
 # Featured image thumbnail (optional)
@@ -61,9 +61,9 @@ highlight = true
 
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
-[header]
-image = "headers/bubbles-wide.jpg"
-caption = "My caption 😄"
+# [header]
+# image = "headers/bubbles-wide.jpg"
+# caption = "My caption 😄"
 
 +++
 
