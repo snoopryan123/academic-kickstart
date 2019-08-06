@@ -16,11 +16,11 @@ authors = ["Ryan Brill"]
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["0"]
+# publication_types = ["0"]
 
 # Publication name and optional abbreviated version.
-publication = "In *International Conference on Academic*. You may use *Markdown* for italics etc."
-publication_short = "In *ICA*"
+#publication = "In *International Conference on Academic*. You may use *Markdown* for italics etc."
+#publication_short = "In *ICA*"
 
 # Abstract and optional shortened version.
 abstract = "Last summer, I interned in the Complex Securities Valuation group of Stout, a global valuation advisory firm. It was my job to find the value of exotic contracts such as the carried interest of a hedge fund and the earnout of an acquisition of one company by another. My boss wanted me to use a Black-Scholes framework to value these contracts, since they have option-like features. My coworkers, however, did not have the time or knowledge to teach me about options pricing and the Black-Scholes formula (and none of them were mathematicians). So, I took it upon myself to learn about the fundamentals of options pricing, and summarized what I learned here."
@@ -67,5 +67,5 @@ highlight = true
 
 +++
 
-Further details on your publication can be written here using *Markdown* for formatting. This text will be displayed on the Publication Detail page.
-
+FLast summer, I interned in the Complex Securities Valuation group of Stout, a global valuation advisory firm. It was my job to find the value of exotic contracts such as the carried interest of a hedge fund and the earnout of an acquisition of one company by another. My boss wanted me to use a Black-Scholes framework to value these contracts, since they have option-like features. My coworkers, however, did not have the time or knowledge to teach me about options pricing and the Black-Scholes formula (and none of them were mathematicians). So, I took it upon myself to learn about the fundamentals of options pricing, and summarized what I learned here."
+abstract_short = "A short version of the abstract.
