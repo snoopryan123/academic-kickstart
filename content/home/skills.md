@@ -45,15 +45,12 @@ subtitle = ""
   description = ""
   
 [[feature]]
+  icon = "img/icon-192.png"
   name = "Latex"
   description = ""
   
 [[feature]]
   name = "Coq"
-  description = ""
-  
-[[feature]]
-  name = "Excel"
   description = ""
   
 [[feature]]
