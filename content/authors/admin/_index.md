@@ -12,8 +12,6 @@ superuser: true
 # Role/position
 # role: 4th year undergraduate at UC Berkeley
 
-avatar = "portrait.jpg"
-
 # Organizations/Affiliations
 organizations:
 - name: UC Berkeley

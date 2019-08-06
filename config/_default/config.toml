@@ -25,6 +25,8 @@ googleAnalytics = ""
 # Name of Academic theme folder in `themes/`.
 theme = "academic"
 
+avatar = "portrait.jpg"
+
 # Get last modified date for content from Git?
 enableGitInfo = false
 
