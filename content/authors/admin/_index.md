@@ -69,6 +69,26 @@ email: "ryansbrill@gmail.com"
 # - Visitors
 ---
 
-Ryan Brill is a student at UC Berkeley
+About me: I am an EECS faculty member at UC Berkeley, where I am a member of the Theory Group.
 
-Hahahah you are tha G
+Current students: Haofeng (Fred) Zhang.
+
+Current postdocs: Kyle Luh, Paris Syminelakis (starting 9/2019), Huacheng Yu (co-hosted with Madhu Sudan).
+
+Former students:
+
+Jarosław Błasiok. Junior Fellow, Simons Society of Fellows.
+Vasileios Nakos. Military service (Greece).
+Zhengyu Wang. Tower Research Capital.
+Former postdocs:
+
+Rasmus Kyng. Assistant Professor, ETH Zurich.
+Jakub Pachocki. Researcher, OpenAI.
+Yi Li. Assistant Professor, Nanyang Technological University.
+Other activities: AddisCoder, USVICoder, Workshop on chaining methods in computer science
+
+Notes on sketching and streaming algorithms from the TUM Summer School on Mathematical Methods for High-Dimensional Data Analysis.
+
+Notes on dimensionality reduction from the MADALGO Summer School on Streaming Algorithms.
+
+See also my curriculum vitae.
