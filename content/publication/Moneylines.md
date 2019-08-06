@@ -1,5 +1,5 @@
 +++
-title = "Betting and Basic Probability"
+title = "Moneylines and Win Probability"
 
 # Date first published.
 # date = "2018-07-14"
@@ -23,7 +23,7 @@ authors = ["Ryan Brill"]
 #publication_short = "In *ICA*"
 
 # Abstract and optional shortened version.
-abstract = "I discuss a fundamental probabilistic strategy in sports betting and poker."
+abstract = "I discuss moneylines and implied win probability for sports games."
 
 # Featured image thumbnail (optional)
 image_preview = ""
