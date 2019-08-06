@@ -13,9 +13,9 @@ superuser: true
 # role: 4th year undergraduate at UC Berkeley
 
 # Organizations/Affiliations
-# organizations:
-# - name: UC Berkeley
-#   url: ""
+organizations:
+- name: UC Berkeley
+  url: ""
 
 # Short bio (displayed in user profile at end of posts)
 # bio: Swag on heem
