@@ -57,28 +57,28 @@
   url = "#contact"
   weight = 100
 
-
-[[menu.main]]
+[[main]]
   identifier = "brand"
   name = "brand"
-  url = "/brands/"
+  url = "#contact"
+  weight = 101
 
-[[menu.main]]
+[[main]]
   parent = "brand"
   name = "nike"
   url = "/brands/nike/"
 
-[[menu.main]]
+[[main]]
   parent = "brand"
   name = "adidas"
   url = "/brands/adidas/"
 
-[[menu.main.brands]]
+[[main.brands]]
   name = "brand1"
   url = "/brands/"
   weight = 2
 
-[[menu.main.brands]]
+[[main.brands]]
   name = "brand2"
   url = "/brands/"
   weight = 3
