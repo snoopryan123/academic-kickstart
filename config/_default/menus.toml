@@ -9,19 +9,29 @@
   weight = 10
 
 [[main]]
-  name = "Fudge"
-  url = "#about"
+  name = "Experience"
+  url = "#experience"
   weight = 15
+
+[[main]]
+  name = "Accomplishments"
+  url = "#accomplishments"
+  weight = 20
+
+[[main]]
+  name = "Math Articles"
+  url = "#math-articles"
+  weight = 25
 
 [[main]]
   name = "Posts"
   url = "#posts"
-  weight = 20
+  weight = 30
 
 [[main]]
   name = "Projects"
   url = "#projects"
-  weight = 30
+  weight = 35
 
 [[main]]
   name = "Publications"

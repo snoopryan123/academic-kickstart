@@ -23,7 +23,7 @@ authors = ["Ryan Brill"]
 #publication_short = "In *ICA*"
 
 # Abstract and optional shortened version.
-abstract = "Here are two derivations of the Black-Scholes Formula."
+abstract = "Last summer, I interned in the Complex Securities Valuation group of Stout, a global valuation advisory firm. It was my job to find the value of exotic contracts such as the carried interest of a hedge fund and the earnout of an acquisition of one company by another. My boss wanted me to use a Black-Scholes framework to value these contracts, since they have option-like features. My coworkers, however, did not have the time or knowledge to teach me about options pricing and the Black-Scholes formula (and none of them were mathematicians). So, I took it upon myself to learn about the fundamentals of options pricing, and summarized what I learned here."
 abstract_short = "Here are two derivations of the Black-Scholes Formula."
 
 # Featured image thumbnail (optional)
@@ -66,6 +66,4 @@ highlight = true
 # caption = "My caption 😄"
 
 +++
-
-L"ast summer, I interned in the Complex Securities Valuation group of Stout, a global valuation advisory firm. It was my job to find the value of exotic contracts such as the carried interest of a hedge fund and the earnout of an acquisition of one company by another. My boss wanted me to use a Black-Scholes framework to value these contracts, since they have option-like features. My coworkers, however, did not have the time or knowledge to teach me about options pricing and the Black-Scholes formula (and none of them were mathematicians). So, I took it upon myself to learn about the fundamentals of options pricing, and summarized what I learned here."
 
