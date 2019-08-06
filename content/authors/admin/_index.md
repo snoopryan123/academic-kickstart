@@ -69,7 +69,7 @@ organizations:
 # - Visitors
 ---
 
-**About me**: I am a [math](http://math.berkeley.edu) faculty member at UC Berkeley, where I am a member of the Theory Group.
+**About me**: I am a [math](https://math.berkeley.edu) faculty member at [UC Berkeley](https://www.berkeley.edu), where I am a member of the Theory Group.
 
 Current students: Haofeng (Fred) Zhang.
 
@@ -91,4 +91,4 @@ Notes on sketching and streaming algorithms from the TUM Summer School on Mathem
 
 Notes on dimensionality reduction from the MADALGO Summer School on Streaming Algorithms.
 
-See also my curriculum vitae.
+See also my [curriculum vitae]({{< ref "pdf/CV.pdf" >}}).
