@@ -24,7 +24,7 @@
 [[main]]
   parent = "Math"
   name = "Math Articles"
-  url = "#math-articles"
+  url = "#featured"
 
 [[main]]
   parent = "Math"
