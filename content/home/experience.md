@@ -57,10 +57,10 @@ date_format = "Jan 2006"
 [[experience]]
   title = "CEO and Co-Founder"
   company = "Calhat Enterprises"
-  company_url = "http://calhat.com"
+  company_url = "/calhat/"
   location = "Berkeley, CA"
   date_start = "2016-08-23"
-  date_end = "2018-09-23"
+  date_end = "Present"
   weight = 4
   description = """
   Responsibilities include:

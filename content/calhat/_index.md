@@ -11,9 +11,9 @@ weight = 10  # Order that this section will appear in.
 author = "admin"
 +++
 
-# Calhat
+# What is calhat?
 
-*What* is calhat? You're wrong. Calhat is not a *what*. It is not merely a tangible object. 
+You're wrong. Calhat is not a *what*. It is not merely a tangible object. 
 
 
 
