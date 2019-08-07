@@ -44,6 +44,12 @@
 
 [[main]]
   parent = "Personal"
+  name = "calhat"
+  url = "/calhat/"
+  weight = 10
+
+[[main]]
+  parent = "Personal"
   name = "Music"
   url = "/music/"
   weight = 20
