@@ -50,15 +50,21 @@ date_format = "Jan 2006"
   title = "Undergraduate Researcher"
   company = "RIPS Singapore"
   company_url = "https://www.ipam.ucla.edu/programs/student-research-programs/research-in-industrial-projects-for-students-rips-2019-singapore/"
-  location = "Institute for Mathematical Sciences, Singapore"
+  location = "National University of Singapore, Singapore"
   date_start = "2019-06-17"
   date_end = "2019-08-09"
   weight = 2
   description = """
-  FIXME
-  
-  * swag
-  * swag
+* Led a research group of undergraduate in the RIPS Singapore program (Research in Industrial Projects for Students) at the IMS (Institute for Mathematical Sciences) at NUS (National University of Singapore)
+* Sponsored by Nvidia, my project was entitled “Exploring a Type-Theoretic Environment for Python”
+* Type theory is an alternative to Set Theory, and it is easier for a computer to check type-theoretic proofs
+* Current type-theoretic theorem provers like Coq are robust, but have a steep learning curve and are difficult to use, so Nvidia wanted us to explore creating a type-theoretic theorem proving environment in Python, with emphasis on ease-of-use and ability to link to Nvidia’s ML and AI algorithms
+* Learned about type theory, building a theorem prover, and Coq
+* Created a prototype Python library
+* Wrote a paper which we gave to our sponsor at Nvidia
+* Presented at IMS in front of professors and industry professionals
+* Will give a poster presentation at the Joint Math Meetings (JMM) Conference in Denver in
+January 2020
   """
   
 [[experience]]
