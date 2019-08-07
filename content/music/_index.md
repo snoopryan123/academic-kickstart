@@ -10,9 +10,7 @@ gallery_item:
 
 # I've been to some delicious restaurants around the world. Here are some favorites!
 
-![FFFF image](/img/icon-512.png)
-
-![ image](/static/img/icon-512.png)
+![](/img/icon-512.png)
 
 ## **Barbeque**
 
