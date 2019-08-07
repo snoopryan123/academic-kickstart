@@ -28,7 +28,7 @@ date_format = "Jan 2006"
   date_end = ""
   weight = 4
   description = """
-* Created “Calhat,” a “street” hat brand marketed to university students with branches at 5 universities: “[calhat](https://www.instagram.com/officialcalhat/)” ([UC Berkeley](https://www.berkeley.edu)), “[cusehat](https://www.instagram.com/cusehat/)” ([Syracuse](https://www.syracuse.edu)), “[slughat](https://www.instagram.com/slughat/)” ([UC Santa Cruz](https://www.ucsc.edu)), “[statehat](https://www.instagram.com/statehat/)” ([San Diego State](https://www.sdsu.edu)), and “wildhat” ([Chico State](https://www.csuchico.edu))
+* Created [calhat](/calhat/), a "street" hat brand marketed to university students with branches at 5 universities: [calhat](https://www.instagram.com/officialcalhat/) ([UC Berkeley](https://www.berkeley.edu)), [cusehat](https://www.instagram.com/cusehat/) ([Syracuse](https://www.syracuse.edu)), [slughat](https://www.instagram.com/slughat/) ([UC Santa Cruz](https://www.ucsc.edu)), [statehat](https://www.instagram.com/statehat/) ([San Diego State](https://www.sdsu.edu)), and wildhat ([Chico State](https://www.csuchico.edu))
 * Found and engaged supplier in China through [Alibaba](https://www.alibaba.com) to manufacture thousands of hats
 * Led guerilla marketing/branding campaign
 * To learn more, click [here](/calhat/)
