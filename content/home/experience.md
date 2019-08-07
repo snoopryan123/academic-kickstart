@@ -26,7 +26,7 @@ date_format = "Jan 2006"
   location = "Berkeley, CA"
   date_start = "2016-08-23"
   date_end = ""
-  weight = 4
+  weight = 5
   description = """
 * Created [calhat](/calhat/), a "street" hat brand marketed to university students with branches at 5 universities: [calhat](https://www.instagram.com/officialcalhat/) ([UC Berkeley](https://www.berkeley.edu)), [statehat](https://www.instagram.com/statehat/) ([San Diego State](https://www.sdsu.edu)), [cusehat](https://www.instagram.com/cusehat/) ([Syracuse](https://www.syracuse.edu)), [slughat](https://www.instagram.com/slughat/) ([UC Santa Cruz](https://www.ucsc.edu)), and wildhat ([Chico State](https://www.csuchico.edu))
 * Found and engaged supplier in China through [Alibaba](https://www.alibaba.com) to manufacture thousands of hats
@@ -73,7 +73,7 @@ January 2020
   date_end = "2019-05-22"
   weight = 3
   description = """
-* Read Evans’ [“An Introduction to Stochastic Differential Equations”](http://ft-sipil.unila.ac.id/dbooks/AN%20INTRODUCTION%20TO%20STOCHASTIC%20DIFFERENTIAL%20EQUATIONS%20VERSION%201.2.pdf) alongside a [mathematics PhD candidate](https://math.berkeley.edu/people/grad/hong-suh) who studies PDEs and probability
+* Read Evans’ [An Introduction to Stochastic Differential Equations](http://ft-sipil.unila.ac.id/dbooks/AN%20INTRODUCTION%20TO%20STOCHASTIC%20DIFFERENTIAL%20EQUATIONS%20VERSION%201.2.pdf) alongside a [mathematics PhD candidate](https://math.berkeley.edu/people/grad/hong-suh) who studies PDEs and probability
 * Learned about Brownian motion (including proofs of its construction, almost-sure continuity, and nowhere differentiability), the Ito Integral, Ito’s product rule, Ito’s Chain rule, Existence and Uniqueness theorems, its connection to finance, and most interestingly, its connection to PDEs (for instance, certain PDEs involving the Laplacian and the Feynman-Kac Formula have stochastic solutions)
 * Wrote a Beamer presentation summarizing the field of SDEs, and gave a presentation to the
 Berkeley math community
@@ -86,7 +86,7 @@ Berkeley math community
   location = "UC Berkeley"
   date_start = "2018-01-16"
   date_end = "2018-12-14"
-  weight = 5
+  weight = 4
   description = """
 * Assist Business School professor and psychology Ph.D. candidate with study to understand how the brain computes and represents values that allow an individual to make economic decisions
 * Build and maintain a [Pygame](https://www.pygame.org/news) program, used in conjunction with a [dynamometer](https://en.wikipedia.org/wiki/Dynamometer), to present
@@ -94,4 +94,19 @@ participants with incentivized (paid) choice dilemmas and measure their reaction
 * Collected and analyzed data to develop model to predict decision making
   """
 
+[[experience]]
+  title = "Creator"
+  company = "Atme"
+  company_url = "https://github.com/snoopryan123/atme"
+  location = "Berkeley, CA"
+  date_start = "2018-01-23"
+  date_end = "2018-06-16"
+  weight = 6
+  description = """
+* Created [Atme](https://github.com/snoopryan123/atme), a social media app inspired by the flaws of [Instagram](https://www.instagram.com)
+* Rather than posting about yourself to show off how “cool” and “attractive” you are, you can only
+make posts directed at someone else, and your profile is comprised of what everyone else has said
+about you
+* Written in [Swift](https://developer.apple.com/swift/), connected to [Firebase](https://firebase.google.com)
+* Still under development
 +++
