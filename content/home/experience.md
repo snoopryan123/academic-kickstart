@@ -28,11 +28,10 @@ date_format = "Jan 2006"
   date_end = ""
   weight = 4
   description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+* Created “Calhat,” a “street” hat brand marketed to university students with branches at 5 universities: “calhat” ([UC Berkeley](https://www.berkeley.edu)), “cusehat” ([Syracuse](https://www.syracuse.edu)), “slughat” ([UC Santa Cruz](https://www.ucsc.edu)), “statehat” ([San Diego State](https://www.sdsu.edu)), and “wildhat” ([Chico State](https://www.csuchico.edu))
+* Found and engaged supplier in China through [Alibaba](https://www.alibaba.com) to manufacture thousands of hats
+* Led guerilla marketing/branding campaign
+* To learn more, click [here](/calhat/)
   """
   
 [[experience]]
