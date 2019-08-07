@@ -40,9 +40,11 @@ date_format = "Jan 2006"
   company_url = ""
   location = "UC Berkeley"
   date_start = "2019-08-28"
-  date_end = "2020-05-15"
+  date_end = ""
   weight = 1
-  description = """Continuing RIPS Singapore, writing honors thesis on..."""
+  description = """
+  Continuing my research done at the summer 2019 [RIPS Singapore](#experience) program, detailed below, in my thesis I will explore Type Theory in greater depth and attempt to implement an extensive type-theoretic theorem prover in Python.
+  """
   
 [[experience]]
   title = "Undergraduate Researcher"
