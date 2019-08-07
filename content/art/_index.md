@@ -42,6 +42,15 @@ height = ""
   overlay_color = "#555"  # An HTML color value.
   overlay_img = "/img/icon-192.png"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+  
+[[item]]
+  title = "Center"
+  content = "I am left aligned :smile:"
+  align = "Center"
+
+  overlay_color = "#555"  # An HTML color value.
+  overlay_img = "img/icon-192.png"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
 [[item]]
   title = "Right"
@@ -53,4 +62,4 @@ height = ""
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 +++
 
-**FFF**
+**FFFF**
