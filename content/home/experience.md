@@ -73,20 +73,25 @@ January 2020
   date_end = "2019-05-22"
   weight = 3
   description = """
-* Read Evans’ “An Introduction to Stochastic Differential Equations” with a mathematics PhD candidate who studies PDEs and probability
+* Read Evans’ “An Introduction to Stochastic Differential Equations” alongside a mathematics PhD candidate who studies PDEs and probability
 * Learned about Brownian motion (including proofs of its construction, almost-sure continuity, and nowhere differentiability), the Ito Integral, Ito’s product rule, Ito’s Chain rule, Existence and Uniqueness theorems, its connection to finance, and most interestingly, its connection to PDEs (for instance, certain PDEs involving the Laplacian and the Feynman-Kac Formula have stochastic solutions)
 * Wrote a Beamer presentation summarizing the field of SDEs, and gave a presentation to the
 Berkeley math community
   """
   
 [[experience]]
-  title = "Summer Intern"
-  company = "Stout"
+  title = "Research Assistant"
+  company = "UC Berkeley Neuroeconomics Lab"
   company_url = "https://www.stout.com/en/services/complex-securities-and-financial-instruments/"
   location = "Los Angeles, CA"
-  date_start = "2018-06-04"
-  date_end = "2018-08-10"
+  date_start = "2018-01-16"
+  date_end = "2018-12-14"
   weight = 5
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  description = """
+* Assist Business School professor and psychology Ph.D. candidate with study to understand how the brain computes and represents values that allow an individual to make his economic decisions
+* Build and maintain a Pygame program, used in conjunction with a dynamometer, to present
+participants with incentivized (paid) choice dilemmas and measure their reactions
+* Collected and analyzed data to develop model to predict decision making
+  """
 
 +++
