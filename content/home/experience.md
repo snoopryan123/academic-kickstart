@@ -89,7 +89,7 @@ Berkeley math community
   weight = 5
   description = """
 * Assist Business School professor and psychology Ph.D. candidate with study to understand how the brain computes and represents values that allow an individual to make his economic decisions
-* Build and maintain a Pygame program, used in conjunction with a dynamometer, to present
+* Build and maintain a [Pygame](https://www.pygame.org/news) program, used in conjunction with a [dynamometer](https://en.wikipedia.org/wiki/Dynamometer), to present
 participants with incentivized (paid) choice dilemmas and measure their reactions
 * Collected and analyzed data to develop model to predict decision making
   """
