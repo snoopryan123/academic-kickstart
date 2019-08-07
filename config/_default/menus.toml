@@ -30,6 +30,11 @@
   url = "#projects"
   weight = 5
 
+[[main]]
+  name = "Contact"
+  url = "#contact"
+  weight = 10
+
 #######################################
 
 [[main]]
@@ -58,12 +63,6 @@
 
 
 #######################################
-
-[[main]]
-  name = "Contact"
-  url = "#contact"
-  weight = 100
-
 
 
 # [[main]]
