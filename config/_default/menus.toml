@@ -40,20 +40,20 @@
 [[main]]
   parent = "Personal"
   name = "Music"
-  url = "personal/music"
+  url = "/music/"
   weight = 20
 
 [[main]]
   parent = "Personal"
   name = "Art"
-  url = "personal/art"
+  url = "/art/"
   weight = 30
 
 [[main]]
   parent = "Personal"
   name = "Food"
    #pre = "<i class='fa fa-heart'></i>"
-   url = "/personal/food/"
+   url = "/food/"
    weight = 50
 
 
