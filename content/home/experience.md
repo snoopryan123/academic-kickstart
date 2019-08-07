@@ -17,8 +17,24 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
-#   date_end = "Present"  # this will create a filled in dot in css
+#   date_end = ""  # this will create a filled in dot in css
 
+[[experience]]
+  title = "CEO and Co-Founder"
+  company = "Calhat Enterprises"
+  company_url = "/calhat/"
+  location = "Berkeley, CA"
+  date_start = "2016-08-23"
+  date_end = ""
+  weight = 4
+  description = """
+  Responsibilities include:
+  
+  * Analysing
+  * Modelling
+  * Deploying
+  """
+  
 [[experience]]
   title = ""
   company = "Mathematics Honors Thesis"
@@ -53,22 +69,6 @@ date_format = "Jan 2006"
   date_end = "2019-05-22"
   weight = 3
   description = """Taught electronic engineering and researched semiconductor physics."""
-
-[[experience]]
-  title = "CEO and Co-Founder"
-  company = "Calhat Enterprises"
-  company_url = "/calhat/"
-  location = "Berkeley, CA"
-  date_start = "2016-08-23"
-  date_end = "Present"
-  weight = 4
-  description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
-  """
   
 [[experience]]
   title = "Summer Intern"
