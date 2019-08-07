@@ -55,12 +55,12 @@ date_format = "Jan 2006"
   date_end = "2019-08-09"
   weight = 2
   description = """
-* Led a group of undergraduates in RIPS (Research in Industrial Projects for Students) at the IMS (Institute for Mathematical Sciences) at NUS (National University of Singapore)
+* Led a group of undergraduates in RIPS (Research in Industrial Projects for Students) at NUS (National University of Singapore)
 * Sponsored by Nvidia, my project was entitled “Exploring a Type-Theoretic Environment for Python”
 * Type theory is an alternative to Set Theory, and it is easier for a computer to check type-theoretic proofs
 * Current type-theoretic theorem provers like Coq are robust, but have a steep learning curve and are difficult to use, so Nvidia wanted us to explore creating a type-theoretic theorem proving environment in Python, with emphasis on ease-of-use and ability to link to Nvidia’s ML and AI algorithms
 * Learned about type theory, building a theorem prover, Coq, how to work on math in a team, how to write an extensive math report, and how to give a mathematics talk
-* Will give a poster presentation at the Joint Math Meetings (JMM) Conference in Denver in
+* Will give a poster presentation at the Joint Math Meetings (JMM) in Denver in
 January 2020
   """
   
@@ -73,7 +73,7 @@ January 2020
   date_end = "2019-05-22"
   weight = 3
   description = """
-* Read Lawrence Evans’ “An Introduction to Stochastic Differential Equations” with a mathematics PhD candidate who studies PDEs and probability
+* Read Evans’ “An Introduction to Stochastic Differential Equations” with a mathematics PhD candidate who studies PDEs and probability
 * Learned about Brownian motion (including proofs of its construction, almost-sure continuity, and nowhere differentiability), the Ito Integral, Ito’s product rule, Ito’s Chain rule, Existence and Uniqueness theorems, its connection to finance, and most interestingly, its connection to PDEs (for instance, certain PDEs involving the Laplacian and the Feynman-Kac Formula have stochastic solutions)
 * Wrote a Beamer presentation summarizing the field of SDEs, and gave a presentation to the
 Berkeley math community
