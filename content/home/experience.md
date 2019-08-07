@@ -81,9 +81,9 @@ Berkeley math community
   
 [[experience]]
   title = "Research Assistant"
-  company = "UC Berkeley Neuroeconomics Lab"
+  company = "[UC Berkeley Neuroeconomics Lab](http://neuroecon.berkeley.edu)"
   company_url = "https://www.stout.com/en/services/complex-securities-and-financial-instruments/"
-  location = "Los Angeles, CA"
+  location = "UC Berkeley"
   date_start = "2018-01-16"
   date_end = "2018-12-14"
   weight = 5
