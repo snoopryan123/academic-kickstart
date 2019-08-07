@@ -7,6 +7,9 @@ gallery_item:
   image: https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-dark.png
   caption: Another caption
 ---
++++
+author = "admin"
++++
 
 # I've been to some delicious restaurants around the world. Here are some favorites!
 

@@ -11,7 +11,7 @@ weight = 10  # Order that this section will appear in.
 author = "admin"
 +++
 
-# I've been to delicious restaurants around the world.
+# I've been to some delicious restaurants around the world.
 
 ## **Barbeque**
 
