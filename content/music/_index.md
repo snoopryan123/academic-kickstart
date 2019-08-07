@@ -19,8 +19,4 @@ author = "admin"
 #### [Luge Livin](https://drive.google.com/file/d/18xLYk5TKMm7iHnb1tG_ykPjhTABJ9STP/view?usp=sharing)
 
 
-{{< myshortcode >}}
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-  <iframe src="//player.vimeo.com/video/146022717" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
- </div>
- {{< /myshortcode >}}}
+{{< youtube 8GeEB5ZARO4>}}
