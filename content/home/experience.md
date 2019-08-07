@@ -72,7 +72,12 @@ January 2020
   date_start = "2019-01-22"
   date_end = "2019-05-22"
   weight = 3
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  description = """
+* Read Lawrence Evans’ “An Introduction to Stochastic Differential Equations” with a mathematics PhD candidate who studies PDEs and probability
+* Learned about Brownian motion (including proofs of its construction, almost-sure continuity, and nowhere differentiability), the Ito Integral, Ito’s product rule, Ito’s Chain rule, Existence and Uniqueness theorems, its connection to finance, and most interestingly, its connection to PDEs (for instance, certain PDEs involving the Laplacian and the Feynman-Kac Formula have stochastic solutions)
+* Wrote a Beamer presentation summarizing the field of SDEs, and gave a presentation to the
+Berkeley math community
+  """
   
 [[experience]]
   title = "Summer Intern"
