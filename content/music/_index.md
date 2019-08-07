@@ -10,6 +10,10 @@ gallery_item:
 
 # I've been to some delicious restaurants around the world. Here are some favorites!
 
+![FFFF image](/icon-512.png)
+
+![ image](/static/icon-512.png)
+
 ## **Barbeque**
 
 #### [Pappy's Smokehouse, St. Louis](https://www.pappyssmokehouse.com)
