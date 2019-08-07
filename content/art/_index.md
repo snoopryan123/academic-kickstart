@@ -1,5 +1,5 @@
 +++
-title = "Art"
+
 +++
 
 ## **I have been drawing since I was 10 years old. I have completed around 500 drawings. Here are some highlights.**
