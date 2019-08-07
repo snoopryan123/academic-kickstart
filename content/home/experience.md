@@ -35,8 +35,8 @@ date_format = "Jan 2006"
   """
   
 [[experience]]
-  title = ""
-  company = "Mathematics Honors Thesis"
+  title = "Mathematics Honors Thesis"
+  company = ""
   company_url = ""
   location = "UC Berkeley"
   date_start = "2019-08-28"
@@ -73,7 +73,7 @@ January 2020
   date_end = "2019-05-22"
   weight = 3
   description = """
-* Read Evans’ “An Introduction to Stochastic Differential Equations” alongside a mathematics PhD candidate who studies PDEs and probability
+* Read Evans’ [“An Introduction to Stochastic Differential Equations”](http://ft-sipil.unila.ac.id/dbooks/AN%20INTRODUCTION%20TO%20STOCHASTIC%20DIFFERENTIAL%20EQUATIONS%20VERSION%201.2.pdf) alongside a [mathematics PhD candidate](https://math.berkeley.edu/people/grad/hong-suh) who studies PDEs and probability
 * Learned about Brownian motion (including proofs of its construction, almost-sure continuity, and nowhere differentiability), the Ito Integral, Ito’s product rule, Ito’s Chain rule, Existence and Uniqueness theorems, its connection to finance, and most interestingly, its connection to PDEs (for instance, certain PDEs involving the Laplacian and the Feynman-Kac Formula have stochastic solutions)
 * Wrote a Beamer presentation summarizing the field of SDEs, and gave a presentation to the
 Berkeley math community
@@ -88,7 +88,7 @@ Berkeley math community
   date_end = "2018-12-14"
   weight = 5
   description = """
-* Assist Business School professor and psychology Ph.D. candidate with study to understand how the brain computes and represents values that allow an individual to make his economic decisions
+* Assist Business School professor and psychology Ph.D. candidate with study to understand how the brain computes and represents values that allow an individual to make economic decisions
 * Build and maintain a [Pygame](https://www.pygame.org/news) program, used in conjunction with a [dynamometer](https://en.wikipedia.org/wiki/Dynamometer), to present
 participants with incentivized (paid) choice dilemmas and measure their reactions
 * Collected and analyzed data to develop model to predict decision making
