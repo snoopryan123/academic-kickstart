@@ -1,16 +1,9 @@
 +++
-# About widget.
+# Slider widget.
 widget = "slider"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = false  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 10  # Order that this section will appear in.
-
-title = "Art"
-
-# Choose the user profile to display
-# This should be the username of a profile in your `content/authors/` folder.
-# See https://sourcethemes.com/academic/docs/get-started/#introduce-yourself
-author = "admin"
+weight = 1  # Order that this section will appear.
 
 # Slide interval.
 # Use `false` to disable animation or enter a time in ms, e.g. `5000` (5s).
@@ -58,15 +51,4 @@ height = ""
   overlay_color = "#333"  # An HTML color value.
   overlay_img = ""  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
-
 +++
-
-# I've been to some delicious restaurants around the world. Here are some favorites!
-
-## **Barbeque**
-
-#### [Pappy's Smokehouse, St. Louis](https://www.pappyssmokehouse.com)
-
-1.5 hour line to get in. Tender baby back ribs, savory barbque sauce, unbeatable fries.
-
-
