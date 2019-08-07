@@ -109,4 +109,5 @@ make posts directed at someone else, and your profile is comprised of what every
 about you
 * Written in [Swift](https://developer.apple.com/swift/), connected to [Firebase](https://firebase.google.com)
 * Still under development
+  """
 +++
