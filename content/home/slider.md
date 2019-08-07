@@ -2,7 +2,7 @@
 # Slider widget.
 widget = "slider"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
+active = false  # Activate this widget? true/false
 weight = 1  # Order that this section will appear.
 
 # Slide interval.
@@ -40,7 +40,7 @@ height = ""
   align = "left"
 
   overlay_color = "#555"  # An HTML color value.
-  overlay_img = "/img/icon-192.png"  # Image path relative to your `static/img/` folder.
+  overlay_img = "/icon-192.png"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
   
 [[item]]
@@ -49,7 +49,7 @@ height = ""
   align = "Center"
 
   overlay_color = "#555"  # An HTML color value.
-  overlay_img = "img/icon-192.png"  # Image path relative to your `static/img/` folder.
+  overlay_img = "/icon-192.png"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
 [[item]]

@@ -40,7 +40,7 @@ height = ""
   align = "left"
 
   overlay_color = "#555"  # An HTML color value.
-  overlay_img = "/img/icon-192.png"  # Image path relative to your `static/img/` folder.
+  overlay_img = "/icon-192.png"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
   
 [[item]]
@@ -49,7 +49,7 @@ height = ""
   align = "Center"
 
   overlay_color = "#555"  # An HTML color value.
-  overlay_img = "img/icon-192.png"  # Image path relative to your `static/img/` folder.
+  overlay_img = "/icon-192.png"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
 [[item]]
@@ -62,4 +62,10 @@ height = ""
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 +++
 
-**FFFF**
+**I have been drawing since I was 10 years old. I have completed around 500 drawings. Here are some highlights.**
+
+![Pink Floyd Album Compilation](/img/icon-512.png)
+
+![Radiohead Album Compliation](/img/icon-512.png)
+
+![Blah](/img/icon-512.png)
