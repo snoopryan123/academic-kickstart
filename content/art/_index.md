@@ -62,10 +62,16 @@ height = ""
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 +++
 
-**I have been drawing since I was 10 years old. I have completed around 500 drawings. Here are some highlights.**
+# **I have been drawing since I was 10 years old. I have completed around 500 drawings. Here are some highlights.**
 
-![Pink Floyd Album Compilation](/img/icon-512.png)
+#### Pink Floyd Album Compilation, 2013:
 
-![Radiohead Album Compliation](/img/icon-512.png)
+![](/img/icon-512.png)
 
-![Blah](/img/icon-512.png)
+#### Radiohead Floyd Album Compilation, 2016:
+
+![](/img/icon-512.png)
+
+#### Singapore, 2019:
+
+![](/img/icon-512.png)
