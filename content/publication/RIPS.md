@@ -26,7 +26,7 @@ featured = true
 #publication_short = "In *ICA*"
 
 # Abstract and optional shortened version.
-abstract = "Nvidia blah blah blah."
+abstract = "This is the paper my group wrote for the [RIPS Singapore](#experience) REU."
 
 # Featured image thumbnail (optional)
 image_preview = ""
