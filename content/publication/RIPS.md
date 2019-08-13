@@ -41,7 +41,7 @@ selected = true
 projects = []
 
 # Links (optional).
-url_pdf = "pdf/Moneylines.pdf"
+url_pdf = "pdf/RIPS_Report.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
