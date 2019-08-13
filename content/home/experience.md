@@ -60,6 +60,7 @@ date_format = "Jan 2006"
 * [Type theory](https://en.wikipedia.org/wiki/Type_theory) is an alternative to [Set Theory](https://en.wikipedia.org/wiki/Set_theory), and it is easier for a computer to check type-theoretic proofs
 * Current type-theoretic theorem provers like [Coq](https://coq.inria.fr) are robust, but have a steep learning curve and are difficult to use, so Nvidia wanted us to explore creating a type-theoretic theorem proving environment in Python, with emphasis on ease-of-use and ability to link to Nvidia’s ML and AI algorithms
 * Learned about type theory, building a theorem prover, Coq, how to work on math in a team, how to write an extensive math report, and how to give a mathematics talk
+* Wrote a [paper](pdf/RIPS_Report.pdf) summarizing what we did
 * Will give a poster presentation at JMM ([Joint Math Meetings](http://jointmathematicsmeetings.org)) in Denver in
 January 2020
   """
