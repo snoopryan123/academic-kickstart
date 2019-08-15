@@ -15,7 +15,7 @@ author = "admin"
 
 ## **Thailand**
 
-#### [Bangkok](https://www.pappyssmokehouse.com)
+#### Bangkok
 
 itinerary
 * cool
@@ -23,16 +23,71 @@ itinerary
 
 ## **Malaysia**
 
-#### [Kuala Lumpur](http://www.hostariaromana.it)
+#### Kuala Lumpur
 
 Simply the best Spaghetti alla Carbonara (a sauce featuring eggs and thick juicy bacon).
 
 ## **Singapore**
 
-#### [hype](http://www.hostariaromana.it)
+* hype
+* hype
 
-hype
-hype
+## **United Kingdom**
+
+#### London
+
+#### Edinburgh
+
+## **France**
+
+#### Paris
+
+## **Italy**
+
+#### Firenze
+
+#### Pisa
+
+#### Assissi
+
+#### Rome
+
+#### Vatican
+
+## **Switzerland**
+
+#### Lucerne
+
+## **Israel**
+
+
+## **Jordan**
+
+#### Petra
+
+## **Egypt**
+
+#### Cairo
+
+#### Giza
+
+## **Costa Rica**
+
+#### X
+
+#### X
+
+#### X
+
+#### X
+
+## **Vietnam**
+
+#### Going December 2019!
+
+## **Argentina**
+
+#### Going December 2020!
 
 
 
