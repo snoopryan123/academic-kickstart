@@ -57,6 +57,12 @@
 
 [[main]]
   parent = "Personal"
+  name = "Travel"
+  url = "/travel/"
+  weight = 40
+
+[[main]]
+  parent = "Personal"
   name = "Food"
    #pre = "<i class='fa fa-heart'></i>"
    url = "/food/"
