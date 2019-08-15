@@ -14,7 +14,7 @@ author = "admin"
 
 #### Trump with a Whiteboard Dialogue Box, 2019:
 
-![](/img/pinkfloyd.jpg)
+![](/img/trump.jpg)
 
 #### Singapore, 2019:
 
@@ -23,3 +23,5 @@ author = "admin"
 #### Killing Adam, 2019:
 
 ![](/img/logic.jpg)
+
+#### And many more...
