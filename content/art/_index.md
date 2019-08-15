@@ -6,12 +6,20 @@ author = "admin"
 
 #### Radiohead Album Compilation, 2016:
 
-![](/img/icon-512.png)
+![](/img/radiohead.jpg)
 
 #### Pink Floyd Album Compilation, 2013:
 
-![](/img/icon-512.png)
+![](/img/pinkfloyd.jpg)
+
+#### Trump with a Whiteboard Dialogue Box, 2019:
+
+![](/img/pinkfloyd.jpg)
 
 #### Singapore, 2019:
 
 ![](/img/icon-512.png)
+
+#### Killing Adam, 2019:
+
+![](/img/logic.jpg)
