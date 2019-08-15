@@ -83,13 +83,14 @@ Simply the best Spaghetti alla Carbonara (a sauce featuring eggs and thick juicy
 
 ## **United States of America**
 
-#### Home: Los Angeles, CA
+#### Home
+Los Angeles, CA
 
-#### States (20): 
+#### States (20)
 Arizona, California, Colorado, Connecticut, Florida, Illinois, Indiana, Maryland, Massachussetts, Michigan, Missouri, Nevada, New Hampshire, New Jersey, New York, Pennsylvania, Rhode Island, Utah, Vermont, Virginia
 
-#### Major Cities: 
-Boston, Chicago, Denver, Detroit, Las Vegas, Los Angeles, New York, Oakland, Philadelphia, St. Louis, Salt Lake City, San Diego, San Fransisco, Washington DC
+#### Major Cities
+Boston, Chicago, Denver, Detroit, Las Vegas, Los Angeles, New York, Oakland, Philadelphia, Salt Lake City, San Diego, San Fransisco, St. Louis, Washington DC
 
 ## **Vietnam**
 
