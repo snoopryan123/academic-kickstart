@@ -23,6 +23,6 @@ author = "admin"
 
 {{< youtube 8GeEB5ZARO4>}}
 
-{{< audio Eastwood.mp3 >}}
+{{< audio "Eastwood.mp3" >}}
 
 ## define a custom shortcode for audio!!!
