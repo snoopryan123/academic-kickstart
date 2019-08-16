@@ -8,9 +8,6 @@ author = "admin"
 
 ![](/img/radiohead.jpg)
 
-#### Singapore, 2019:
-
-![](/img/icon-512.png)
 
 #### Pink Floyd Album Compilation, 2013:
 
@@ -23,5 +20,9 @@ author = "admin"
 #### Killing Adam, 2019:
 
 ![](/img/logic.jpg)
+
+#### Singapore, 2019:
+
+![](/img/singapore.jpg)
 
 #### And many more...
