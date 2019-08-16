@@ -41,4 +41,4 @@ author = "admin"
 
 #### Luge Livin
 
-{{< audio name="Luge Livin" drivelink="https://drive.google.com/file/d/18xLYk5TKMm7iHnb1tG_ykPjhTABJ9STP/preview?usp=sharing" >}}
+{{< audio drivelink="https://drive.google.com/file/d/18xLYk5TKMm7iHnb1tG_ykPjhTABJ9STP/preview?usp=sharing" >}}
