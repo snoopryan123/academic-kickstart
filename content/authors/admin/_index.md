@@ -69,11 +69,11 @@ organizations:
 # - Visitors
 ---
 
-Currently, I am a student at the [University of California, Berkeley](https://www.berkeley.edu) double majoring in [Mathematics](https://math.berkeley.edu) and [Statistics](https://statistics.berkeley.edu) and minoring in [Computer Science](https://eecs.berkeley.edu). I am a [Regents and Chancellors' Scholar](https://financialaid.berkeley.edu/regents-and-chancellors-scholarship). Once I graduate, I plan to further my studies and attain my Ph.D.
+Currently, I am a student at the [University of California, Berkeley](https://www.berkeley.edu) double majoring in [Mathematics](https://math.berkeley.edu) and [Statistics](https://statistics.berkeley.edu) and minoring in [Computer Science](https://eecs.berkeley.edu). I am a [Regents and Chancellors' Scholar](https://financialaid.berkeley.edu/regents-and-chancellors-scholarship). Once I graduate, I plan to further my studies and attain a Ph.D.
 
-Outside of class, I have used my math/statistics/CS knowledge by engaging in [undergraduate research](#experience), joining the Berkeley math [directed reading program (DRP)](#experience), interning at a [business valuation firm](#experience), and writing lots of [code](#projects).
+Outside of class, I have used my math/statistics/CS knowledge by engaging in [undergraduate research](#research), joining the Berkeley math [directed reading program (DRP)](#stout), interning at a [business valuation firm](#stout), and thinking about [sports betting](#betting).
 
-Also, I lead a [successful business](/calhat/), make myriad [rap instrumentals](/music/), draw beautiful works of [art](/art/), and eat lots of [food](/food/).
+Also, I lead a [business](/calhat/), [draw](/art/), make [rap instrumentals](/music/), and [eat](/food/).
 
 Please enjoy this picture of me at a [Husky Cafe](https://www.facebook.com/neverlandsiberians/) in Bangkok, Thailand.
 
