@@ -17,20 +17,11 @@ author = "admin"
 
 #### Bangkok
 
-itinerary
-* cool
-* skool
-
 ## **Malaysia**
 
 #### Kuala Lumpur
 
-Simply the best Spaghetti alla Carbonara (a sauce featuring eggs and thick juicy bacon).
-
 ## **Singapore**
-
-* hype
-* hype
 
 ## **United Kingdom**
 
@@ -60,7 +51,6 @@ Simply the best Spaghetti alla Carbonara (a sauce featuring eggs and thick juicy
 
 ## **Israel**
 
-
 ## **Jordan**
 
 #### Petra
@@ -73,14 +63,6 @@ Simply the best Spaghetti alla Carbonara (a sauce featuring eggs and thick juicy
 
 ## **Costa Rica**
 
-#### X
-
-#### X
-
-#### X
-
-#### X
-
 ## **United States of America**
 
 #### Home
@@ -89,8 +71,11 @@ Los Angeles, CA
 #### States (20)
 Arizona, California, Colorado, Connecticut, Florida, Illinois, Indiana, Maryland, Massachussetts, Michigan, Missouri, Nevada, New Hampshire, New Jersey, New York, Pennsylvania, Rhode Island, Utah, Vermont, Virginia
 
-#### Major Cities
+#### Some Cities
 Boston, Chicago, Denver, Detroit, Las Vegas, Los Angeles, New York, Oakland, Philadelphia, Salt Lake City, San Diego, San Fransisco, St. Louis, Washington DC
+
+#### Baseball Stadiums (13)
+Angels, Athletics, Cardinals, Cubs, Dodgers, Giants, Mets, Nationals, Padres, Phillies, Rockies, Tigers, Yankees  
 
 ## **Vietnam**
 
