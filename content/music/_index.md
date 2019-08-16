@@ -23,6 +23,6 @@ author = "admin"
 
 {{< youtube 8GeEB5ZARO4>}}
 
-{{< audio "Eastwood.mp3" >}}
+{{< audio drivelink="https://drive.google.com/open?id=1rt9vz8ULl_G_odhIbeTHmxFes4j3RotW" >}}
 
 ## define a custom shortcode for audio!!!
