@@ -23,7 +23,17 @@
 [[main]]
   name = "Experience"
   url = "#stout"
-  weight = 3
+  weight = 4
+
+[[main]]
+  name = "Betting"
+  url = "#betting"
+  weight = 5
+
+[[main]]
+  name = "Other"
+  url = "#calhat"
+  weight = 6
 
 # [[main]]
 #   name = "Articles"
