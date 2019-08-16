@@ -8,5 +8,5 @@ I am interested in sports betting.
 
 Here are some articles I wrote about it:
 
-* A
-* B
+* [Here](/pdf/Betting.pdf), I discuss a fundamental probabilistic strategy in sports betting and poker.
+* [Here](/pdf/Moneylines.pdf), I discuss moneylines and implied win probability for sports games.
