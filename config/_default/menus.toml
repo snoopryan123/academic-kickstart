@@ -16,23 +16,13 @@
   weight = 2
 
 [[main]]
-  name = "Research"
+  name = "Math"
   url = "#research"
   weight = 3
 
 [[main]]
-  name = "Experience"
-  url = "#stout"
-  weight = 4
-
-[[main]]
-  name = "Betting"
-  url = "#betting"
-  weight = 5
-
-[[main]]
-  name = "Other"
-  url = "#calhat"
+  name = "Personal"
+  url = "#personal"
   weight = 6
 
 # [[main]]
@@ -47,41 +37,41 @@
 
 #######################################
 
-[[main]]
-  identifier = "Personal"
-  name = "Personal"
-  weight = 30
-
-[[main]]
-  parent = "Personal"
-  name = "calhat"
-  url = "/calhat/"
-  weight = 10
-
-[[main]]
-  parent = "Personal"
-  name = "Art"
-  url = "/art/"
-  weight = 20
-
-[[main]]
-  parent = "Personal"
-  name = "Music"
-  url = "/music/"
-  weight = 30
-
+# [[main]]
+#   identifier = "Personal"
+#   name = "Personal"
+#   weight = 30
+#
 # [[main]]
 #   parent = "Personal"
-#   name = "Travel"
-#   url = "/travel/"
-#   weight = 40
-
-[[main]]
-  parent = "Personal"
-  name = "Food"
-   #pre = "<i class='fa fa-heart'></i>"
-   url = "/food/"
-   weight = 50
+#   name = "calhat"
+#   url = "/calhat/"
+#   weight = 10
+#
+# [[main]]
+#   parent = "Personal"
+#   name = "Art"
+#   url = "/art/"
+#   weight = 20
+#
+# [[main]]
+#   parent = "Personal"
+#   name = "Music"
+#   url = "/music/"
+#   weight = 30
+#
+# # [[main]]
+# #   parent = "Personal"
+# #   name = "Travel"
+# #   url = "/travel/"
+# #   weight = 40
+#
+# [[main]]
+#   parent = "Personal"
+#   name = "Food"
+#    #pre = "<i class='fa fa-heart'></i>"
+#    url = "/food/"
+#    weight = 50
 
 
 #######################################
