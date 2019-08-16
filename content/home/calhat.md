@@ -4,12 +4,6 @@ title="calhat"
 weight="88"
 +++
 
-Calhat
-
-* A
-* B
-* C
-
 ## [Calhat Enterprises](/calhat/)
 
 ### CEO and Co-Founder
