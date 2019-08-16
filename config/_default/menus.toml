@@ -45,14 +45,14 @@
 
 [[main]]
   parent = "Personal"
-  name = "Music"
-  url = "/music/"
+  name = "Art"
+  url = "/art/"
   weight = 20
 
 [[main]]
   parent = "Personal"
-  name = "Art"
-  url = "/art/"
+  name = "Music"
+  url = "/music/"
   weight = 30
 
 [[main]]
