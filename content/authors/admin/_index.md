@@ -69,7 +69,7 @@ organizations:
 # - Visitors
 ---
 
-Currently, I am a student at the [University of California, Berkeley](https://www.berkeley.edu) double majoring in [Mathematics](https://math.berkeley.edu) and [Statistics](https://statistics.berkeley.edu) and minoring in [Computer Science](https://eecs.berkeley.edu). I am a [Regents and Chancellors' Scholar](https://financialaid.berkeley.edu/regents-and-chancellors-scholarship). Once I graduate, I plan to further my studies and attain my Ph.D in interdisciplinary math/applied math/statistics (applying to a mix of programs because I have not yet honed in on a subfield of preference).
+Currently, I am a student at the [University of California, Berkeley](https://www.berkeley.edu) double majoring in [Mathematics](https://math.berkeley.edu) and [Statistics](https://statistics.berkeley.edu) and minoring in [Computer Science](https://eecs.berkeley.edu). I am a [Regents and Chancellors' Scholar](https://financialaid.berkeley.edu/regents-and-chancellors-scholarship). Once I graduate, I plan to further my studies and attain my Ph.D.
 
 Outside of class, I have used my math/statistics/CS knowledge by engaging in [undergraduate research](#experience), joining the Berkeley math [directed reading program (DRP)](#experience), interning at a [business valuation firm](#experience), and writing lots of [code](#projects).
 

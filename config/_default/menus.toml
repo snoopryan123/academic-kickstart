@@ -16,14 +16,19 @@
   weight = 2
 
 [[main]]
-  name = "Experience"
-  url = "#experience"
+  name = "Research"
+  url = "#research"
   weight = 3
 
 [[main]]
-  name = "Articles"
-  url = "#featured"
-  weight = 4
+  name = "Experience"
+  url = "#stout"
+  weight = 3
+
+# [[main]]
+#   name = "Articles"
+#   url = "#featured"
+#   weight = 4
 
 [[main]]
   name = "Contact"
