@@ -25,4 +25,8 @@ author = "admin"
 
 {{< audio drivelink="https://drive.google.com/open?id=1rt9vz8ULl_G_odhIbeTHmxFes4j3RotW" >}}
 
+{{< audio drivelink="https://drive.google.com/file/d/156p3sf56h8tBdOzjxrndCaM3qBm-zsSY/view?usp=sharing" >}}
+
+{{< audio drivelink="https://drive.google.com/file/d/156p3sf56h8tBdOzjxrndCaM3qBm-zsSY/preview?usp=sharing" >}}
+
 ## define a custom shortcode for audio!!!
