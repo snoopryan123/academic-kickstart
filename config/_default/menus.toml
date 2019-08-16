@@ -55,11 +55,11 @@
   url = "/music/"
   weight = 30
 
-[[main]]
-  parent = "Personal"
-  name = "Travel"
-  url = "/travel/"
-  weight = 40
+# [[main]]
+#   parent = "Personal"
+#   name = "Travel"
+#   url = "/travel/"
+#   weight = 40
 
 [[main]]
   parent = "Personal"
@@ -70,19 +70,3 @@
 
 
 #######################################
-
-
-# [[main]]
-#   parent = "frand"
-#   name = "adidas"
-#   url = "/frands/adidas/"
-#
-# [[main.frands]]
-#   name = "frand1"
-#   url = "/frands/"
-#   weight = 2
-#
-# [[main.brands]]
-#   name = "frand2"
-#   url = "/frands/"
-#   weight = 3
