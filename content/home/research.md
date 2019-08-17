@@ -6,7 +6,7 @@ weight="85"
 
 ## **Mathematics Honors Thesis**
 
-#### UC Berkeley, August 2019 - May 2020
+#### [UC Berkeley](https://math.berkeley.edu), August 2019 - May 2020
 
 Continuing my research done at the summer 2019 [RIPS Singapore](https://www.ipam.ucla.edu/programs/student-research-programs/research-in-industrial-projects-for-students-rips-2019-singapore/) program, detailed below, in my thesis I will explore Type Theory in greater depth and attempt to implement an extensive type-theoretic theorem prover in Python.
 
@@ -18,12 +18,12 @@ Sponsored by [Nvidia](https://www.nvidia.com/en-us/), my project was entitled â€
 
 My group gave a [presentation](/pdf/CoqBeamerTalk.pdf) to the NUS math community, wrote a [report](pdf/RIPS_Report.pdf) summarizing what we did, and I will give a poster presentation at [Joint Math Meetings](http://jointmathematicsmeetings.org) in Denver in January 2020.
 
-Photo of me presenting:
-
-![](/img/presenting.jpg)
-
 Photo of us exploring Singapore:
 
 ![](/img/singaporefour.jpg)
+
+Photo of me presenting:
+
+![](/img/presenting.jpg)
 
 
