@@ -37,5 +37,8 @@ weight="85"
 * Wrote a [paper](pdf/RIPS_Report.pdf) summarizing what we did
 * Will give a poster presentation at JMM ([Joint Math Meetings](http://jointmathematicsmeetings.org)) in Denver in
 January 2020
+* Photo of me presenting
+![](/img/presenting.jpg)
+
 
 [This](/pdf/RIPS_Report.pdf) is the paper my group wrote for the [RIPS Singapore](#experience) REU.
