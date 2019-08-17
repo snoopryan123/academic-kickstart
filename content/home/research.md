@@ -4,16 +4,13 @@ title="Research"
 weight="85"
 +++
 
-* REU (explanation, show pics, paper)
-* Thesis
-
-## Mathematics Honors Thesis
+## **Mathematics Honors Thesis**
 
 #### UC Berkeley, August 2019 - May 2020
 
 Continuing my research done at the summer 2019 [RIPS Singapore](https://www.ipam.ucla.edu/programs/student-research-programs/research-in-industrial-projects-for-students-rips-2019-singapore/) program, detailed below, in my thesis I will explore Type Theory in greater depth and attempt to implement an extensive type-theoretic theorem prover in Python.
 
-## RIPS Singapore REU
+## **RIPS Singapore REU**
 
 #### National University of Singapore, June 2019 - August 2019
 
@@ -30,4 +27,3 @@ January 2020
 ![](/img/presenting.jpg)
 
 
-[This](/pdf/RIPS_Report.pdf) is the paper my group wrote for the [RIPS Singapore](#experience) REU.
