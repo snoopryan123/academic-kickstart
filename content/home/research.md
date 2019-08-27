@@ -6,9 +6,9 @@ weight="85"
 
 ## **Mathematics Honors Thesis**
 
-#### [UC Berkeley](https://math.berkeley.edu), August 2019 - May 2020
+#### [UC Berkeley](https://math.berkeley.edu), September 2019 - December 2020
 
-Continuing my research done at the summer 2019 [RIPS Singapore](https://www.ipam.ucla.edu/programs/student-research-programs/research-in-industrial-projects-for-students-rips-2019-singapore/) program, detailed below, in my thesis I will explore Type Theory in greater depth and attempt to implement an extensive type-theoretic theorem prover in Python.
+I am intrigued by using interactive theorem provers to prove important theorems with massive proofs. Thus I will be reading Thomas Hales’ [Dense Sphere Packings: A Blueprint for Formal Proofs](https://dl.acm.org/citation.cfm?id=2431401), which details the proof of the [Kepler Conjecture](https://en.wikipedia.org/wiki/Kepler_conjecture) using the interactive theorem provers [HOL Light](https://en.wikipedia.org/wiki/HOL_Light) and [Isabelle](https://en.wikipedia.org/wiki/Isabelle_(proof_assistant))
 
 ## **[Research in Industrial Projects for Students, Singapore](https://www.ipam.ucla.edu/programs/student-research-programs/research-in-industrial-projects-for-students-rips-2019-singapore/)**
 
