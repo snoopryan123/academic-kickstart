@@ -13,8 +13,20 @@ author = "admin"
 
 # What is calhat?
 
-You're wrong. Calhat is not a *what*. It is not merely a tangible object. 
+You're wrong. **calhat** is not a *what*. It is not merely a tangible object. Rather, **calhat** is a lifestyle; it is a community of people unified under one principle: **calhat**.
 
+As you can tell by our suave cursive font, **calhat** connects letters. Specifically, we unite our two grand ideas: [cal](https://www.berkeley.edu), the university we know and love, and [hat](https://en.wikipedia.org/wiki/Hat), our favorite accessory. Moreover, **calhat** connects people. When you wear a **calhat** with your friend, walking down the street in Berkeley, you can be sure that you two are on the same page. Beyond this, you two become a fortress, an intrepid bastion, ready to tackle any obstacle. Thus, it is the connection between the "l" and the "h", right in the middle of our **calhat** logo, that provides the crux of what we are about: **calhat connects letters and people.**
 
+Please enjoy some of **calhat**'s favorite [Instagram](https://www.instagram.com/officialcalhat) posts.
+
+Professor [John Denero] sporting **calhat**:
+{{< instagram BM-j9ziDdgt >}}
+
+Friends supporting **calhat** and **slughat** (our UC Santa Cruz franchise):
+{{< instagram BOJh3vEDdZA >}}
+
+**calhat** Season 2 Promotion:
 {{< instagram BR6s0Urgk-5 >}}
+
+Visit [calhat.com](http://calhat.com) to order yours today!
 
