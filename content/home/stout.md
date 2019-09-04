@@ -2,6 +2,7 @@
 author = "admin"
 title="Internship"
 weight="86"
+active = false
 +++
 
 Last summer, I interned in the [Complex Securities Valuation group](https://www.stout.com/en/services/complex-securities-and-financial-instruments/) of [Stout](https://www.stout.com/en/), a global valuation advisory firm. It was my job to find the value of option-like contracts such as [carried interest](https://www.investopedia.com/terms/c/carriedinterest.asp) and [earnouts](https://www.investopedia.com/terms/e/earnout.asp). Thus, I thought it was prudent to learn about the mathematical foundations of options pricing, and wrote about what I learned [here](/pdf/BSPaper.pdf).
