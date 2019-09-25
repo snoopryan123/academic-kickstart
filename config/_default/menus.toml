@@ -17,7 +17,12 @@
 
 [[main]]
   name = "Math"
-  url = "#research"
+  url = "#writings"
+  weight = 3
+
+[[main]]
+  name = "Photos"
+  url = "#photos"
   weight = 3
 
 [[main]]
