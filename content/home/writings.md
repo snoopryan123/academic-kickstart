@@ -10,7 +10,7 @@ active = true
     - [Deriving the Black-Scholes Formula](/pdf/BSPaper.pdf)
 
 
-* [Berkeley Mathematics Directed Reading Program (DRP)](https://math.berkeley.edu/wp/drp/):
+* Berkeley Mathematics Directed Reading Program [(DRP)](https://math.berkeley.edu/wp/drp/):
     - Gave a [presentation](/pdf/SDEbeamer.pdf) on SDEs to the Berkeley math community
     - Read Evans’ [An Introduction to Stochastic Differential Equations](/pdf/EvansSDE.pdf)
     
@@ -19,7 +19,7 @@ active = true
     - [Betting and Basic Probability](/pdf/Betting.pdf) 
     - [Moneylines and Implied Win Probability](/pdf/Moneylines.pdf)
 
-* [Research in Industrial Projects for Students, Singapore](https://www.ipam.ucla.edu/programs/student-research-programs/research-in-industrial-projects-for-students-rips-2019-singapore/):
+* Research in Industrial Projects for Students, Singapore [(RIPS)](https://www.ipam.ucla.edu/programs/student-research-programs/research-in-industrial-projects-for-students-rips-2019-singapore/):
     - Gave a [presentation](/pdf/CoqBeamerTalk.pdf) to the NUS math community
     - Wrote a [report](pdf/RIPS_Report.pdf) summarizing what we did
 
