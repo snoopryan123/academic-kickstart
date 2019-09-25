@@ -1,7 +1,7 @@
 +++
 author = "admin"
 title="Personal"
-weight="100"
+weight="93"
 +++
 
 * I am the CEO and Co-Founder of [<u>calhat</u>](/calhat/)

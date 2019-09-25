@@ -21,14 +21,16 @@
   weight = 3
 
 [[main]]
-  name = "Photos"
-  url = "#photos"
-  weight = 3
-
-[[main]]
   name = "Personal"
   url = "#personal"
+  weight = 5
+
+[[main]]
+  name = "Photos"
+  url = "#photos"
   weight = 6
+
+
 
 # [[main]]
 #   name = "Articles"

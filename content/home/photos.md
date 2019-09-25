@@ -1,7 +1,7 @@
 +++
 author = "admin"
 title="Photos"
-weight="85"
+weight="100"
 active = true
 +++
 
