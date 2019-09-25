@@ -2,6 +2,7 @@
 author = "admin"
 title="Research"
 weight="85"
+active=false
 +++
 
 ## **Mathematics Honors Thesis**
