@@ -71,7 +71,7 @@ organizations:
 
 Currently, I am a student at the [University of California, Berkeley](https://www.berkeley.edu) double majoring in [Mathematics](https://math.berkeley.edu) and [Statistics](https://statistics.berkeley.edu) and minoring in [Computer Science](https://eecs.berkeley.edu). I am a [Regents and Chancellors' Scholar](https://financialaid.berkeley.edu/regents-and-chancellors-scholarship). Once I graduate, I plan to further my studies and attain a Ph.D.
 
-Outside of class, I have used my math/statistics/CS knowledge by engaging in [research](#research), joining the Berkeley math [directed reading program (DRP)](#stout), interning at a [business valuation firm](#stout), and thinking about [sports betting](#betting).
+Outside of class, I have used my math/statistics/CS knowledge by engaging in [research](#writings), joining the Berkeley math [directed reading program (DRP)](#writings), interning at a [business valuation firm](#writings), and thinking about [sports betting](#writings).
 
 Also, I lead a [business](/calhat/), [draw](/art/), make [rap instrumentals](/music/), and [eat](/food/).
 
