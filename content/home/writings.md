@@ -7,11 +7,9 @@ active = true
 
 
 * I wrote an exposition on an introduction to options pricing:
-
     - [Deriving the Black-Scholes Formula](/pdf/BSPaper.pdf)
 
 * [Berkeley Mathematics Directed Reading Program (DRP)](https://math.berkeley.edu/wp/drp/):
-
     - Gave a [presentation](/pdf/SDEbeamer.pdf) on SDEs to the Berkeley math community
     - Read Evans’ [An Introduction to Stochastic Differential Equations](/pdf/EvansSDE.pdf)
 
