@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Ryan Brill
+name: Ryan S. Brill
 
 # Username (this should match the folder name)
 authors:
