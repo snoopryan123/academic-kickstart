@@ -5,23 +5,13 @@ weight="50"
 active = true
 +++
 
+* I was so fascinated with the [derivation of the Black-Scholes Formula](/pdf/BSPaper.pdf) that I decided to rewrite it myself.
 
-* I wrote an exposition on an introduction to options pricing:
-      - [Deriving the Black-Scholes Formula](/pdf/BSPaper.pdf)
+* I love betting on football and basketball games, and I like to see how probability appears in sports betting, so I wrote about [Betting and Basic Probability](/pdf/Betting.pdf) and [Moneylines and Implied Win Probability](/pdf/Moneylines.pdf).
 
-* Berkeley Mathematics Directed Reading Program [(DRP)](https://math.berkeley.edu/wp/drp/):
-      - Gave a [presentation](/pdf/SDEbeamer.pdf) on SDEs to the Berkeley math community
-      - Read Evans’ [An Introduction to Stochastic Differential Equations](/pdf/EvansSDE.pdf)
+* As part of Research in Industrial Projects for Students, Singapore [(RIPS)](https://www.ipam.ucla.edu/programs/student-research-programs/research-in-industrial-projects-for-students-rips-2019-singapore/), my group gave a [presentation](/pdf/CoqBeamerTalk.pdf) to the NUS math community and wrote a [report](pdf/RIPS_Report.pdf) summarizing what we did.
     
+* As part of the Berkeley Mathematics Directed Reading Program [(DRP)](https://math.berkeley.edu/wp/drp/), I read Evans’ [An Introduction to Stochastic Differential Equations](/pdf/EvansSDE.pdf) and gave a [presentation](/pdf/SDEbeamer.pdf) on SDEs to the Berkeley math community.
 
-* I love betting on football and basketball games, and I like to see how probability appears in sports betting:
-    - [Betting and Basic Probability](/pdf/Betting.pdf) 
-    - [Moneylines and Implied Win Probability](/pdf/Moneylines.pdf)
-
-* Research in Industrial Projects for Students, Singapore [(RIPS)](https://www.ipam.ucla.edu/programs/student-research-programs/research-in-industrial-projects-for-students-rips-2019-singapore/):
-    - Gave a [presentation](/pdf/CoqBeamerTalk.pdf) to the NUS math community
-    - Wrote a [report](pdf/RIPS_Report.pdf) summarizing what we did
-
-* Honors Thesis:
-    - I am pursuing a continuation of [Learning Heuristics for Automated Reasoning through Deep Reinforcement Learning](https://arxiv.org/abs/1807.08058)
+* For my honors thesis, I am pursuing a continuation of [Learning Heuristics for Automated Reasoning through Deep Reinforcement Learning](https://arxiv.org/abs/1807.08058).
 
