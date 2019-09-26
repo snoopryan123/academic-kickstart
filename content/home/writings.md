@@ -5,10 +5,10 @@ weight="50"
 active = true
 +++
 
-* I was so fascinated with the [derivation of the Black-Scholes Formula](/pdf/BSPaper.pdf) that I decided to rewrite it myself 
+* I was so fascinated with the [derivation of the Black-Scholes Formula](/pdf/BSPaper.pdf) that I decided to write about it.
 [![black-scholes](/img/pdf.gif)](/pdf/BSPaper.pdf)
 
-* I love betting on football and basketball games, and I like to see how probability appears in sports betting, so I wrote about [Betting and Basic Probability](/pdf/Betting.pdf) and [Moneylines and Implied Win Probability](/pdf/Moneylines.pdf) .
+* I love betting on football and basketball games, and I like to see how probability appears in sports betting, so I wrote [Betting and Basic Probability](/pdf/Betting.pdf) and [Moneylines and Implied Win Probability](/pdf/Moneylines.pdf) .
 [![betting](/img/pdf.gif)](/pdf/Betting.pdf) [![moneylines](/img/pdf.gif)](/pdf/Moneylines.pdf)
 
 * As part of Research in Industrial Projects for Students, Singapore [(RIPS)](https://www.ipam.ucla.edu/programs/student-research-programs/research-in-industrial-projects-for-students-rips-2019-singapore/), my group gave a [presentation](/pdf/CoqBeamerTalk.pdf) to the NUS math community and wrote a [report](pdf/RIPS_Report.pdf) summarizing what we did.
