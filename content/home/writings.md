@@ -12,7 +12,7 @@ active = true
 [![betting](/img/pdf.gif)](/pdf/Betting.pdf) [![moneylines](/img/pdf.gif)](/pdf/Moneylines.pdf)
 
 * As part of [Research in Industrial Projects for Students, Singapore](https://www.ipam.ucla.edu/programs/student-research-programs/research-in-industrial-projects-for-students-rips-2019-singapore/), my group gave a [presentation](/pdf/CoqBeamerTalk.pdf) to the NUS math community and wrote a [report](pdf/RIPS_Report.pdf) summarizing what we did.
-[![presentation](/img/pdf.gif)](/pdf/Moneylines.pdf) [![report](/img/pdf.gif)](/pdf/RIPS_Report.pdf)
+[![presentation](/img/pdf.gif)](/pdf/CoqBeamerTalk.pdf) [![report](/img/pdf.gif)](/pdf/RIPS_Report.pdf)
     
 * As part of the [Berkeley Mathematics Directed Reading Program](https://math.berkeley.edu/wp/drp/), I read Evans’ [An Introduction to Stochastic Differential Equations](/pdf/EvansSDE.pdf) and gave a [presentation](/pdf/SDEbeamer.pdf) on SDEs to the Berkeley math community.
 [![presentation](/img/pdf.gif)](/pdf/SDEbeamer.pdf)
