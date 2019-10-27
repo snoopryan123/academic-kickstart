@@ -6,11 +6,11 @@ author = "admin"
 
 #### Curb Interlude
 
-{{< audio name="Curb3" drivelink="https://drive.google.com/open?id=1Nj3nHyLPYbbeWM-VuFLkdE7PgiSK2k3c/preview?usp=sharing" >}}
+{{< audio name="Curb3" drivelink="https://drive.google.com/file/d/1Nj3nHyLPYbbeWM-VuFLkdE7PgiSK2k3c/preview?usp=sharing" >}}
 
 #### Bars
 
-{{< audio name="Bars" drivelink="https://drive.google.com/open?id=1RxHbaFGigel8o9-EJUcpRWSzBMwE1Bw8/preview?usp=sharing" >}}
+{{< audio name="Bars" drivelink="https://drive.google.com/file/d/1RxHbaFGigel8o9-EJUcpRWSzBMwE1Bw8/preview?usp=sharing" >}}
 
 #### Eastwood
 
