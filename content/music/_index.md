@@ -4,6 +4,14 @@ author = "admin"
 
 # I make rap instrumentals.
 
+#### Curb Interlude
+
+{{< audio name="Curb3" drivelink="https://drive.google.com/file/d/1rt9vz8ULl_G_odhIbeTHmxFes4j3RotW/preview?usp=sharing" >}}
+
+#### Bars
+
+{{< audio name="bars" drivelink="https://drive.google.com/file/d/1rt9vz8ULl_G_odhIbeTHmxFes4j3RotW/preview?usp=sharing" >}}
+
 #### Eastwood
 
 {{< audio name="Eastwood" drivelink="https://drive.google.com/file/d/1rt9vz8ULl_G_odhIbeTHmxFes4j3RotW/preview?usp=sharing" >}}
@@ -12,7 +20,7 @@ author = "admin"
 
 {{< audio name="A Fugue" drivelink="https://drive.google.com/file/d/1izuQjsnX1vpR7uwx5luXysmyONdzd16J/preview?usp=sharing" >}}
 
-#### Curb II
+#### Curb Interlude II
 
 {{< audio name="Curb II" drivelink="https://drive.google.com/file/d/1PJppz_QIz3943LJr0rZApgL9n5AKSAPE/preview?usp=sharing" >}}
 
