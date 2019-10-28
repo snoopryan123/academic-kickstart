@@ -13,9 +13,9 @@ author = "admin"
 
 # I've been to some delicious restaurants around the world.
 
-1. **Barbeque**
+1. **My Beautiful Dark Twisted Fantasy**
 
-#### [Pappy's Smokehouse, St. Louis](https://www.pappyssmokehouse.com)
+#### [2010, Kanye West]()
 
 1.5 hour line to get in. Tender baby back ribs, savory barbque sauce, unbeatable fries.
 
