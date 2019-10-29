@@ -8,4 +8,3 @@ weight="93"
 * I am the CEO and Co-Founder of [<u>calhat</u>](/calhat/)
 * I’ve been [<u>drawing</u>](/art/) since I was 10 years old
 * I have eaten delicious [<u>food</u>](/food/) around the world
-* My ranking of [<u>the best rap albums of the 2010's</u>](/albums2010s/)
