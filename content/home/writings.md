@@ -5,7 +5,7 @@ weight="50"
 active = true
 +++
 
-* I was so fascinated with the [derivation of the Black-Scholes Formula](/pdf/BSPaper.pdf) that I decided to write about it.
+* I wrote about the [derivation of the Black-Scholes Formula](/pdf/BSPaper.pdf).
 [![black-scholes](/img/pdf.gif)](/pdf/BSPaper.pdf)
 
 * I love betting on football and basketball games, and I like to see how probability appears in sports betting, so I wrote [Betting and Basic Probability](/pdf/Betting.pdf) and [Moneylines and Implied Win Probability](/pdf/Moneylines.pdf) .
