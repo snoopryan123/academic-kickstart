@@ -5,7 +5,7 @@ weight="50"
 active = true
 +++
 
-* For my Senior Thesis, I am pursuing a continuation of [Learning Heuristics for Automated Reasoning through Deep Reinforcement Learning](https://arxiv.org/abs/1807.08058).
+* For my Senior Thesis, I am pursuing a continuation of [Learning Heuristics for Automated Reasoning through Deep Reinforcement Learning](https://arxiv.org/abs/1807.08058). I explore using a Graph Neural Network as a branching heuristic in [Conflict Driven Clause Learning](https://en.wikipedia.org/wiki/Conflict-driven_clause_learning) for [SAT sovling](https://en.wikipedia.org/wiki/Boolean_satisfiability_problem).
 
 _coming soon_
 
