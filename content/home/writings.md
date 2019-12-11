@@ -1,6 +1,6 @@
 +++
 author = "admin"
-title="Math Writings"
+title="Math"
 weight="50"
 active = true
 +++
