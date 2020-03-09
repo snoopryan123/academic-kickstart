@@ -11,9 +11,8 @@ weight = 10  # Order that this section will appear in.
 author = "admin"
 +++
 
-# Shoober
-
-### Shopping Cart Uber, debuted at UC Berkeley in Febraury 2020
+## Shoober
+### shopping cart Uber, debuted at UC Berkeley in Febraury 2020
 
 {{< youtube LjBJNchf-BQ >}} 
 
