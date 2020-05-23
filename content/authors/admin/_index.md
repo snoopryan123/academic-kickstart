@@ -69,11 +69,9 @@ organizations:
 # - Visitors
 ---
 
-Currently, I am a student at the [University of California, Berkeley](https://www.berkeley.edu) double majoring in [Mathematics](https://math.berkeley.edu) and [Statistics](https://statistics.berkeley.edu) and minoring in [Computer Science](https://eecs.berkeley.edu). I am a [Regents' and Chancellor's Scholar](https://financialaid.berkeley.edu/regents-and-chancellors-scholarship). 
+Starting fall 2020, I will be a first year PhD student at the [University of Pennsylvania](https://www.upenn.edu) in the [Applied Mathematics & Computational Science group](https://www.amcs.upenn.edu). My favorite subjects are probability and statistics.
 
-Outside of class, I have used my math/statistics/CS knowledge by engaging in [research](#writings), joining the Berkeley math [directed reading program](#writings), interning at a [business valuation firm](https://www.stout.com/services/complex-securities-and-financial-instruments), and thinking about [sports betting](#writings).
-
-Also, I led a [business](/calhat/), [draw](/art/), make [rap instrumentals](/music/), and [eat](/food/).
+For my undergraduate studies, I attended the [University of California, Berkeley](https://www.berkeley.edu), where I double majored in [Mathematics](https://math.berkeley.edu) and [Statistics](https://statistics.berkeley.edu), and minored in [Computer Science](https://eecs.berkeley.edu). At Berkeley, I was a [Regents' and Chancellor's Scholar](https://financialaid.berkeley.edu/regents-and-chancellors-scholarship). Outside of class, I used my math/statistics/CS knowledge by engaging in [research](#writings), joining the Berkeley math [directed reading program](#writings), interning at a [business valuation firm](https://www.stout.com/services/complex-securities-and-financial-instruments), and thinking about [sports betting](#writings).
 
 Please enjoy this picture of me at a [Husky Cafe](https://www.facebook.com/neverlandsiberians/) in Bangkok, Thailand.
 
