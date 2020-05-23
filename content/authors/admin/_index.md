@@ -14,8 +14,8 @@ superuser: true
 
 # Organizations/Affiliations
 organizations:
-- name: UC Berkeley
-  url: "https://math.berkeley.edu"
+- name: University of Pennsylvania
+  url: "https://www.amcs.upenn.edu"
 
 # Short bio (displayed in user profile at end of posts)
 # bio: Swag on heem
