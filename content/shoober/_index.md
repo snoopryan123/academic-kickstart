@@ -12,7 +12,8 @@ author = "admin"
 +++
 
 ## Shoober
-### shopping cart Uber, debuted at UC Berkeley in Febraury 2020
+### Shopping cart Uber, debuted at UC Berkeley in Febraury 2020.
+### Created, filmed, and edited by Ryan Brill. Starring Nick Miller.
 
 {{< youtube LjBJNchf-BQ >}} 
 
