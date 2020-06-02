@@ -15,6 +15,11 @@ author = "admin"
 
 Most social media apps today, particularly Instagram, are based upon self promotion: "Look at me, I'm so cool!" or "Look at all the fun I'm having with my friends!". With atme, however, you can only post to your friends, and your profile consists of what your friends have posted to you. Hence, atme is the "selfless social media". Have fun curating your friends' profiles, by posting funny stories, cute photos, or even roasts to their walls.
 
+# Some screenshots of `atme`:
+
+
+# Link to `atme` on the App Store:
+
 
 # `atme` Privacy Policy
 
