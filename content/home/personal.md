@@ -4,7 +4,7 @@ title="Personal"
 weight="93"
 +++
 
-* Creator of [<u>atme</u>]() [COMING SOON]
+* Creator of [<u>atme</u>](/atme/)
 * Co-Creator of [<u>calhat</u>](/calhat/)
 * Creator of [<u>Shoober</u>](/shoober/)
 * [<u>Music producer</u>](/music/)</u>
