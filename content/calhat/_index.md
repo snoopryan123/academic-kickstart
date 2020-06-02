@@ -19,12 +19,12 @@ As you can tell by our suave cursive font, `calhat` connects letters. Specifical
 
 Please enjoy some of `calhat`'s favorite [Instagram](https://www.instagram.com/officialcalhat) posts:
 
-* Professor [John Denero](https://www2.eecs.berkeley.edu/Faculty/Homepages/denero.html) sporting [**calhat**](http://calhat.com):
+* Professor [John Denero](https://www2.eecs.berkeley.edu/Faculty/Homepages/denero.html) sporting `calhat`:
 {{< instagram BM-j9ziDdgt >}}
 
-* Friends supporting [**calhat**](https://www.instagram.com/officialcalhat) and [**slughat**](https://www.instagram.com/slughat/) (our UC Santa Cruz branch):
+* Friends supporting `calhat` and [**slughat**](https://www.instagram.com/slughat/) (our UC Santa Cruz branch):
 {{< instagram BOJh3vEDdZA >}}
 
-* [**calhat**](http://calhat.com) Season 2 Promotion:
+* `calhat` Season 2 Promotion:
 {{< instagram BR6s0Urgk-5 >}}
 
