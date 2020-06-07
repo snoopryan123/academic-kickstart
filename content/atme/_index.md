@@ -18,14 +18,13 @@ Most social media apps today, particularly Instagram, are based upon self promot
 # Some screenshots of `atme`:
 
 
-# Link to `atme` on the App Store:
+# Screenshot of `atme` on the iOS App Store:
 
-
-
+![](/img/atme_app_store.PNG)
 
 # `atme` Privacy Policy
 
-You can make your `atme` profile Public or Private. A Public profile is viewable by anybody, and a Private profile is only viewable by your friends. You can only post to your friends, and your friends are the only ones allowed to post to you.
+You can make your `atme` profile Public or Private. A Public profile is viewable by anybody, and a Private profile is only viewable by your bonds. You can only post to your bonds, and your bonds are the only ones allowed to post to you.
 
 # `atme` Harrasment Policy
 
