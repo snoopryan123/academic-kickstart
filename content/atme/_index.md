@@ -17,6 +17,7 @@ Most social media apps today, particularly Instagram, are based upon self promot
 
 # Some screenshots of `atme`:
 
+![](/img/atme1)
 
 # Screenshot of `atme` on the iOS App Store:
 
