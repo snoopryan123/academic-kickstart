@@ -8,7 +8,7 @@ active = true
 * For my [Senior Thesis](/pdf/Undergrad_Thesis.pdf), I am pursuing a continuation of [Learning Heuristics for Automated Reasoning through Deep Reinforcement Learning](https://arxiv.org/abs/1807.08058). I explore using a Graph Neural Network as a branching heuristic in [Conflict Driven Clause Learning](https://en.wikipedia.org/wiki/Conflict-driven_clause_learning) for [SAT solving](https://en.wikipedia.org/wiki/Boolean_satisfiability_problem).
 [![Undergrad_Thesis](/img/pdf.gif)](/pdf/Undergrad_Thesis.pdf)
 
-* I wrote about the [derivation of the Black-Scholes Formula](/pdf/BSPaper.pdf).
+* As a sophomore interning at a [valuation firm](https://www.stout.com/en/services/complex-securities-and-financial-instruments) in the [securities valuation group](https://www.stout.com/en/services/complex-securities-and-financial-instruments), I wrote about the [derivation of the Black-Scholes Formula](/pdf/BSPaper.pdf).
 [![black-scholes](/img/pdf.gif)](/pdf/BSPaper.pdf)
 
 * As part of [Research in Industrial Projects for Students, Singapore](https://www.ipam.ucla.edu/programs/student-research-programs/research-in-industrial-projects-for-students-rips-2019-singapore/), my group gave a [beamer presentation](/pdf/CoqBeamerTalk.pdf) to the NUS math community, we wrote a [report](pdf/RIPS_Report.pdf) summarizing what we did, and I am presenting a [poster](/pdf/JMM2020.pdf) at JMM 2020 in Denver.
