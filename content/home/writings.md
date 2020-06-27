@@ -5,7 +5,7 @@ weight="50"
 active = true
 +++
 
-* For my [Senior Thesis](/pdf/Undergrad_Thesis.pdf), I am pursuing a continuation of [Learning Heuristics for Automated Reasoning through Deep Reinforcement Learning](https://arxiv.org/abs/1807.08058). I explore using a Graph Neural Network as a branching heuristic in [Conflict Driven Clause Learning](https://en.wikipedia.org/wiki/Conflict-driven_clause_learning) for [SAT solving](https://en.wikipedia.org/wiki/Boolean_satisfiability_problem).
+* For my [Senior Thesis](/pdf/Undergrad_Thesis.pdf), I am pursued a continuation of [Learning Heuristics for Automated Reasoning through Deep Reinforcement Learning](https://arxiv.org/abs/1807.08058). I explored using a Graph Neural Network as a branching heuristic in [Conflict Driven Clause Learning](https://en.wikipedia.org/wiki/Conflict-driven_clause_learning) for [SAT solving](https://en.wikipedia.org/wiki/Boolean_satisfiability_problem).
 [![Undergrad_Thesis](/img/pdf.gif)](/pdf/Undergrad_Thesis.pdf)
 
 * As a sophomore interning at a [valuation firm](https://www.stout.com/en/services/complex-securities-and-financial-instruments) in the [securities valuation group](https://www.stout.com/en/services/complex-securities-and-financial-instruments), I wrote about the [derivation of the Black-Scholes Formula](/pdf/BSPaper.pdf).
@@ -17,7 +17,10 @@ active = true
 * As part of the [Berkeley Mathematics Directed Reading Program](https://math.berkeley.edu/wp/drp/), I read Evans’ [An Introduction to Stochastic Differential Equations](/pdf/EvansSDE.pdf) and gave a [presentation](/pdf/SDEbeamer.pdf) on SDEs to the Berkeley math community.
 [![presentation](/img/pdf.gif)](/pdf/SDEbeamer.pdf)
 
-* I love betting on football and basketball games, and I like to see how probability appears in sports betting, so I wrote [Betting and Basic Probability](/pdf/Betting.pdf) and [Moneylines and Implied Win Probability](/pdf/Moneylines.pdf) .
+* I love betting on football and basketball games, and I like to see how probability appears in sports betting, so I wrote [Betting and Basic Probability](/pdf/Betting.pdf) and [Moneylines and Implied Win Probability](/pdf/Moneylines.pdf).
 [![betting](/img/pdf.gif)](/pdf/Betting.pdf) [![moneylines](/img/pdf.gif)](/pdf/Moneylines.pdf)
+
+* The [2 Envelopes Problem](/pdf/2envelopes.pdf) is really cool.
+[![2envelopes](/img/pdf.gif)](/pdf/2envelopes.pdf)
 
 
