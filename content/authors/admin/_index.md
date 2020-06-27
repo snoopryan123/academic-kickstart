@@ -69,9 +69,9 @@ organizations:
 # - Visitors
 ---
 
-Starting fall 2020, I will be a first year PhD student at the [University of Pennsylvania](https://www.upenn.edu) in the [Applied Mathematics & Computational Science group](https://www.amcs.upenn.edu). My favorite subjects are probability and statistics.
+Starting fall 2020, I will be a first year PhD student at the [University of Pennsylvania](https://www.upenn.edu) in the [Applied Mathematics & Computational Science group](https://www.amcs.upenn.edu) as a [Benjamin Franklin Fellow](#). My favorite subjects are probability and statistics.
 
-For my undergraduate studies, I attended the [University of California, Berkeley](https://www.berkeley.edu), where I double majored in [Mathematics](https://math.berkeley.edu) and [Statistics](https://statistics.berkeley.edu), and minored in [Computer Science](https://eecs.berkeley.edu). At Berkeley, I was a [Regents' and Chancellor's Scholar](https://financialaid.berkeley.edu/regents-and-chancellors-scholarship). Outside of class, I used my math/statistics/CS knowledge by engaging in [research](#writings), joining the Berkeley math [directed reading program](#writings), interning at a [business valuation firm](https://www.stout.com/services/complex-securities-and-financial-instruments), and thinking about [sports betting](#writings).
+For my undergraduate studies, I attended the [University of California, Berkeley](https://www.berkeley.edu), where I double majored in [Mathematics](https://math.berkeley.edu) and [Statistics](https://statistics.berkeley.edu), and minored in [Computer Science](https://eecs.berkeley.edu). At Berkeley, I was a [Regents' and Chancellor's Scholar](https://financialaid.berkeley.edu/regents-and-chancellors-scholarship). Outside of class, I use my math/statistics/CS knowledge by engaging in [research](#writings) and writing about areas of [math](#writings) that pique my interest.
 
 Please enjoy this picture of me at a [Husky Cafe](https://www.facebook.com/neverlandsiberians/) in Bangkok, Thailand.
 
