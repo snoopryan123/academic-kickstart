@@ -90,13 +90,13 @@ author = "admin"
 * Singapore
     ![](/img/Singapore1.JPG)
 * Vietnam
+    - Ha Giang Province
+    ![](/img/HaGiang1.JPG)
+    ![](/img/HaGiang2.JPG)
     - Hanoi
     ![](/img/Hanoi1.JPG)
     ![](/img/Hanoi2.JPG)
     - Ho Chi Minh City
-    - Ha Giang Province
-    ![](/img/HaGiang1.JPG)
-    ![](/img/HaGiang2.JPG)
 * Thailand
     - Bangkok
 * Malaysia
