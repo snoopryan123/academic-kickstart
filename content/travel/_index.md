@@ -88,16 +88,21 @@ author = "admin"
 ### Asia
 
 * Singapore
+    ![](/img/Singapore1.JPG)
 * Vietnam
     - Hanoi
+    ![](/img/Hanoi1.JPG)
+    ![](/img/Hanoi2.JPG)
     - Ho Chi Minh City
     - Ha Giang Province
+    ![](/img/HaGiang1.JPG)
+    ![](/img/HaGiang2.JPG)
 * Thailand
     - Bangkok
 * Malaysia
     - Kuala Lumpur
-    ![](/img/KL1.jpg)
-    ![](/img/KL2.jpg)
+    ![](/img/KL1.JPG)
+    ![](/img/KL2.JPG)
 * Israel
     - Jerusalem
     - Tel Aviv
