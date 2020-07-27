@@ -13,9 +13,7 @@ author = "admin"
 
 # Travel.
 
-## USA
-
-### I've been to 26 states
+### USA (26 states)
 
 * Arizona
     - Grand Canyon
@@ -81,7 +79,7 @@ author = "admin"
     - Grand Teton National Park
     - Jackson Hole
     
-## Asia
+### Asia
 
 * Singapore
 * Vietnam
@@ -101,13 +99,13 @@ author = "admin"
 * Jordan
     - Petra
 
-## Africa
+### Africa
 
 * Egypt
     - Cairo
     - Egypt
 
-## Europe
+### Europe
 
 * United Kingdom
     - London, England
@@ -124,7 +122,7 @@ author = "admin"
     - Assisi
     - Como
 
-## Central America
+### Central America
 
 * Costa Rica
     - Arenal
