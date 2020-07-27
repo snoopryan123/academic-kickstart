@@ -81,68 +81,58 @@ author = "admin"
     - Grand Teton National Park
     - Jackson Hole
     
-## **Thailand**
+## Asia
 
-#### Bangkok
+* Singapore
+* Vietnam
+    - Hanoi
+    - Ho Chi Minh City
+    - Ha Giang Province
+* Thailand
+    - Bangkok
+* Malaysia
+    - Kuala Lumpur
+* Israel
+    - Jerusalem
+    - Tel Aviv
+    - Haifa
+    - Eilat
+    - Dead Sea
+* Jordan
+    - Petra
 
-## **Malaysia**
+## Africa
 
-#### Kuala Lumpur
+* Egypt
+    - Cairo
+    - Egypt
 
-## **Singapore**
+## Europe
 
-## **United Kingdom**
+* United Kingdom
+    - London, England
+    - Edinburgh, Scotland
+* France
+    - Paris
+* Switzerland
+    - Lucerne
+* Italy
+    - Rome
+    - Vatican
+    - Florence
+    - Pisa
+    - Assisi
+    - Como
 
-#### London
+## Central America
 
-#### Edinburgh
+* Costa Rica
+    - Arenal
+    - Monteverde
+    - Guanacaste
+    - San Jose
 
-## **France**
 
-#### Paris
-
-## **Italy**
-
-#### Firenze
-
-#### Pisa
-
-#### Assissi
-
-#### Rome
-
-#### Vatican
-
-## **Switzerland**
-
-#### Lucerne
-
-## **Israel**
-
-## **Jordan**
-
-#### Petra
-
-## **Egypt**
-
-#### Cairo
-
-#### Giza
-
-## **Costa Rica**
-
-## **United States of America**
-
-#### Home
-Los Angeles, CA
-
-## **Vietnam**
-
-#### Going December 2019!
-
-## **Argentina**
-
-#### Going December 2020!
 
 
 
