@@ -13,9 +13,7 @@ author = "admin"
 
 # Travel.
 
-![](/img/radiohead.jpg)
-
-![](/img/Teton.jpg)
+![](/img/Teton1.jpg)
 
 
 ### USA (26 states)
