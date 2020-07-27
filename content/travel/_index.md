@@ -17,9 +17,7 @@ author = "admin"
 
 * Arizona
     - Grand Canyon
-    
-![](/img/GrandCanyon1.jpg)
-    
+    ![](/img/GrandCanyon1.jpg)
     - Flagstaff
     - Sedona
 * California
@@ -98,6 +96,8 @@ author = "admin"
     - Bangkok
 * Malaysia
     - Kuala Lumpur
+    ![](/img/KL1.jpg)
+    ![](/img/KL2.jpg)
 * Israel
     - Jerusalem
     - Tel Aviv

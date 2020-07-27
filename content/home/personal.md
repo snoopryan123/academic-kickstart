@@ -8,7 +8,7 @@ weight="93"
 * Co-Creator of [<u>calhat</u>](/calhat/)
 * [<u>Music producer</u>](/music/)</u>
 * [<u>Artist</u>](/art/)
-* [<u>Travel</u>](/travel/)
+* [<u>Traveler</u>](/travel/)
 * [<u>Restaurants</u>](/food/)
 
 <!---
