@@ -8,7 +8,7 @@ active = true
 * For my [undergraduate senior thesis](/pdf/Undergrad_Thesis.pdf), I pursued a continuation of [Learning Heuristics for Automated Reasoning through Deep Reinforcement Learning](https://arxiv.org/abs/1807.08058). I explored using a Graph Neural Network as a branching heuristic in [Conflict Driven Clause Learning](https://en.wikipedia.org/wiki/Conflict-driven_clause_learning) for [SAT solving](https://en.wikipedia.org/wiki/Boolean_satisfiability_problem).
 [![Undergrad_Thesis](/img/pdf.gif)](/pdf/Undergrad_Thesis.pdf)
 
-* As a sophomore interning at a [valuation firm](https://www.stout.com/en/services/complex-securities-and-financial-instruments) in the [securities valuation group](https://www.stout.com/en/services/complex-securities-and-financial-instruments), I wrote about the [derivation of the Black-Scholes Formula](/pdf/BSPaper.pdf).
+* As a sophomore interning at a [valuation firm](https://www.stout.com/en/services/complex-securities-and-financial-instruments) in the [securities valuation group](https://www.stout.com/en/services/complex-securities-and-financial-instruments), I wrote about the [derivation of the Black-Scholes Formula](/pdf/BSPaper.pdf). Keep in mind, this was before I learned enough analysis/measure theory to fully justify Ito's Lemma.
 [![black-scholes](/img/pdf.gif)](/pdf/BSPaper.pdf)
 
 * I love betting on football and basketball games, and I like to see how probability appears in sports betting, so I wrote [Betting and Basic Probability](/pdf/Betting.pdf) and [Moneylines and Implied Win Probability](/pdf/Moneylines.pdf).
