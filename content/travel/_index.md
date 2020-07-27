@@ -88,9 +88,8 @@ author = "admin"
     ![](/img/travel/USA/Yellowstone2.jpg)
     - Grand Teton National Park
     ![](/img/Teton1.jpg)
+    ![](/img/travel/USA/Teton2.jpg)
 
-![](/img/Teton2.jpg)
-    
 ### Asia
 
 * Singapore
