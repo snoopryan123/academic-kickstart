@@ -11,8 +11,76 @@ weight = 10  # Order that this section will appear in.
 author = "admin"
 +++
 
-# I love travelling.
+# Travel.
 
+## USA
+
+### I've been to 26 states
+
+* Arizona
+    - Grand Canyon
+    - Flagstaff
+    - Sedona
+* California
+    - Los Angeles, my birthplace
+    - San Fransisco, Oakland, Berkeley
+    - San Diego
+    - Yosemite National Park
+    - Shasta-Trinity National Forest
+    - Mammoth & Lake Tahoe
+    - UC Berkeley, my undergraduate institution
+* Colorado
+    - Denver
+    - Vail, Beaver Creek
+* Connecticut
+* Florida
+    - Disney World
+    - Kennedy Space Center
+* Idaho
+    - Idaho Falls
+* Illinois
+    - Chicago
+* Indiana
+* Maryland
+    - Baltimore
+* Massachussetts
+    - Boston
+* Michigan
+    - Traverse City
+    - Ann Arbor
+* Minnesota
+    - Minneapolis
+* Missouri
+    - St. Louis
+* Montana
+    - Big Sky
+    - Bozeman
+    - Gallatin National Forest
+* Nevada
+    - Las Vegas
+* New Hampshire
+* New Jersey
+* New York
+    - New York
+* Pennsylvania
+   - Philadelphia
+   - University of Pennsylvania, where I am a PhD student
+* Rhode Island
+    - Providence
+* Utah
+    - Salt Lake City
+    - Willard Bay State Park
+    - Park City
+* Vermont
+* Virginia
+* Washington, DC
+* Wisconsin
+    - Madison
+* Wyoming
+    - Yellowstone National Park
+    - Grand Teton National Park
+    - Jackson Hole
+    
 ## **Thailand**
 
 #### Bangkok
@@ -67,15 +135,6 @@ author = "admin"
 
 #### Home
 Los Angeles, CA
-
-#### States (20)
-Arizona, California, Colorado, Connecticut, Florida, Illinois, Indiana, Maryland, Massachussetts, Michigan, Missouri, Nevada, New Hampshire, New Jersey, New York, Pennsylvania, Rhode Island, Utah, Vermont, Virginia
-
-#### Some Cities
-Boston, Chicago, Denver, Detroit, Las Vegas, Los Angeles, New York, Oakland, Philadelphia, Salt Lake City, San Diego, San Fransisco, St. Louis, Washington DC
-
-#### Baseball Stadiums (13)
-Angels, Athletics, Cardinals, Cubs, Dodgers, Giants, Mets, Nationals, Padres, Phillies, Rockies, Tigers, Yankees  
 
 ## **Vietnam**
 
