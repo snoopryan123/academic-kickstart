@@ -35,6 +35,12 @@ The biggest bowl of Bolognese I've ever seen at a restaurant. The red sauce here
 
 2019 Michelin Star Restaurant. Upscale modern interpretation on Thai cuisine. Lobster with basil sorbet. Mango sticky rice with melted cotton candy. A delicious leaf whose name a forgot.
 
+## **Japanese**
+
+#### [Morimoto, Philadelphia](https://morimotorestaurant.com)
+
+Delectable Japanese creations from an Iron Chef in a sleek, color-changing, vibrant setting.
+
 ## **Fries**
 
 #### [Reddi-Chick BBQ, Los Angeles](https://reddichickbbq.com)
