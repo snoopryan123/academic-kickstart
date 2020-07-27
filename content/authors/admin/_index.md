@@ -60,7 +60,7 @@ organizations:
 #   link: pdf/CV.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-# email: "ryansbrill@gmail.com"
+# email: "ryguy123@sas.upenn.edu"
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
