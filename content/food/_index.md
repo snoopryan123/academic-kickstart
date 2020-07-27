@@ -71,6 +71,12 @@ The juiciest, most tender burger I've ever had. Patty to die for. Delicious thri
 
 Overlooking the Chicago river, I ate a juicy, tender rib eye with an appropriate (i.e. copious) amount of fries.
 
+## **Fast Casual**
+
+#### [Chipotle](https://www.chipotle.com)
+
+I love Chipotle.
+
 ## **Favorite Vegetable**
 
 #### [Purple yam](https://en.wikipedia.org/wiki/Dioscorea_alata)
