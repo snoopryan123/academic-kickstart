@@ -17,6 +17,7 @@ author = "admin"
 
 * Arizona
     - Grand Canyon
+    ![](/img/travel/USA/GrandCanyon1.HEIC)
     - Flagstaff
     - Sedona
 * California
