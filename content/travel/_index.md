@@ -17,7 +17,9 @@ author = "admin"
 
 * Arizona
     - Grand Canyon
-    ![](/img/travel/USA/GrandCanyon1.HEIC)
+    
+    ![](/img/travel/USA/GrandCanyon1.jpg)
+    
     - Flagstaff
     - Sedona
 * California
@@ -30,7 +32,8 @@ author = "admin"
     - UC Berkeley, my undergraduate institution
 * Colorado
     - Denver
-    - Vail, Beaver Creek
+    - Vail
+    - Beaver Creek
 * Connecticut
 * Florida
     - Disney World
@@ -78,11 +81,11 @@ author = "admin"
 * Wyoming
     - Jackson Hole
     - Yellowstone National Park
-    ![](/img/travel/USA/Yellowstone1.HEIC)
-    ![](/img/travel/USA/Yellowstone2.HEIC)
+    ![](/img/travel/USA/Yellowstone1.jpg)
+    ![](/img/travel/USA/Yellowstone2.jpg)
     - Grand Teton National Park
-    ![](/img/travel/USA/Teton1.HEIC)
-    ![](/img/travel/USA/Teton1.HEIC)
+    ![](/img/travel/USA/Teton1.jpg)
+    ![](/img/travel/USA/Teton1.jpg)
     
 ### Asia
 
