@@ -13,10 +13,10 @@ author = "admin"
 
 # Travel.
 
+![](/img/Teton2.jpg)
+
+
 ### USA (26 states)
-
-![](/img/radiohead.jpg)
-
 
 * Arizona
     - Grand Canyon
