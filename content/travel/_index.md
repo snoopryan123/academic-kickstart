@@ -13,15 +13,12 @@ author = "admin"
 
 # Travel.
 
-![](/img/Teton1.jpg)
-
-
 ### USA (26 states)
 
 * Arizona
     - Grand Canyon
     
-![](/img/travel/USA/GrandCanyon1.jpg)
+![](/img/GrandCanyon1.jpg)
     
     - Flagstaff
     - Sedona
@@ -84,11 +81,11 @@ author = "admin"
 * Wyoming
     - Jackson Hole
     - Yellowstone National Park
-    ![](/img/travel/USA/Yellowstone1.jpg)
-    ![](/img/travel/USA/Yellowstone2.jpg)
+    ![](/img/Yellowstone1.jpg)
+    ![](/img/Yellowstone2.jpg)
     - Grand Teton National Park
     ![](/img/Teton1.jpg)
-    ![](/img/travel/USA/Teton2.jpg)
+    ![](/img/Teton2.jpg)
 
 ### Asia
 
