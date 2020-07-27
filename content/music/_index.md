@@ -6,13 +6,11 @@ author = "admin"
 
 #### SS 
 
-{{< audio name="Curb3" drivelink="https://drive.google.com/file/d/1lOPW5cZsvrplkAVo6PfYh_9bHtFa23j3/preview?usp=sharing
-" >}}
+{{< audio name="SS" drivelink="https://drive.google.com/file/d/1lOPW5cZsvrplkAVo6PfYh_9bHtFa23j3/preview?usp=sharing" >}}
 
 #### Ominous
 
-{{< audio name="Curb3" drivelink="https://drive.google.com/file/d/1vKsXS15zUZyb3mAK0kOzWrMta38_c4pt/preview?usp=sharing
-" >}}
+{{< audio name="Ominous" drivelink="https://drive.google.com/file/d/1vKsXS15zUZyb3mAK0kOzWrMta38_c4pt/preview?usp=sharing" >}}
 
 #### Curb 3
 
