@@ -13,6 +13,64 @@ author = "admin"
 
 # Travel.
 
+### Asia
+
+* Singapore
+    ![](/img/Singapore1.JPG)
+* Vietnam
+    - Ha Giang Province
+    ![](/img/HaGiang1.JPG)
+    ![](/img/HaGiang2.JPG)
+    - Hanoi
+    ![](/img/Hanoi1.JPG)
+    ![](/img/Hanoi2.JPG)
+    - Ho Chi Minh City
+* Thailand
+    - Bangkok
+* Malaysia
+    - Kuala Lumpur
+    ![](/img/KL1.JPG)
+    ![](/img/KL2.JPG)
+* Israel
+    - Jerusalem
+    - Tel Aviv
+    - Haifa
+    - Eilat
+    - Dead Sea
+* Jordan
+    - Petra
+
+### Africa
+
+* Egypt
+    - Cairo
+    - Egypt
+
+### Europe
+
+* United Kingdom
+    - London, England
+    - Edinburgh, Scotland
+* France
+    - Paris
+* Switzerland
+    - Lucerne
+* Italy
+    - Rome
+    - Vatican
+    - Florence
+    - Pisa
+    - Assisi
+    - Como
+
+### Central America
+
+* Costa Rica
+    - Arenal
+    - Monteverde
+    - Guanacaste
+    - San Jose
+
 ### USA (26 states)
 
 * Arizona
@@ -84,66 +142,6 @@ author = "admin"
     - Grand Teton National Park
     ![](/img/Teton1.jpg)
     ![](/img/Teton2.jpg)
-
-### Asia
-
-* Singapore
-    ![](/img/Singapore1.JPG)
-* Vietnam
-    - Ha Giang Province
-    ![](/img/HaGiang1.JPG)
-    ![](/img/HaGiang2.JPG)
-    - Hanoi
-    ![](/img/Hanoi1.JPG)
-    ![](/img/Hanoi2.JPG)
-    - Ho Chi Minh City
-* Thailand
-    - Bangkok
-* Malaysia
-    - Kuala Lumpur
-    ![](/img/KL1.JPG)
-    ![](/img/KL2.JPG)
-* Israel
-    - Jerusalem
-    - Tel Aviv
-    - Haifa
-    - Eilat
-    - Dead Sea
-* Jordan
-    - Petra
-
-### Africa
-
-* Egypt
-    - Cairo
-    - Egypt
-
-### Europe
-
-* United Kingdom
-    - London, England
-    - Edinburgh, Scotland
-* France
-    - Paris
-* Switzerland
-    - Lucerne
-* Italy
-    - Rome
-    - Vatican
-    - Florence
-    - Pisa
-    - Assisi
-    - Como
-
-### Central America
-
-* Costa Rica
-    - Arenal
-    - Monteverde
-    - Guanacaste
-    - San Jose
-
-
 
 
 
