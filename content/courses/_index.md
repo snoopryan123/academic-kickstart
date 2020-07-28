@@ -28,7 +28,7 @@ author = "admin"
 * __Stat 135__ Mathematical Statistics
 * __Stat 133__ Statistical Computing
 * __Stat 150__ Stochastic Processes
-* __Stat 155__ Game Theorys
+* __Stat 155__ Game Theory
 * __Stat 151A__ Linear Models
 * __CS 61A__ Structure and Interpretation of Computer Programs
 * __CS 61B__ Data Structures
