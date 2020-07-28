@@ -23,4 +23,6 @@ active = true
 * The [2 Envelopes Problem](/pdf/2envelopes.pdf) is really cool.
 [![2envelopes](/img/pdf.gif)](/pdf/2envelopes.pdf)
 
+* [Courses taken](/courses/)
+
 
