@@ -44,7 +44,7 @@ author = "admin"
 
 * Egypt
     - Cairo
-    - Egypt
+    - Giza
 
 ### Europe
 
@@ -71,7 +71,7 @@ author = "admin"
     - Guanacaste
     - San Jose
 
-### USA (26 states)
+### USA (27 states)
 
 * Arizona
     - Grand Canyon
@@ -94,6 +94,10 @@ author = "admin"
 * Florida
     - Disney World
     - Kennedy Space Center
+* Hawaii
+    - Oahu
+    - Maui
+    - Kauai
 * Idaho
     - Idaho Falls
 * Illinois
