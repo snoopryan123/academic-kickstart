@@ -20,45 +20,45 @@ author = "admin"
 
 ### Western USA
 
-* Washington
+1. Washington
     - Olympic Peninsula
     - Seattle
     - North Cascades
     - Vancouver
-* Montana
+2. Montana
     - Glacier National Park
     - Southern Alberta
     - Calgary
-* Oregon
+3. Oregon
     - Mount Lassen
     - Southern Oregon Class V Rafting
     - Crater Lake
     - Portland
-* Southern Utah
+4. Southern Utah
     - Zion National Park
     - Bryce National Park
-* Eastern Utah
+5. Eastern Utah
     - Canyonlands National Park
     - Arches National Park
-* Dakotas
+6. Dakotas
     - Badlands, SD
     - Teddy Roosevelt, ND
-* New Mexico
+7. New Mexico
     - Sante Fe
     - Albequerque
     - White Sands National Park
     - Taos
     - Roswell
-* Arizona
+8. Arizona
     - Saguaro National Park
     - Tuscon
     - Phoenix
     
 ### Eastern USA
 
-* Maine
+1. Maine
     - Acadia National Park
-* Weekend Trips from Philly
+2. Weekend Trips from Philly
     - The big cities (NYC, Boston, DC)
     - Pittsburgh
     - Atlantic City
@@ -75,11 +75,11 @@ author = "admin"
     
 ### Southern USA
 
-* Southern Florida
+1. Southern Florida
     - Key West
     - Biscayne National Park
     - Miami
-* Deep South 
+2. Deep South 
     - Louisiana
         - New Orleans
         - Baton Rouge
@@ -88,35 +88,31 @@ author = "admin"
         - Tuscaloosa
     - Georgia
         - Atlanta
-* Texas
+3. Texas
     - Austin
     - Houston
     - Dallas 
-* Virginia
+4. Virginia
     - Shenandoah (in the fall)
-* Central Florida
+5. Tennessee
+    - Nashville
+6. Central Florida
     - Tampa
     - Orlando
-* Tennessee
-    - Nashville
+    
+<!---
+### Other States
+
 * North Carolina
     - Raleigh
     - Duke
     - Charlotte
-    
-
-    
-<!---
-### States that I need a reason to go
-
 * South Carolina
     - Charleston
     - Plantations
     - Hilton Head Island
-    
 * Arkansas
     - Hot Springs
-
 * Nebraska
 * Kansas
 * Oklahoma
