@@ -147,5 +147,5 @@ author = "admin"
     ![](/img/Teton1.jpg)
     ![](/img/Teton2.jpg)
 
-
+### [Future Travel Ideas](/travel_plans/)
 
