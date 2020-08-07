@@ -11,7 +11,7 @@ weight = 10  # Order that this section will appear in.
 author = "admin"
 +++
 
-# Future Travel Plans.
+# Future Trip Ideas.
     
 ### Alaska
 
@@ -25,37 +25,30 @@ author = "admin"
     - Seattle
     - North Cascades
     - Vancouver
-    
 * Montana
     - Glacier National Park
     - Southern Alberta
     - Calgary
-    
 * Oregon
     - Mount Lassen
     - Southern Oregon Class V Rafting
     - Crater Lake
     - Portland
-    
 * Southern Utah
     - Zion National Park
     - Bryce National Park
-    
 * Eastern Utah
     - Canyonlands National Park
     - Arches National Park
-    
 * Dakotas
     - Badlands, SD
     - Teddy Roosevelt, ND
-    
 * New Mexico
     - Sante Fe
     - Albequerque
     - White Sands National Park
     - Taos
     - Roswell
-    
 * Arizona
     - Saguaro National Park
     - Tuscon
@@ -65,7 +58,6 @@ author = "admin"
 
 * Maine
     - Acadia National Park
-    
 * Weekend Trips from Philly
     - The big cities (NYC, Boston, DC)
     - Pittsburgh
@@ -87,7 +79,6 @@ author = "admin"
     - Key West
     - Biscayne National Park
     - Miami
-    
 * Deep South 
     - Louisiana
         - New Orleans
@@ -97,22 +88,17 @@ author = "admin"
         - Tuscaloosa
     - Georgia
         - Atlanta
-        
 * Texas
     - Austin
     - Houston
     - Dallas 
-    
 * Virginia
     - Shenandoah (in the fall)
-    
 * Central Florida
     - Tampa
     - Orlando
-    
 * Tennessee
     - Nashville
-    
 * North Carolina
     - Raleigh
     - Duke
