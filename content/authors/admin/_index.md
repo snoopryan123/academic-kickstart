@@ -79,3 +79,8 @@ Outside of class, I used my math/statistics/CS knowledge by engaging in [researc
 Please enjoy this picture of me at a [Husky Cafe](https://www.facebook.com/neverlandsiberians/) in Bangkok, Thailand.
 
 See also my [**CV**](pdf/CV.pdf).
+
+<a href="https://www.digits.net" target="_blank">
+  <img src="https://counter.digits.net/?counter={297035b4-5e06-f154-5558-c850c031e36e}&template=simple" 
+   alt="Hit Counter by Digits" border="0"  />
+</a>
