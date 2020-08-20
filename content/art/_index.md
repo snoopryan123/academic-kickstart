@@ -21,8 +21,4 @@ author = "admin"
 
 ![](/img/logic.jpg)
 
-#### Singapore, 2019:
-
-![](/img/singapore.jpg)
-
 #### And many more...
