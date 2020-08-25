@@ -25,13 +25,11 @@ author = "admin"
 
 #### [Rao's, Hollywood](http://www.raosrestaurants.com/our_story.html)
 
-Johnny Roastbeef from the 1990 classic Goodfellas is the host at Rao's Hollywood.
+Johnny Roastbeef from the 1990 classic [Goodfellas](https://en.wikipedia.org/wiki/Goodfellas) is the host at Rao's Hollywood.
 
 ## **Thai**
 
 #### [Sra Bua by Kiin Kiin, Bangkok](http://www.srabuabykiinkiin.com/en)
-
-2019 Michelin Star
 
 ## **Japanese**
 
@@ -39,7 +37,7 @@ Johnny Roastbeef from the 1990 classic Goodfellas is the host at Rao's Hollywood
 
 ## **Korean BBQ**
 
-#### [Chosun Galbee, Los Angeles](https://chosungalbee.com)
+#### [Chosun Galbee, Koreatown Los Angeles](https://chosungalbee.com)
 
 <!---
 ## **Indian**
@@ -55,13 +53,11 @@ Johnny Roastbeef from the 1990 classic Goodfellas is the host at Rao's Hollywood
 
 #### [Castle Terrace, Edinburgh](https://castleterracerestaurant.com)
 
-2011 Michelin Star
-
 ## **Fries**
 
 #### [Reddi-Chick BBQ, Los Angeles](https://reddichickbbq.com)
 
-These fries are so good that I went here to get friess before eating lunch at a different restaurant accross the street.
+These fries are so good that I went here to get fries before eating lunch at a different restaurant accross the street.
 
 ## **Burger**
 
