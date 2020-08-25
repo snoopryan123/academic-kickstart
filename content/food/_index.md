@@ -11,79 +11,68 @@ weight = 10  # Order that this section will appear in.
 author = "admin"
 +++
 
-# I've been to some delicious restaurants around the world.
+# Favorite restaurants around the world:
 
 ## **Barbeque**
 
 #### [Pappy's Smokehouse, St. Louis](https://www.pappyssmokehouse.com)
 
-1.5 hour line to get in. Tender baby back ribs, savory barbque sauce, unbeatable fries.
+1.5 hour line to get in.
 
 ## **Italian**
 
 #### [Hostaria Romana, Rome](http://www.hostariaromana.it)
 
-Simply the best Spaghetti alla Carbonara (a sauce featuring eggs and thick juicy bacon).
+#### [Rao's, Hollywood](http://www.raosrestaurants.com/our_story.html)
 
-#### [Rao's, Los Angeles](http://www.raosrestaurants.com/our_story.html)
-
-The biggest bowl of Bolognese I've ever seen at a restaurant. The red sauce here is so tasty that I continually buy it on Amazon to cook with. Even better than the food is the greeter, Johnny Williams, a.k.a. Johnny Roastbeef from the 1990 classic Goodfellas, whose stereotypical Brooklyn-Italian-mobster persona lights up the room.
+Johnny Roastbeef from the 1990 classic Goodfellas is the host at Rao's Hollywood.
 
 ## **Thai**
 
 #### [Sra Bua by Kiin Kiin, Bangkok](http://www.srabuabykiinkiin.com/en)
 
-2019 Michelin Star Restaurant. Upscale modern interpretation on Thai cuisine. Lobster with basil sorbet. Mango sticky rice with melted cotton candy. A delicious leaf whose name a forgot.
+2019 Michelin Star
 
 ## **Japanese**
 
 #### [Morimoto, Philadelphia](https://morimotorestaurant.com)
 
-Delectable Japanese creations from an Iron Chef in a sleek, color-changing, vibrant setting.
+## **Korean BBQ**
 
-## **Fries**
+#### [Chosun Galbee, Los Angeles](https://chosungalbee.com)
 
-#### [Reddi-Chick BBQ, Los Angeles](https://reddichickbbq.com)
+<!---
+## **Indian**
 
-These fries are so good that I went here to get fries to-go before eating lunch at a different restaurant accross the street.
+#### [Amber India, San Fransisco](https://www.amber-india.com/location/san-francisco/)
+--->
 
 ## **Chocolate Sorbet**
 
-#### [Babbo, New York City](https://www.babbonyc.com)
-
-Upscale Italian fare in Greenwich Village. The chocolate sorbet here was so rich that it felt more like chocolate soup.
+#### [Mo Gelato, Little Italy NYC](https://mogelato.com)
 
 ## **British with French Influence**
 
 #### [Castle Terrace, Edinburgh](https://castleterracerestaurant.com)
 
-2011 Michelin Star Restaurant. All about representing Scotland's finest produce, I recall eating a plethora of inventive dishes whose particulars I forgot, but whose delicious taste and notable impression will stay with me forever.
+2011 Michelin Star
 
-## **Indian**
+## **Fries**
 
-#### [Amber India, San Fransisco](https://www.amber-india.com/location/san-francisco/)
+#### [Reddi-Chick BBQ, Los Angeles](https://reddichickbbq.com)
 
-I came here for the lunch buffet and ate so much food that afterwards I had to take a 15 minute nap on the floor outside the restaurant. The buffet featured a menagerie of meats, veges, pancakes/breads, and sauces.
+These fries are so good that I went here to get friess before eating lunch at a different restaurant accross the street.
 
 ## **Burger**
 
 #### [The Little Bear, Los Angeles](https://littlebearla.com)
 
-The juiciest, most tender burger I've ever had. Patty to die for. Delicious thrice-fried belgian fries. Very cool DTLA vibe.
-
 ## **Steak**
 
 #### [Chicago Cut Steakhouse, Chicago](http://www.chicagocutsteakhouse.com)
 
-Overlooking the Chicago river, I ate a juicy, tender rib eye with an appropriate (i.e. copious) amount of fries.
+## **Bacon**
 
-## **Fast Casual**
+#### [Keen's Steakhouse, NYC](http://www.keens.com)
 
-#### [Chipotle](https://www.chipotle.com)
-
-I love Chipotle.
-
-## **Favorite Vegetable**
-
-#### [Purple yam](https://en.wikipedia.org/wiki/Dioscorea_alata)
 
