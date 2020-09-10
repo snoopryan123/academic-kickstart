@@ -8,6 +8,7 @@ weight="93"
 * Co-Creator of [<u>calhat</u>](/calhat/)
 * [<u>Music Production</u>](/music/)</u>
 * [<u>Art</u>](/art/)
+* [<u>Travel</u>](/travel/)
 
 <!---
 # * Co-Creator of the [Bet, Sweat, and Forget Podcast] on NFL Betting
