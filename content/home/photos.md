@@ -15,4 +15,6 @@ Photo of me presenting:
 
 ![](/img/presenting.jpg)
 
+To see where else I have [<u>traveled</u>](/travel/), click [here](/travel/).
+
 
