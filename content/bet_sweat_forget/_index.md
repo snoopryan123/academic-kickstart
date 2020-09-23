@@ -13,4 +13,4 @@ author = "admin"
 
 # The `Bet,Sweat, and Forget` Podcast
 
-Each NFL season, two gambling addicts, Nick Miller and Ryan Brill, compete weekly to pick the better NFL bets. Established Fall 2019. Check out the podcast on Apple Music and [Spotify](/https://open.spotify.com/show/1bABVhkwnd3sDaBSZLC0oY).
+Each NFL season, two gambling addicts, Nick Miller and Ryan Brill, compete weekly to pick the better NFL bets. Established Fall 2019. Check out the podcast on Apple Music and [Spotify](https://open.spotify.com/show/1bABVhkwnd3sDaBSZLC0oY).
