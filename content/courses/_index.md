@@ -15,7 +15,7 @@ author = "admin"
 
 ### University of Pennsylvania
 
-* __AMCS 602__ Applied Algebra I
+* __Amcs 602__ Applied Algebra I
 * __Math 608__ Analysis I
 * __Math 648__ Probability Theory
 * __Stat 970__ Mathematical Statistics
