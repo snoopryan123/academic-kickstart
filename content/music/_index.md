@@ -4,9 +4,17 @@ author = "admin"
 
 # I make rap instrumentals.
 
+#### Boop 
+
+{{< audio name="Boop" drivelink="https://drive.google.com/file/d/19EvvVQdnJrfToK5BPl8ozzP5xUCdQTfN/preview?usp=sharing" >}}
+
 #### SS 
 
 {{< audio name="SS" drivelink="https://drive.google.com/file/d/1lOPW5cZsvrplkAVo6PfYh_9bHtFa23j3/preview?usp=sharing" >}}
+
+#### Angry Monkeying
+
+{{< audio name="Angry Monkeying" drivelink="https://drive.google.com/file/d/19ROp6EyvkTKmXVq25p4Y_fFzSavg9hGC/preview?usp=sharing" >}}
 
 #### Ominous
 

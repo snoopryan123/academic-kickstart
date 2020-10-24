@@ -7,9 +7,9 @@ weight="93"
 * Creator of [<u>atme</u>](/atme/)
 * Co-Creator of [<u>calhat</u>](/calhat/)
 * Co-Creator of the [<u>Bet, Sweat, and Forget</u>](/bet_sweat_forget/) Podcast
-* [<u>Music Production</u>](/music/)</u>
-* [<u>Art</u>](/art/)
-* [<u>Travel</u>](/travel/)
+* [<u>Music Producer</u>](/music/)</u>
+* [<u>Artist</u>](/art/)
+* [<u>Traveler</u>](/travel/)
 
 <!---
 # * Co-Creator of the [Bet, Sweat, and Forget Podcast] on NFL Betting
