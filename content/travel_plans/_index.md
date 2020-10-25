@@ -58,7 +58,8 @@ author = "admin"
 
 1. Maine
     - Acadia National Park
-2. Weekend Trips from Philly
+2. Kansas City - Chiefs game with Pat Mahomes
+3. Weekend Trips from Philly
     - The big cities (NYC, Boston, DC)
     - Pittsburgh
     - Atlantic City
@@ -81,6 +82,7 @@ author = "admin"
     - Key West
     - Biscayne National Park
     - Miami
+    - Tampa: Bucaneers game with Tom Brady
 2. Deep South 
     - Louisiana
         - New Orleans
