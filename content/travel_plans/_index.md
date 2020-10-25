@@ -82,7 +82,6 @@ author = "admin"
     - Key West
     - Biscayne National Park
     - Miami
-    - Tampa: Bucaneers game with Tom Brady
 2. Deep South 
     - Louisiana
         - New Orleans
@@ -101,7 +100,7 @@ author = "admin"
 5. Tennessee
     - Nashville
 6. Central Florida
-    - Tampa
+    - Tampa: Bucaneers game with Tom Brady
     - Orlando
     
 <!---
