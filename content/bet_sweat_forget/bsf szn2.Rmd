@@ -1,0 +1,25 @@
+---
+title: "BSF Season 2"
+author: "Ryan Brill"
+date: "11/12/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(ggplot2)
+library(tidyr)
+```
+
+## Bet, Sweat, and Forget Season 2 results
+
+```{r}
+x <- c(20, 40, 20, -10)
+y <- c(-6, -12, 33, 20)
+z <- 1:4
+df<-data.frame(x,y,z)
+ggplot(data = df)+
+  geom_line(aes(x = df$z,y = df$x), color = "blue")+
+  geom_line(aes(x = df$z,y = df$y), color = "red")
+
+```
