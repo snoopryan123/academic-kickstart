@@ -1,7 +1,5 @@
 ---
-title: "BSF Season 2"
-author: "Ryan Brill"
-date: "11/12/2020"
+title: "Bet, Sweat, and Forget 2020 (Season 2)"
 output: html_document
 ---
 
@@ -11,15 +9,32 @@ library(ggplot2)
 library(tidyr)
 ```
 
-## Bet, Sweat, and Forget Season 2 results
+#### Each NFL season, two gambling addicts, Nick Miller and Ryan Brill, compete weekly to pick the better NFL bets. Established Fall 2019. Check out the podcast on Apple Music and [Spotify](https://open.spotify.com/show/1bABVhkwnd3sDaBSZLC0oY).
 
-```{r}
-x <- c(20, 40, 20, -10)
-y <- c(-6, -12, 33, 20)
-z <- 1:4
-df<-data.frame(x,y,z)
-ggplot(data = df)+
-  geom_line(aes(x = df$z,y = df$x), color = "blue")+
-  geom_line(aes(x = df$z,y = df$y), color = "red")
-
+```{r, echo=FALSE, warning=FALSE}
+nick <- c(35.83, 115.17, 103.78, 153.77, 173.33, 177.37, 174.54, 124.54, 74.54)
+ryan <- c(-7.09, -9.49, -1.02, 36.22, 31.47, 5.33, 61.17, 53.19, 47.2)
+#guest_profits <- c(20.74, -30.91, -23.69, -50, -41)
+guest_profits <- c(NA, 20.74, -30.91, NA,NA,NA, -23.69, -50, -41)
+guest_names <- c(NA,"Harrison", "Griffin", NA,NA,NA, "Vaish", "Kole", "Adil")
+if (length(ryan) == length(nick)) {
+  N = length(ryan)
+  num_weeks <- 1:N
+  df<-data.frame(nick, ryan, num_weeks, guest_profits, guest_names)
+  ggplot(data = df)+
+  geom_point(aes(x= df$num_weeks, y = df$guest_profits, color = "guest")) +
+  geom_text(aes(x= df$num_weeks, y = df$guest_profits, label=guest_names, color = "guest"),hjust=0, vjust=0) +
+  geom_line(aes(x = df$num_weeks, y = df$nick, color = "nick")) +
+  geom_line(aes(x = df$num_weeks, y = df$ryan, color = "ryan")) +
+  geom_line(aes(x = df$num_weeks, y = rep(0, N), color = "zero")) +
+  scale_color_manual(values=c("darkmagenta", "firebrick", "dodgerblue2", "gray65")) +
+  labs(title = "Bet, Sweat, and Forget 2020 NFL Betting Results", x = "Week Number", y = "Cumulative Profit", color="") +
+  scale_x_continuous(breaks = num_weeks) 
+}
 ```
+
+<!---
+## 2020 Week 10 NFL Bets
+--->
+
+
