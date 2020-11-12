@@ -1,5 +1,5 @@
 ---
-title: "Bet, Sweat, and Forget."
+title: ""
 output: html_document
 ---
 
@@ -9,7 +9,9 @@ library(ggplot2)
 library(tidyr)
 ```
 
-#### Each NFL season, two gambling addicts, Nick Miller and Ryan Brill, compete weekly on the `Bet, Sweat, and Forget` podcast to pick the better NFL bets. Established Fall 2019. Check out the podcast on Apple Music and [Spotify](https://open.spotify.com/show/1bABVhkwnd3sDaBSZLC0oY).
+# [Bet, Sweat, and Forget](https://open.spotify.com/show/1bABVhkwnd3sDaBSZLC0oY)
+
+#### Each week during the NFL season, two gambling addicts, Nick Miller and Ryan Brill, make $50 worth of NFL bets on the [Bet, Sweat, and Forget](https://open.spotify.com/show/1bABVhkwnd3sDaBSZLC0oY) podcast, competing for glory and the title of "best bettor". Check out the podcast on Apple Podcasts and [Spotify](https://open.spotify.com/show/1bABVhkwnd3sDaBSZLC0oY).
 
 ```{r, echo=FALSE, warning=FALSE}
 nick <- c(35.83, 115.17, 103.78, 153.77, 173.33, 177.37, 174.54, 124.54, 74.54)
@@ -27,7 +29,7 @@ if (length(ryan) == length(nick)) {
   geom_line(aes(x = df$num_weeks, y = df$nick, color = "nick")) +
   geom_line(aes(x = df$num_weeks, y = df$ryan, color = "ryan")) +
   geom_line(aes(x = df$num_weeks, y = rep(0, N), color = "zero")) +
-  scale_color_manual(values=c("darkmagenta", "firebrick", "dodgerblue2", "gray65")) +
+  scale_color_manual(values=c("gray25", "firebrick", "dodgerblue2", "gray65")) +
   labs(title = "Bet, Sweat, and Forget 2020 NFL Betting Results", x = "NFL Week Number", y = "Cumulative Profit, USD", color="") +
   scale_x_continuous(breaks = num_weeks) 
 }

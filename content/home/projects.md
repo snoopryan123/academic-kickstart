@@ -6,7 +6,7 @@ weight="93"
 
 * Creator of [<u>atme</u>](/atme/)
 * Co-Creator of [<u>calhat</u>](/calhat/)
-* Co-Creator of the [<u>Bet, Sweat, and Forget</u>](/bet_sweat_forget/) Podcast
+* Co-Creator of the [<u>Bet, Sweat, and Forget</u>](/bsf/) Podcast
 * [<u>Music Producer</u>](/music/)</u>
 * [<u>Artist</u>](/art/)
 * [<u>Traveler</u>](/travel/)
