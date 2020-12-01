@@ -11,16 +11,21 @@ weight = 10  # Order that this section will appear in.
 author = "admin"
 +++
 
-# Current Courses.
+# Courses.
 
 ### University of Pennsylvania
 
-* __Amcs 602__ Applied Algebra I
-* __Math 608__ Analysis I
+* __Amcs 602__ Applied Linear Algebra
+* __Math 608__ Complex Analysis, Measure Theory, and Integration
+* __Math 609__ Functional Analysis
 * __Math 648__ Probability Theory
+* __Math 649__ Stochastic Processes
 * __Stat 970__ Mathematical Statistics
 
-# Courses Taken.
+<!---
+* __Stat 927__ Bayesian Statistics
+* __Amcs 603__ Applied Abstract Algebra
+--->
 
 ### UC Berkeley
 
