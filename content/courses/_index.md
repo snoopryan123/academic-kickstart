@@ -16,16 +16,13 @@ author = "admin"
 ### University of Pennsylvania
 
 * __Amcs 602__ Applied Linear Algebra
+* __Amcs 603__ Applied Abstract Algebra
 * __Math 608__ Complex Analysis, Measure Theory, and Integration
 * __Math 609__ Functional Analysis
 * __Math 648__ Probability Theory
 * __Math 649__ Stochastic Processes
 * __Stat 970__ Mathematical Statistics
-
-<!---
 * __Stat 927__ Bayesian Statistics
-* __Amcs 603__ Applied Abstract Algebra
---->
 
 ### UC Berkeley
 
