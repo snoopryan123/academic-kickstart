@@ -39,6 +39,8 @@ if (length(ryan) == length(nick)) {
 }
 ```
 
+#### Check out the details of our weekly bets [here](https://docs.google.com/spreadsheets/d/13TNrDf-RFrJfA36LXjcGHZ5fr_W4pD1yO2_RyniTxww/edit?usp=sharing).
+
 <!---
 ## 2020 Week 10 NFL Bets
 --->
