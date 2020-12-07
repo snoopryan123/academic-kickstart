@@ -11,7 +11,7 @@ Photo of us exploring Singapore:
 
 ![](/img/singaporefour.jpg)
 
-Photo of me presenting:
+Photo of low-rank approximations of my face, using the SVD:
 
-![](/img/presenting.jpg)
+![](/img/svd_faces.jpg)
 
