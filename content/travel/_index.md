@@ -124,6 +124,7 @@ author = "admin"
 * New Jersey
 * New York
     - New York
+    - Syracuse
 * Pennsylvania
    - Philadelphia
    - University of Pennsylvania, where I am a PhD student

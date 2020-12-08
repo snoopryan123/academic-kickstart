@@ -14,12 +14,12 @@ library(tidyr)
 #### Each week during the NFL season, two gambling addicts, Nick Miller and Ryan Brill, make $50 worth of NFL bets on the [Bet, Sweat, and Forget](https://open.spotify.com/show/1bABVhkwnd3sDaBSZLC0oY) podcast, competing for glory and the title of "best bettor". Check out the podcast on Apple Podcasts and [Spotify](https://open.spotify.com/show/1bABVhkwnd3sDaBSZLC0oY).
 
 ```{r, echo=FALSE, warning=FALSE}
-nick <- c(35.83, 115.17, 103.78, 153.77, 173.33, 177.37, 174.54, 124.54, 74.54, 62.72, NA, NA)
-ryan <- c(-7.09, -9.49, -1.02, 36.22, 31.47, 5.33, 61.17, 53.19, 47.2, 32.29, 19.32, 42.88)
+nick <- c(35.83, 115.17, 103.78, 153.77, 173.33, 177.37, 174.54, 124.54, 74.54, 62.72, NA, 62.72, 85.53)
+ryan <- c(-7.09, -9.49, -1.02, 36.22, 31.47, 5.33, 61.17, 53.19, 47.2, 32.29, 19.32, 42.88, 44.86)
 #guest_profits <- c(20.74, -30.91, -23.69, -50, -41)
-guest_profits <- c(NA, 20.74, -30.91, NA,NA,NA, -23.69, -50, -41, -21.36, -40, -23.73, -7.51)
-guest_names <- c(NA,"Harrison", "Griffin", NA,NA,NA, "Vaish", "Kole", "Adil", "Jake", "Aaron", "Griffin", "Griffin")
-guest_weeks <- c(1:9, 10, 10, 11:12)
+guest_profits <- c(NA, 20.74, -30.91, NA,NA,NA, -23.69, -50, -41, -21.36, -40, -23.73, -7.51, 19.27)
+guest_names <- c(NA,"Harrison", "Griffin", NA,NA,NA, "Vaish", "Kole", "Adil", "Jake", "Aaron", "Griffin", "Griffin", "Griffin")
+guest_weeks <- c(1:9, 10, 10, 11:13)
 if (length(ryan) == length(nick)) {
   N = length(ryan)
   num_weeks <- 1:N
@@ -35,7 +35,8 @@ if (length(ryan) == length(nick)) {
   geom_line(aes(x = df$num_weeks, y = rep(0, N), color = "zero")) +
   scale_color_manual(values=c("gray25", "firebrick", "dodgerblue2", "gray65")) +
   labs(title = "Bet, Sweat, and Forget 2020 NFL Betting Results", x = "NFL Week Number", y = "Cumulative Profit, USD", color="") +
-  scale_x_continuous(breaks = num_weeks) 
+  scale_x_continuous(breaks = num_weeks) +
+  expand_limits(x = N+1, y = 0)
 }
 ```
 
