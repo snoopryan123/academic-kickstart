@@ -86,10 +86,10 @@ author = "admin"
     - Shasta-Trinity National Forest
     - Mammoth & Lake Tahoe
     - Death Valley
-    ![](/img/deathvalley1.HEIC)
-    ![](/img/deathvalley2.HEIC)
-    ![](/img/deathvalley3.HEIC)
-    ![](/img/deathvalley4.HEIC)
+    ![](/img/deathvalley1.jpg)
+    ![](/img/deathvalley2.jpg)
+    ![](/img/deathvalley3.jpg)
+    ![](/img/deathvalley4.jpg)
 * Colorado
     - Denver
     - Vail
