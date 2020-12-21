@@ -80,12 +80,16 @@ author = "admin"
     - Sedona
 * California
     - Los Angeles, my birthplace
-    - San Fransisco, Oakland, Berkeley
+    - San Fransisco/Oakland/Berkeley
     - San Diego
     - Yosemite National Park
     - Shasta-Trinity National Forest
     - Mammoth & Lake Tahoe
-    - UC Berkeley, my undergraduate institution
+    - Death Valley
+    ![](/img/deathvalley1.HEIC)
+    ![](/img/deathvalley2.HEIC)
+    ![](/img/deathvalley3.HEIC)
+    ![](/img/deathvalley4.HEIC)
 * Colorado
     - Denver
     - Vail
