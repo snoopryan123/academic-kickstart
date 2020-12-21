@@ -84,12 +84,12 @@ author = "admin"
     - San Diego
     - Yosemite National Park
     - Shasta-Trinity National Forest
-    - Mammoth & Lake Tahoe
     - Death Valley
     ![](/img/deathvalley1.jpg)
-    ![](/img/deathvalley2.jpg)
+    ![](/img/deathvalley2)
     ![](/img/deathvalley3.jpg)
     ![](/img/deathvalley4.jpg)
+    - Mammoth & Lake Tahoe
 * Colorado
     - Denver
     - Vail
