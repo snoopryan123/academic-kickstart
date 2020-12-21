@@ -86,7 +86,7 @@ author = "admin"
     - Shasta-Trinity National Forest
     - Death Valley
     ![](/img/deathvalley1.jpg)
-    ![](/img/deathvalley2)
+    ![](/img/deathvalley2.jpg)
     ![](/img/deathvalley3.jpg)
     ![](/img/deathvalley4.jpg)
     - Mammoth & Lake Tahoe
