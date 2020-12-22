@@ -22,34 +22,32 @@ author = "admin"
 
 1. Washington
     - Olympic Peninsula
-    - Seattle
+    - Mount Rainier
     - North Cascades
+    - Seattle
     - Vancouver
 2. Montana
     - Glacier National Park
     - Southern Alberta
     - Calgary
-3. Oregon
-    - Mount Lassen
-    - Southern Oregon Class V Rafting
-    - Crater Lake
-    - Portland
+3. Eastern Utah
+    - Canyonlands National Park
+    - Arches National Park
 4. Southern Utah
     - Zion National Park
     - Bryce National Park
-5. Eastern Utah
-    - Canyonlands National Park
-    - Arches National Park
+5. Oregon
+    - Crater Lake
+    - Portland
 6. Dakotas
     - Badlands, SD
     - Teddy Roosevelt, ND
 7. New Mexico
     - Sante Fe
-    - Albequerque
     - White Sands National Park
     - Taos
     - Roswell
-8. Arizona
+8. Southern Arizona
     - Saguaro National Park
     - Tuscon
     - Phoenix

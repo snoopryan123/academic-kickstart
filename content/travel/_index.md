@@ -87,8 +87,11 @@ author = "admin"
     - Death Valley
     ![](/img/deathvalley1.jpg)
     ![](/img/deathvalley2.jpg)
+    
+    <!---
     ![](/img/deathvalley3.jpg)
     ![](/img/deathvalley4.jpg)
+    --->
     - Mammoth & Lake Tahoe
 * Colorado
     - Denver
