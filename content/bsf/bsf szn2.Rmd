@@ -14,11 +14,11 @@ library(tidyr)
 #### Each week during the NFL season, two gambling addicts, Nick Miller and Ryan Brill, make $50 worth of NFL bets on the [Bet, Sweat, and Forget](https://open.spotify.com/show/1bABVhkwnd3sDaBSZLC0oY) podcast, competing for glory and the title of "best bettor". Check out the podcast on Apple Podcasts and [Spotify](https://open.spotify.com/show/1bABVhkwnd3sDaBSZLC0oY).
 
 ```{r, echo=FALSE, warning=FALSE}
-nick <- c(0,35.83, 115.17, 103.78, 153.77, 173.33, 177.37, 174.54, 124.54, 74.54, 62.72, 62.72, 62.72, 85.53, 52.49, 52.49)
-ryan <- c(0,-7.09, -9.49, -1.02, 36.22, 31.47, 5.33, 61.17, 53.19, 47.2, 32.29, 19.32, 42.88, 44.86, 13.56, 13.56)
-guest_profits <- c(NA,NA, 20.74, -30.91, NA,NA,NA, -23.69, -50, -41, -21.36, -40, -23.73, -7.51, 19.27, -50, NA)
-guest_names <- c(NA,NA,"Harrison", "Griffin", NA,NA,NA, "Vaish", "Kole", "Adil", "Jake", "Aaron", "Griffin", "Griffin", "Griffin", "Bernie",NA)
-guest_weeks <- c(0:9, 10, 10, 11:15)
+nick <- c(0,35.83, 115.17, 103.78, 153.77, 173.33, 177.37, 174.54, 124.54, 74.54, 62.72, 62.72, 62.72, 85.53, 52.49, 52.49, 69.76)
+ryan <- c(0,-7.09, -9.49, -1.02, 36.22, 31.47, 5.33, 61.17, 53.19, 47.2, 32.29, 19.32, 42.88, 44.86, 13.56, 13.56, -20.31)
+guest_profits <- c(NA,NA, 20.74, -30.91, NA,NA,NA, -23.69, -50, -41, -21.36, -40, -23.73, -7.51, 19.27, -50, NA, -50)
+guest_names <- c(NA,NA,"Harrison", "Griffin", NA,NA,NA, "Vaish", "Kole", "Adil", "Jake", "Aaron", "Griffin", "Griffin", "Griffin", "Bernie",NA, "Jerry")
+guest_weeks <- c(0:9, 10, 10, 11:16)
 if (length(ryan) == length(nick)) {
   N = length(ryan)
   num_weeks <- 0:(N-1)
