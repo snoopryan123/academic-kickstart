@@ -16,14 +16,15 @@
   weight = 2
 
 [[main]]
-  name = "Math"
-  url = "#writings"
+  name = "Gambling"
+  url = "#gambling"
   weight = 3
 
 [[main]]
-  name = "Gambling"
-  url = "#gambling"
+  name = "Math"
+  url = "#writings"
   weight = 4
+
 
 [[main]]
   name = "Projects"
