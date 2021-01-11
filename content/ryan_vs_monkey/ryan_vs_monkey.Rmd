@@ -165,7 +165,7 @@ We compute their z-scores via
 $$Z = \frac{\overline{X}-\mu_0}{\sigma_0/\sqrt{n}},$$
 
 so Ryan and Nicks' z-scores are given by
-$$Z_{ryan} = `r round(z_ryan,2)` \qquad \text{and} \qquad Z_{nick} = `r round(x_bar_nick,2)`.$$
+$$Z_{ryan} = `r round(z_ryan,3)` \qquad \text{and} \qquad Z_{nick} = `r round(z_nick,3)`.$$
 
 ### Confidence Interval
 
