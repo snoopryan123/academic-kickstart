@@ -53,23 +53,35 @@ $$
 
 The monkey's total weekly profit is thus given by the random variable $Y:=Y_1+\cdots+Y_N$.
 
+We transform these random variables $\{Y_i\}_{i=1}^{N}$ into Bernoulli($1/2$) random variables $\{A_i\}_{i=1}^{N}$ via
+$$
+A_i := \bigg( Y_i + \frac{B}{N}\bigg)\cdot \frac{NM}{B(100+M)} \overset{iid}{\sim} \text{ Bernoulli}(1/2) = \begin{cases}
+    0 & \text{with probability } 1/2 \text{ (monkey loses its bet}) \\
+    1 & \text{with probability } 1/2 \text{ (monkey wins its bet}).
+  \end{cases}
+$$
+
+Therefore $A = A_1+\cdots+A_N \sim \text{ Binomial}(N,1/2)$, so $\mathbb{E}A = N/2$ and $\text{Var}(A) = N/4$.
+
+Now, inverting the formula for $A_i$, we see that
+$$Y_i = A_i \cdot \frac{B(100+M)}{NM} - \frac{B}{N},$$
+
+so the monkey's total weekly profit is given by
+$$Y = Y_1+\cdots+Y_N = A \cdot \frac{B(100+M)}{NM} - B.$$
+
 Therefore
+$$\mu_0 := \mathbb{E}Y = \mathbb{E}A \cdot \frac{B(100+M)}{NM} - B =  \frac{N}{2} \cdot \frac{B(100+M)}{NM} - B = \frac{B(100-M)}{2M}$$
 
-$$\mu_0 := \mathbb{E}Y = N\cdot \mathbb{E}Y_1 = \frac{N}{2}\bigg(\frac{-B}{N} +  \frac{B}{N} \cdot \frac{100}{M} \bigg) = \frac{B\cdot(100-M)}{2M}$$
+Because $M$ is a moneyline, we have $M\geq 100$, and so $\mu_0 \leq 0$, so a monkey placing sports bets randomly expects to lose money. This makes sense, because if randomly sports betting were profitable, then casinos wouldn't offer sports bets.
 
-and 
+Moreover, 
+$$\sigma^2_0 := \text{Var}(Y) = \text{Var}(A) \cdot \frac{B^2(100+M)^2}{N^2M^2} = \frac{N}{4} \cdot \frac{B^2(100+M)^2}{N^2M^2} = \frac{B^2(100+M)^2}{4M^2N}.$$
 
-$$\begin{aligned}
-  \sigma_0^2(N) & :=\text{Var}(Y) \\
-  &= \mathbb{E}Y^2 - (\mathbb{E}Y)^2 \\
-  &= \sum_i \mathbb{E}Y^2_i + \sum_{i\neq j} \mathbb{E}Y_iY_j - \mu^2_0 \\
-  &= N \cdot \mathbb{E}Y^2_1 + N(N-1)\cdot \mathbb{E}Y_1\mathbb{E}Y_2 - \mu^2_0 \\
-  &= N \cdot \frac{1}{2}\bigg( \frac{B^2}{N^2} + \frac{B^2}{N^2}\cdot\frac{100^2}{M^2}\bigg) + N(N-1)\cdot \bigg( \frac{-B}{N} + \frac{B}{N}\cdot\frac{100}{M}\bigg)^2 - \mu^2_0 \\
-  &= \frac{B^2}{2N}\bigg(\frac{100^2 + M^2}{M^2}\bigg) + \frac{B^2(N-1)}{N}\bigg(\frac{100-M}{M}\bigg)^2 - \mu^2_0 \\
-  &= \frac{B^2}{N M^2} \big[(100^2+M^2)/2 + (N-1) (100-M)^2 \big] - \mu_0^2.
-\end{aligned}$$
+The standard deviation $\sigma_0$ of a monkey's weekly profit is proportional to $1/N$, so $\sigma_0$ decreases as $N$ increases. This makes sense because making $N=1$ bet corresponds to "boom or bust" - either you hit the bet and make a lot of money, or you lose the bet and lose a lot of money, which corresponds to high variance. Conversely, making many bets - say, 10 bets - corresponds to lower variance since you have a good chance of hitting 3,4,5,6,or 7 bets, whose corresponding profits are closer to the mean, as oppossed to hitting 0,1,9, or 10 bets.
 
-Now, the screenshot below, taken from an online casino, shows the pointspread bets from the 2021 divisional playoff round. This screenshot shows that it is reasonable to take $M=110$.
+### Choosing Values for the Constants $M,B,N$ in order to Compute $\mu_0$ and $\sigma_0$
+
+The screenshot below, taken from an online casino, shows the pointspread bets from the 2021 divisional playoff round. This screenshot shows that it is reasonable to take $M=110$.
 
 <center>
 ![](2021_divisional_pointspreads.png){width=450px}
@@ -77,47 +89,24 @@ Now, the screenshot below, taken from an online casino, shows the pointspread be
 
 Moreoever, during each week of the 2020 NFL season, Ryan Brill made $\$50$ worth of NFL bets on the [Bet, Sweat, and Forget Podcast](https://ryansbrill.com/bsf/), so we shall take $B=50$.
 
-Thus, using $B=50$ and $M=110$, we get $\mu_0 =$
-
 ```{r,comment=NA, echo=FALSE}
 B = 50
 M = 110
-mu_0 = B*(100-M)/(2*M)
-mu_0
+mu_0 = round(B*(100-M)/(2*M),2)
 ```
 
-In other words, a monkey wagering $\$50$ profits $-\$2.27$ on average. This makes sense because our choice of $M=-110$ for the average moneyline indicates that sports betting should be slightly unprofitable.
-
-Furthermore, it is interesting to note that the standard deviation $\sigma_0 = \sigma_0(N)$ of a monkey's weekly profit decreases as $N$ increases:
+Thus, using $B=50$ and $M=110$, we get $\mu_0 = `r mu_0`$. In other words, a monkey wagering $\$50$ profits $\$`r mu_0`$ on average. This makes sense because our choice of $-110$ for the average moneyline indicates that sports betting should be slightly unprofitable.
 
 ```{r, comment=NA, echo=FALSE}
 sigma_Y <- function(N) {
-  v = B^2/(N*M^2) * ((100^2+M^2)/2 + (N-1)*(100-M)^2) - mu_0^2
+  v = B^2*(100+M)^2/(4*N*M^2)
   sqrt(v)
 }
-
-NN = 10
-x <- 1:NN
-y <- sigma_Y(1:NN)
-df <- data.frame(x,y)
-ggplot(data = df) +
-  geom_point(data = df, aes(x= df$x, y = df$y)) +
-  geom_line(aes(x = df$x, y = df$y)) +
-  labs(title = "", x = "number of bets N that a monkey places per week", y = "standard deviation of a monkey's weekly bets")
-```
-
-This makes sense because making 1 bet corresponds to "boom or bust" - either you hit the bet and make a lot of money, or you lose the bet and lose a lot of money, which corresponds to high variance. Conversely, making many bets - say, 10 bets - corresponds to lower variance since you have a good chance of hitting 3,4,5,6,or 7 bets, whose corresponding profits are closer to the mean, as oppossed to hitting 0,1,9, or 10 bets.
-
-Now, looking at Ryan Brill and Nick Miller's betting data from the 2020 [Bet, Sweat, and Forget Podcast](https://ryansbrill.com/bsf/), we shall take $N=4$, which yields $\sigma_0 =$
-```{r, comment=NA, echo=FALSE}
 N = 4
-sigma_0 = sigma_Y(N)
-sigma_0
+sigma_0 = round(sigma_Y(N),2)
 ```
 
-In conclusion, we shall be using  
-$$\mu_0 = `r round(mu_0,2)` \qquad \text{and} \qquad \sigma_0 = `r round(sigma_0,2)`.$$
-
+Furthermore, looking at Ryan Brill and Nick Miller's betting data from the 2020 [Bet, Sweat, and Forget Podcast](https://ryansbrill.com/bsf/), we shall take the average number of bets per week to be $N=4$, which yields $\sigma_0 = `r sigma_0`$.
 
 ### Computing $\overline{X}$ and $Z$
 
