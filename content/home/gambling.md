@@ -1,6 +1,6 @@
 +++
 author = "admin"
-title="Math"
+title="Gambling"
 weight="50"
 active = true
 +++
@@ -9,10 +9,11 @@ active = true
 
 * [Is Ryan Brill better at sports betting than a monkey?](/ryan_vs_monkey/)
 
-* [Betting and Basic Probability](/pdf/Betting.pdf)  
-[![betting](/img/pdf.gif)](/pdf/Betting.pdf)
+* [The Expected Value Strategy in Gambling](/pdf/Betting.pdf)  
 
 * [Moneylines and Implied Win Probability](/pdf/Moneylines.pdf)
+
+<!---
+[![betting](/img/pdf.gif)](/pdf/Betting.pdf)
  [![moneylines](/img/pdf.gif)](/pdf/Moneylines.pdf)
-
-
+--->
