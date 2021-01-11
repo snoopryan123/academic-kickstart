@@ -194,7 +194,7 @@ Both Ryan's z-score `r z_ryan` and Nick's z-score `r z_nick` lie inside the 95% 
 
 The following chart illustrates confidence intervals at other significance levels:
 
-| Percent Confidence Interval | Confidence Interval |
+| Confidence Level | Confidence Interval |
 |---|---|
 |85%|$[-\infty, `r round(qnorm(.85),3)`]$|
 |90%|$[-\infty, `r round(qnorm(.9),3)`]$|
