@@ -11,10 +11,12 @@ active = true
 * As a sophomore interning at a [valuation firm](https://www.stout.com/en/services/complex-securities-and-financial-instruments) in the [securities valuation group](https://www.stout.com/en/services/complex-securities-and-financial-instruments), I wrote about the [derivation of the Black-Scholes Formula](/pdf/BSPaper.pdf).
 [![black-scholes](/img/pdf.gif)](/pdf/BSPaper.pdf)
 
+
+
+<!---
 * I love betting on football and basketball games, and I like to see how probability appears in sports betting, so I wrote [Betting and Basic Probability](/pdf/Betting.pdf) and [Moneylines and Implied Win Probability](/pdf/Moneylines.pdf).
 [![betting](/img/pdf.gif)](/pdf/Betting.pdf) [![moneylines](/img/pdf.gif)](/pdf/Moneylines.pdf)
 
-<!---
 * As part of [Research in Industrial Projects for Students, Singapore](https://www.ipam.ucla.edu/programs/student-research-programs/research-in-industrial-projects-for-students-rips-2019-singapore/), my group gave a [beamer presentation](/pdf/CoqBeamerTalk.pdf) to the NUS math community, wrote a [report](pdf/RIPS_Report.pdf) summarizing what we did, and presented a [poster](/pdf/JMM2020.pdf) at JMM 2020 in Denver.
 [![presentation](/img/pdf.gif)](/pdf/CoqBeamerTalk.pdf) [![report](/img/pdf.gif)](/pdf/RIPS_Report.pdf) [![poster](/img/pdf.gif)](/pdf/JMM2020.pdf)
     
