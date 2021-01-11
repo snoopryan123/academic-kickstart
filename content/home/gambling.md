@@ -9,9 +9,10 @@ active = true
 
 * [Is Ryan Brill better at sports betting than a monkey?](/ryan_vs_monkey/)
 
+* [Moneylines and Implied Win Probability](/pdf/Moneylines.pdf)
+
 * [The Expected Value Strategy in Gambling](/pdf/Betting.pdf)  
 
-* [Moneylines and Implied Win Probability](/pdf/Moneylines.pdf)
 
 <!---
 [![betting](/img/pdf.gif)](/pdf/Betting.pdf)
