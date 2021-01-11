@@ -41,6 +41,8 @@ if (length(ryan) == length(nick)) {
 
 #### Check out the details of our weekly bets [here](https://docs.google.com/spreadsheets/d/13TNrDf-RFrJfA36LXjcGHZ5fr_W4pD1yO2_RyniTxww/edit?usp=sharing).
 
+#### [Are Ryan Brill and Nick Miller better at sports betting than a monkey?](https://ryansbrill.com/ryan_vs_monkey/)
+
 <!---
 ## 2020 Week 10 NFL Bets
 --->
