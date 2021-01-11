@@ -10,13 +10,12 @@ weight = 10  # Order that this section will appear in.
 # See https://sourcethemes.com/academic/docs/get-started/#introduce-yourself
 author = "admin"
 +++
-<!---
 # Courses.
 
 ### University of Pennsylvania
 
-* __Amcs 602__ Applied Linear Algebra
-* __Amcs 603__ Applied Abstract Algebra
+* __Amcs 602__ Numerical Linear Algebra
+* __Amcs 603__ Numerical Analysis
 * __Math 608__ Complex Analysis, Measure Theory, and Integration
 * __Math 609__ Functional Analysis
 * __Math 648__ Probability Theory
@@ -48,7 +47,5 @@ author = "admin"
 * __CS 170__ Algorithms
 * __CS 188__ Artifical Intelligence
 * __CS 189__ Machine Learning
---->
-
 
 

@@ -5,7 +5,7 @@ weight="93"
 +++
 
 * Creator of [<u>atme</u>](/atme/) - the selfless social media
-* Co-Creator of the [<u>Bet, Sweat, and Forget</u>](/bsf/) Podcast
+* Co-Creator of the [<u>Bet, Sweat, and Forget Podcast</u>](/bsf/) 
 * Co-Creator of [<u>calhat</u>](/calhat/)
 * [<u>Music Producer</u>](/music/)</u>
 * [<u>Artist</u>](/art/)
