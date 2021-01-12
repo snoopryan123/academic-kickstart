@@ -5,12 +5,16 @@ weight="50"
 active = true
 +++
 
-* For my [undergraduate senior thesis](/pdf/Undergrad_Thesis.pdf), I pursued a continuation of [Learning Heuristics for Automated Reasoning through Deep Reinforcement Learning](https://arxiv.org/abs/1807.08058). I explored using a Graph Neural Network as a branching heuristic in [Conflict Driven Clause Learning](https://en.wikipedia.org/wiki/Conflict-driven_clause_learning) for [SAT solving](https://en.wikipedia.org/wiki/Boolean_satisfiability_problem).
+* For my [<u>undergraduate senior thesis</u>](/pdf/Undergrad_Thesis.pdf), I pursued a continuation of [Learning Heuristics for Automated Reasoning through Deep Reinforcement Learning](https://arxiv.org/abs/1807.08058). I explored using a Graph Neural Network as a branching heuristic in [Conflict Driven Clause Learning](https://en.wikipedia.org/wiki/Conflict-driven_clause_learning) for [SAT solving](https://en.wikipedia.org/wiki/Boolean_satisfiability_problem).
 [![Undergrad_Thesis](/img/pdf.gif)](/pdf/Undergrad_Thesis.pdf)
 
-* As an intern in [securities valuation](https://www.stout.com/en/services/complex-securities-and-financial-instruments), I wrote about the [derivation of the Black-Scholes Formula](/pdf/BSPaper.pdf).
-[![black-scholes](/img/pdf.gif)](/pdf/BSPaper.pdf)
+* As an intern in [securities valuation](https://www.stout.com/en/services/complex-securities-and-financial-instruments), I wrote about the [<u>derivation of the Black-Scholes Formula</u>](/pdf/BSPaper.pdf).
 
+
+
+<!---
+[![black-scholes](/img/pdf.gif)](/pdf/BSPaper.pdf)
+--->
 
 
 <!---
