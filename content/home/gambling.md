@@ -5,7 +5,7 @@ weight="50"
 active = true
 +++
 
-* In 2019, Ryan Brill and his buddy Nick Miller created the [Bet, Sweat, and Forget Podcast](/bsf/). Each week during the NFL season, Ryan and Nick make $50 worth of NFL bets on the podcast. 
+* Each week during the NFL season, Ryan Brill and Nick Miller make $50 worth of NFL bets on the [Bet, Sweat, and Forget Podcast](/bsf/)
 
 * [Is Ryan Brill better at sports betting than a monkey?](/ryan_vs_monkey/)
 
