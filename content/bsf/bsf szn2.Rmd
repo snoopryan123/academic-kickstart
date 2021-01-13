@@ -56,9 +56,9 @@ scale_y_continuous(breaks = c(-50,0,50,100,150)) +
 expand_limits(x = N, y = 0)
 ```
 
-### Check out the details of our weekly bets [<u>here</u>](https://docs.google.com/spreadsheets/d/13TNrDf-RFrJfA36LXjcGHZ5fr_W4pD1yO2_RyniTxww/edit?usp=sharing).
+#### Check out the details of our weekly bets [<u>here.</u>](https://docs.google.com/spreadsheets/d/13TNrDf-RFrJfA36LXjcGHZ5fr_W4pD1yO2_RyniTxww/edit?usp=sharing)
 
-### [Are Ryan Brill and Nick Miller better at sports betting than a monkey?](https://ryansbrill.com/ryan_vs_monkey/)
+#### [Are Ryan Brill and Nick Miller better at sports betting than a monkey?](https://ryansbrill.com/ryan_vs_monkey/)
 
 _\*\*Colin Cowherd's 2020 Blazin' 5 cumulative profit is calculated by placing $10 on each of his 5 weekly NFL pointspread bets, using a -110 moneyline for each bet. Colin's final record for the 2020 NFL season is `r colins_final_record`, which in our scheme translates to a final profit of `r colins_final_profit`, agreeing with the above graph. The math behind this is:_ 
 ```{r, comment=NA}
