@@ -15,7 +15,7 @@ Each week during the NFL season, Ryan Brill and his buddy Nick Miller make $50 w
 
 ### Strategy: Conduct a Hypothesis Test
 
-Assume a monkey's weekly profit is given by the null distribution, which has mean $\mu_0$ and variance $\sigma^2_0$, which are known constants, to be derived later. Also, suppose Ryan makes \$50 worth of NFL bets in each of $n$ weeks. This yields the data $X_1,...,X_n$, which are Ryan's $n$ profits for each week of betting. Assume the data $\{X_i\}_{i=1}^{n}$ are independently drawn from a distribution with unkown mean $\mu$ and known variance $\sigma^2_0$. To determine whether Ryan is better at gambling than a monkey, we shall determine whether Ryan's weekly profit mean $\mu$ is greater than a monkey's weekly profit mean $\mu_0$ with statistical significance. In other words, we conduct a hypothesis test:
+Assume a monkey's weekly profit is given by the null distribution, which has mean $\mu_0$ and variance $\sigma^2_0$, which are known constants, to be derived later. Also, suppose Ryan makes \$50 worth of NFL bets in each of $n$ weeks. This yields the data $X_1,...,X_n$, which are Ryan's $n$ profits for each week of betting. Assume the data $\{X_i\}_{i=1}^{n}$ are independently drawn from a distribution with unkown mean $\mu$. To determine whether Ryan is better at gambling than a monkey, we shall determine whether Ryan's weekly profit mean $\mu$ is greater than a monkey's weekly profit mean $\mu_0$ with statistical significance. In other words, we conduct a one-tailed hypothesis test:
 \[
 \begin{cases}
       \text{null hypothesis: } & \mu = \mu_0 \\
@@ -28,7 +28,7 @@ $$Z := \frac{\overline{X}-\mu_0}{\sigma_0/\sqrt{n}} \approx \mathcal{N}(0,1).$$
 
 Therefore, we use this value $Z$, the _z-score_, as our test statistic for the hypothesis test.
 
-Then, using the mathematics of the $\mathcal{N}(0,1)$ probability density function, we compute a confidence interval $[a,b]$ such that if Ryan's weekly profits follow the null distribution, his z-score $Z$ should lie inside $[a.b]$ with 95% confidence. If Ryan's observed z-score lies outside the 95% confidence interval, then it is unlikely to have come from the null distribution, and so we reject the null hypothesis, concluding that Ryan is better at gambling than a monkey with 95% statistical significance. Conversely, if Ryan's observed z-score lies inside the 95% confidence interval, then we do not reject the null hypothesis, and conclude than Ryan is not better at gambling than a monkey with 95% statistical significance.
+Then, we compute a confidence interval $[a,b]$ such that if Ryan's weekly profits follow the null distribution, his z-score $Z$ should lie inside $[a,b]$ with 95% confidence. If Ryan's observed z-score lies outside the 95% confidence interval, then it is unlikely to have come from the null distribution, and so we reject the null hypothesis, concluding that Ryan is better at gambling than a monkey with 95% statistical significance. Conversely, if Ryan's observed z-score lies inside the 95% confidence interval, then we do not reject the null hypothesis, and conclude than Ryan is not better at gambling than a monkey with 95% statistical significance.
 
 To summarize, the steps for conducting our hypothesis test are:
 
@@ -36,16 +36,16 @@ To summarize, the steps for conducting our hypothesis test are:
 2. Compile the data $X_1,...,X_n$, Ryan's $n$ weekly profits, and compute the empirical mean $\overline{X}$
 3. Compute Ryan's z-score, $Z = \frac{\overline{X}-\mu_0}{\sigma_0/\sqrt{n}}$
 4. Compute a Confidence Interval $[a,b]$
-5. Conclude that Ryan is better at gambling than a monkey only if $Z \not\in [a,b]$
+5. Conclude that Ryan is better at gambling than a monkey if and only if $Z \not\in [a,b]$
 
 ### Computing $\mu_0$ and $\sigma^2_0$
 
 We model the weekly profit of a sports-betting monkey by a random variable with mean $\mu_0$ and variance $\sigma^2_0$, which we shall now determine. 
 
-Suppose that each week, a monkey places $\$B$ worth of NFL bets. Suppose that these $\$B$ are split up into $N$ equally sized bets, so each bet is a wager of $\$ B/N$. Suppose these bets have an average (negative) moneyline of $-M$, so $M\geq 100$. Now, a "monkey throwing darts" is a common trope referring to an ignorant bettor whose results are determined entirely by chance. Such a monkey has a 50% chance of winning or losing any bet it makes. Therefore, each of a monkey's $N$ weekly profits are given by the random variables
+Suppose that each week, a monkey places $\$B$ worth of NFL bets. Suppose that these $\$B$ are split up into $N$ equally sized bets, so each bet is a wager of $\$ B/N$. Suppose these bets have an average (negative) moneyline of $-M$, so $M\geq 100$. Now, a "monkey throwing darts" is a common trope referring to an ignorant bettor whose results are determined entirely by chance. Such a monkey has a 50% chance of winning or losing any bet it makes. Therefore, each of a monkey's $N$ weekly profits are given by the random variables $Y_1,...,Y_N$, where
 
 $$
-Y_1,...,Y_N \overset{iid}{\sim} \begin{cases}
+ Y_i \overset{iid}{\sim} \begin{cases}
     -\frac{B}{N} & \text{with probability } 1/2 \text{ (monkey loses its bet}) \\
     \frac{B}{N} \cdot \frac{100}{M} & \text{with probability } 1/2 \text{ (monkey wins its bet}).
   \end{cases}
