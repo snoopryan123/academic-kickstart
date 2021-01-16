@@ -102,7 +102,6 @@ author = "admin"
     - Disney World
     - Kennedy Space Center
 * Hawaii
-    - Maui
     - Kauai
     - Maui
     ![](/img/maui1.jpg)
