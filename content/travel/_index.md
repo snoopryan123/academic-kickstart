@@ -102,9 +102,11 @@ author = "admin"
     - Disney World
     - Kennedy Space Center
 * Hawaii
-    - Oahu
     - Maui
     - Kauai
+    - Maui
+    ![](/img/maui1.jpg)
+    ![](/img/maui2.jpg)
 * Idaho
     - Idaho Falls
 * Illinois
