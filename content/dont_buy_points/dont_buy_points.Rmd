@@ -1,6 +1,8 @@
 ---
-title: ""
-output: html_document
+title: ''
+output:
+  html_document: default
+  pdf_document: default
 ---
 
 ```{r setup, include=FALSE}
@@ -11,7 +13,7 @@ library(dplyr)
 library(tidyr)
 ```
 
-# Why You Shouldn't Buy a Half Point for Super Bowl 2021.
+# Why You Shouldn't Buy Points for Super Bowl 2021.
 
 ### Understanding the Question.
 
@@ -29,37 +31,40 @@ This corresponds to the following profit chart.
 |__Bet $\$B$ on Bucs +3.5 (-120)__| $-B$  | $+B\cdot\frac{100}{120} = +.83B$  |
 </center>
 
-I'll be betting on the Chiefs because clearly they're the better team, and I'll take a 25 year-old Mahomes over a 43 year-old Brady. However, the -3.5 line gives me pause, because 3 points is the most common margin of victory in the NFL, and I don't want to lose my bet via the Chiefs' winning the Super Bowl by 3. So, Bovada provides an alternative option: I can "buy a half point". In other words, Bovada has an alternative line, Chiefs -3 (-135), as indicated by the screenshot below.
+I'll be betting on the Chiefs because clearly they're the better team, and I'll take a 25 year-old Mahomes over a 43 year-old Brady. However, the -3.5 line gives me pause, because 3 points is the most common margin of victory in the NFL, and I don't want to lose my bet via the Chiefs' winning the Super Bowl by 3. So, Bovada provides some alternatives: I can "buy points". In other words, Bovada has alternative lines, including the Chiefs -3 (-135) and the Chiefs -2.5 (-160), as indicated by the screenshot below.
 
 <center>
-![](sb21_buy_half.png){width=270px}
+![](sb21_buy_pts.png){width=240px}
 </center>
 
-Buying a half point corresponds to the following profit chart.
-
-<center>
-| |Chiefs Cover -3|Bucs Cover +3|Chiefs win by Exactly 3|
-|--------|-------|-------|----|
-|__Bet $\$B$ on Chiefs -3 (-135)__| $+B\cdot\frac{100}{135} = +.74B$ | $-B$ | $0$ |
-</center>
-
-So, is it worth it to pay the stiff juice of a $-135$ moneyline to avoid despair if the Chiefs win by a field goal?
+So, is it worth it to pay the stiff juice of a $-135$ or $-160$ moneyline to avoid despair if the Chiefs win by a field goal?
 
 ### Probability Model.
 
-Let $X_0$ be the random variable denoting the profit from betting $\$B$ on the original $-3.5$ line, and let $X_A$ denote the profit from betting $\$B$ on the alternative $-3$ line. So, 
+Let $X_0$ be the random variable denoting the profit from betting $\$B$ on the original line, Chiefs -3.5 (+100):
 
 $$
  X_0 =  \begin{cases}
     +B & \text{if Chiefs win by } \geq 4 \\
-    -B & \text{else} \\
+    -B & \text{else}. \\
   \end{cases}
 $$
 
+Let $X_{1/2}$ denote the profit from betting $\$B$ on the "buy $1/2$ point" line, Chiefs -3 (-135):
+
 $$
- X_A =  \begin{cases} 
+ X_{1/2} =  \begin{cases} 
   +\frac{100}{135}B & \text{if Chiefs win by } \geq 4 \\
     0 & \text{if Chiefs win by exactly } 3 \\
+    -B & \text{else}. \\
+  \end{cases}
+$$
+
+Let $X_1$ denote the profit from betting $\$B$ on the "buy $1$ point" line, Chiefs -2.5 (-160):
+
+$$
+ X_1 =  \begin{cases} 
+  +\frac{100}{160}B & \text{if Chiefs win by } \geq 3 \\
     -B & \text{else}. \\
   \end{cases}
 $$
@@ -74,33 +79,31 @@ $$
 $$
 
 $$
- X_A =  \begin{cases} 
+ X_{1/2} =  \begin{cases} 
   +\frac{100}{135}B & \text{with probability } p \\
     0 & \text{with probability } q \\
+    -B & \text{with probability } 1-p-q \\
+  \end{cases}
+$$
+
+$$
+ X_1 =  \begin{cases} 
+  +\frac{100}{160}B & \text{with probability } p+q \\
     -B & \text{with probability } 1-p-q. \\
   \end{cases}
 $$
 
-A strategy is more profitable if it has a higher expected profit. In other words, we buy a half point if and only if
-
-$$\mathbb{E}X_A - \mathbb{E}X_0 > 0.$$
-
-Well,
+The most profitable strategy has the highest expected profit. So, we will compare $\mathbb{E}X_0,\mathbb{E}X_{1/2},\text{ and }\mathbb{E}X_1$, and choose the strategy with the highest such value. Well,
 
 $$
 \begin{aligned}
-\mathbb{E}X_A - \mathbb{E}X_0 &= \bigg(B\frac{100}{135}p - B(1-p-q)\bigg) - \bigg(Bp - B(1-p)\bigg) \\
-&= B\bigg((\frac{235}{135}p + q - 1) - (2p-1) \bigg) \\
-&= B\bigg(q - \frac{35}{135}p \bigg) \\
-&= B\bigg(q - \frac{7}{27}p \bigg). \\
+\mathbb{E}X_0 &= B(p) - B(1-p) \\ &= B(2p-1)\\ \\
+\mathbb{E}X_{1/2} &= B(\frac{100}{135}p) - B(1-p-q) \\ &= B(\frac{47}{27}p + q - 1) \\ \\
+\mathbb{E}X_1 &= B(\frac{100}{160}(p+q)) - B(1-p-q) \\ &= B(\frac{13}{8}p+\frac{13}{8}q-1).
 \end{aligned}
 $$
 
-Therefore, we buy a half point if and only if $\mathbb{E}X_A - \mathbb{E}X_0 > 0$, iff
-
-$$q > \frac{7}{27}p.$$
-
-Hence we need only calculate $p$ and $q$.
+Now, we need only calculate $p$ and $q$.
 
 ### Estimating $p$ and $q$.
 
@@ -169,34 +172,54 @@ Finally, note that our dataset of games having a pointspread of $3.5$ contains $
 As calculated previously,
 
 $$
-\mathbb{E}X_A - \mathbb{E}X_0 = B\bigg(q - \frac{7}{27}p \bigg).
+\begin{cases}
+\mathbb{E}X_0 = B(2p-1)\\ 
+\mathbb{E}X_{1/2} = B(\frac{47}{27}p + q - 1) \\
+\mathbb{E}X_1 = B(\frac{13}{8}p+\frac{13}{8}q-1).
+\end{cases}
 $$
+
 
 ```{r, echo=FALSE}
 B <- 50
-exp.profit <- round((q - 7/27*p),2)
-exp.profit.bsf <- round(B*(q - 7/27*p),2)
+
+e0m = 2*p-1
+e12m = 47/27*p + q - 1
+e1m = 13/8*p + 13/8*q - 1
+
+e0 = B*e0m
+e12 = B*e12m
+e1 = B*e1m
 ```
 
 Using $p = `r p`$ and $q = `r q`$, we get
 
 $$
-\mathbb{E}X_A - \mathbb{E}X_0 = `r exp.profit`B < 0.
+\begin{cases}
+\mathbb{E}X_0 = `r round(e0m,2)`B \\ 
+\mathbb{E}X_{1/2} = `r round(e12m,2)`B \\ 
+\mathbb{E}X_1 = `r round(e1m,2)`B.
+\end{cases}
 $$
+
 
 To make this calculation more concrete, we choose a value for $B$. Since Ryan Brill and his buddy Nick Miller made $\$ 50$ worth of NFL bets each week on the 2020 edition of the [Bet, Sweat, and Forget Podcast](https://ryansbrill.com/bsf/), we shall use $B =50$, yielding 
 
 $$
-\mathbb{E}X_A - \mathbb{E}X_0 = `r exp.profit.bsf`.
+\begin{cases}
+\mathbb{E}X_0 = `r round(e0,2)` \\ 
+\mathbb{E}X_{1/2} = `r round(e12,2)` \\ 
+\mathbb{E}X_1 = `r round(e1,2)`.
+\end{cases}
 $$
 
-This means that buying a half point off a $\$ 50$ bet will lose you $\$`r abs(exp.profit.bsf)`$ on average.
+So, betting the original line is the most profitable strategy, because its expected profit is the least negative. In fact, betting $\$50$ and not buying points saves you at least $\$ `r abs(round(e0,2) - round(e12,2))`$ on average. 
 
-##### Hence it is more profitable on average _not_ to buy a half point, no matter how tempting it may seem!
+##### Hence it is more profitable on average _not_ to buy points, no matter how tempting it may seem!
 
 ### More General Moneylines. 
 
-More generally, we suppose that the original pointspread has a moneyline of $-M_0$ for the favorite and that the alternative "buy a half point" pointspread has a moneyline of $-M_A$ for the favorite. Suppose we bet $\$ B$. Let $p$ be the probability that the favorite covers in the original bet, and let $q$ be the probability that the final game score is exactly the pointspread in the alternative bet. Then the profit $X_0$ of betting on the original pointspread, and the profit $X_A$ of betting on the alternative pointspread, are given by
+More generally, we suppose that the original pointspread has a moneyline of $-M_0$ for the favorite, the "buy a half point" spread has a moneyline of $-M_{1/2}$, and the "buy a point" spread has a moneyline of $-M_1$. Suppose we bet $\$ B$. Let $p$ be the probability that the favorite covers in the original bet, and let $q$ be the probability that the final game score is exactly the pointspread in the "buy a half point" bet. Then the profits $X_0, X_{1/2}, \text{ and } X_1$ of betting on the respective pointspreads are 
 
 $$
  X_0 =  \begin{cases}
@@ -206,22 +229,29 @@ $$
 $$
 
 $$
- X_A =  \begin{cases} 
-  +B\frac{100}{M_A} & \text{with probability } p \\
+ X_{1/2} =  \begin{cases} 
+  +\frac{100}{M_{1/2}}B & \text{with probability } p \\
     0 & \text{with probability } q \\
+    -B & \text{with probability } 1-p-q \\
+  \end{cases}
+$$
+
+$$
+ X_1 =  \begin{cases} 
+  +\frac{100}{M_1}B & \text{with probability } p+q \\
     -B & \text{with probability } 1-p-q. \\
   \end{cases}
 $$
 
-Therefore,
+The expected profits are thus
 
 $$
-\begin{aligned}
-\mathbb{E}X_A - \mathbb{E}X_0 
-&= \bigg[B\frac{100}{M_A} p -B (1-p-q)\bigg] - \bigg[ B\frac{100}{M_0} p - B (1-p) \bigg] \\
-&= B \bigg[p \bigg(\frac{100}{M_A}  - \frac{100}{M_0} \bigg)+ q  \bigg].
-\end{aligned}
+\begin{cases}
+\mathbb{E}X_0 = B\frac{100}{M_0} p - B (1-p) \\
+\mathbb{E}X_{1/2} = B\frac{100}{M_{1/2}} p -B (1-p-q)\\
+\mathbb{E}X_1 = B\frac{100}{M_1} (p+q) -B (1-p-q). \\
+\end{cases}
 $$
 
-Buying a half point is profitable if and only if $\mathbb{E}X_A - \mathbb{E}X_0 > 0$.
+The most profitable strategy has the highest expected profit.
 

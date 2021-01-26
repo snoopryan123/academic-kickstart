@@ -7,7 +7,7 @@ active = true
 
 * Each week during the NFL season, Ryan Brill and Nick Miller make $50 worth of NFL bets on the [Bet, Sweat, and Forget Podcast.](/bsf/)
 
-* [Why You Shouldn't Buy a Half Point for Super Bowl 2021.](/half_point/)
+* [Why You Shouldn't Buy a Half Point for Super Bowl 2021.](/dont_buy_points/)
 
 * [Is Ryan Brill better at sports betting than a monkey?](/ryan_vs_monkey/)
 
