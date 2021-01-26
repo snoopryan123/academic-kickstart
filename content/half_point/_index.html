@@ -293,7 +293,7 @@ This corresponds to the following profit chart.
 2 2020-12-13  Steelers     Bills         15         26            2.0            -2.0
 3 2020-12-13   Falcons  Chargers         17         20            2.5            -1.0
 4 2020-12-13    Saints    Eagles         21         24            7.0             7.5</code></pre>
-<p>Now, we narrow the dataset to include only the games that had an opening or closing pointspread of <span class="math inline">\(3.5\)</span>. Then, we modify the dataset to include 2 new columns: <code>fave.covers</code>, which is <code>TRUE</code> iff the favorite covered the <span class="math inline">\(-3.5\)</span> spread, and <code>exactly.3</code>, which is <code>TRUE</code> iff the final score ended in the favorite winning by exactly 3 points. Here is a peak at the head of the updated dataset.</p>
+<p>Now, we narrow the dataset to include only the games that had an opening or closing pointspread of <span class="math inline">\(3.5\)</span>. Then, we modify the dataset to include 2 new columns: <code>fave.covers</code>, which is <code>TRUE</code> iff the favorite covered the <span class="math inline">\(-3.5\)</span> spread, and <code>exactly.3</code>, which is <code>TRUE</code> iff the final score ended in the favorite winning by exactly 3 points. Here is a peak at the head of the updated dataset, ommiting the column <code>home.line.close</code> to save space for aesthetics.</p>
 <pre><code>          date away.team  home.team away.score home.score home.line.open fave.covers exactly.3
 1   2020-12-13   Broncos   Panthers         32         27           -3.5       FALSE     FALSE
 286 2020-12-06     Colts     Texans         26         20            2.5        TRUE     FALSE
@@ -314,11 +314,17 @@ This corresponds to the following profit chart.
 <p><span class="math display">\[
 \mathbb{E}X_A - \mathbb{E}X_0 = B\bigg(q - \frac{7}{27}p \bigg).
 \]</span></p>
-<p>We just calculated <span class="math inline">\(p = 0.48\)</span> and <span class="math inline">\(q = 0.08\)</span>. Furthermore, during each week of the 2020 NFL season, Ryan Brill and his buddy Nick Miller made <span class="math inline">\(\$ 50\)</span> worth of NFL bets on the <a href="https://ryansbrill.com/bsf/">Bet, Sweat, and Forget Podcast</a>, so we shall use a bet size of <span class="math inline">\(B =50\)</span>. Hence</p>
+<p>Using <span class="math inline">\(p = 0.48\)</span> and <span class="math inline">\(q = 0.08\)</span>, we get</p>
+<p><span class="math display">\[
+\mathbb{E}X_A - \mathbb{E}X_0 = -0.04B &lt; 0.
+\]</span></p>
+<p>To make this calculation more concrete, we choose a value for <span class="math inline">\(B\)</span>. Since Ryan Brill and his buddy Nick Miller made <span class="math inline">\(\$ 50\)</span> worth of NFL bets each week on the 2020 edition of the <a href="https://ryansbrill.com/bsf/">Bet, Sweat, and Forget Podcast</a>, we shall use <span class="math inline">\(B =50\)</span>, yielding</p>
 <p><span class="math display">\[
 \mathbb{E}X_A - \mathbb{E}X_0 = -2.22.
 \]</span></p>
-<p>Since <span class="math inline">\(\mathbb{E}X_A - \mathbb{E}X_0 &lt; 0\)</span>, it is more profitable on average <em>not</em> to buy a half point, no matter how tempting it may seem!</p>
+<div id="hence-it-is-more-profitable-on-average-not-to-buy-a-half-point-no-matter-how-tempting-it-may-seem" class="section level5">
+<h5>Hence it is more profitable on average <em>not</em> to buy a half point, no matter how tempting it may seem!</h5>
+</div>
 </div>
 <div id="more-general-moneylines." class="section level3">
 <h3>More General Moneylines.</h3>

@@ -128,7 +128,7 @@ head(d,4)
 ```
 
 
-Now, we narrow the dataset to include only the games that had an opening or closing pointspread of $3.5$. Then, we modify the dataset to include 2 new columns: `fave.covers`, which is `TRUE` iff the favorite covered the $-3.5$ spread, and `exactly.3`, which is `TRUE` iff the final score ended in the favorite winning by exactly 3 points. Here is a peak at the head of the updated dataset.
+Now, we narrow the dataset to include only the games that had an opening or closing pointspread of $3.5$. Then, we modify the dataset to include 2 new columns: `fave.covers`, which is `TRUE` iff the favorite covered the $-3.5$ spread, and `exactly.3`, which is `TRUE` iff the final score ended in the favorite winning by exactly 3 points. Here is a peak at the head of the updated dataset, ommiting the column `home.line.close` to save space for aesthetics.
 
 ```{r, comment=NA, echo=FALSE, R.options = list(width = 200)}
 d <- d %>% mutate(home.margin = home.score - away.score)
@@ -172,19 +172,25 @@ $$
 \mathbb{E}X_A - \mathbb{E}X_0 = B\bigg(q - \frac{7}{27}p \bigg).
 $$
 
-We just calculated $p = `r p`$ and $q = `r q`$. Furthermore, during each week of the 2020 NFL season, Ryan Brill and his buddy Nick Miller made $\$ 50$ worth of NFL bets on the [Bet, Sweat, and Forget Podcast](https://ryansbrill.com/bsf/), so we shall use a bet size of $B =50$. Hence
-
-
 ```{r, echo=FALSE}
 B <- 50
-exp.profit <- round(B*(q - 7/27*p),2)
+exp.profit <- round((q - 7/27*p),2)
+exp.profit.bsf <- round(B*(q - 7/27*p),2)
 ```
 
+Using $p = `r p`$ and $q = `r q`$, we get
+
 $$
-\mathbb{E}X_A - \mathbb{E}X_0 = `r exp.profit`.
+\mathbb{E}X_A - \mathbb{E}X_0 = `r exp.profit`B < 0.
 $$
 
-Since $\mathbb{E}X_A - \mathbb{E}X_0 < 0$, it is more profitable on average _not_ to buy a half point, no matter how tempting it may seem!
+To make this calculation more concrete, we choose a value for $B$. Since Ryan Brill and his buddy Nick Miller made $\$ 50$ worth of NFL bets each week on the 2020 edition of the [Bet, Sweat, and Forget Podcast](https://ryansbrill.com/bsf/), we shall use $B =50$, yielding 
+
+$$
+\mathbb{E}X_A - \mathbb{E}X_0 = `r exp.profit.bsf`.
+$$
+
+##### Hence it is more profitable on average _not_ to buy a half point, no matter how tempting it may seem!
 
 ### More General Moneylines. 
 
