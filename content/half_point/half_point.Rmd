@@ -106,7 +106,7 @@ Hence we need only calculate $p$ and $q$.
 
 Given that the Chiefs are a $3.5$ point favorite, $p$ is the probability that the Chiefs win by $\geq 4$ points, and $q$ is the probability that the Chiefs win by exactly $3$ points. Our task is to estimate $p$ and $q$.
 
-I found a dataset containing the opening and closing pointspreads from every NFL game during the last 10 years, ending with NFL Week 14, 2020. Here is a peak at the head of the dataset, showing the some of the Week 14 results.
+I found a dataset containing the opening and closing pointspreads from every NFL game during the last 10 years, ending with NFL Week 14, 2020. Here is a peek at the head of the dataset, showing the some of the Week 14 results.
 
 
 ```{r, comment=NA, echo=FALSE, R.options = list(width = 200)}
@@ -128,7 +128,7 @@ head(d,4)
 ```
 
 
-Now, we narrow the dataset to include only the games that had an opening or closing pointspread of $3.5$. Then, we modify the dataset to include 2 new columns: `fave.covers`, which is `TRUE` iff the favorite covered the $-3.5$ spread, and `exactly.3`, which is `TRUE` iff the final score ended in the favorite winning by exactly 3 points. Here is a peak at the head of the updated dataset, omiting the column `home.line.close` to save space for aesthetics.
+Now, we narrow the dataset to include only the games that had an opening or closing pointspread of $3.5$. Then, we modify the dataset to include 2 new columns: `fave.covers`, which is `TRUE` iff the favorite covered the $-3.5$ spread, and `exactly.3`, which is `TRUE` iff the final score ended in the favorite winning by exactly 3 points. Here is a peek at the head of the updated dataset, omiting the column `home.line.close` to save space for aesthetics.
 
 ```{r, comment=NA, echo=FALSE, R.options = list(width = 200)}
 d <- d %>% mutate(home.margin = home.score - away.score)
