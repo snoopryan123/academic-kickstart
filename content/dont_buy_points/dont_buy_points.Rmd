@@ -142,7 +142,6 @@ du <- d %>% filter(home.line.open == 3.5 | home.line.close == 3.5 ) # -3.5 away 
 df <- df %>% mutate(fave.covers = home.margin >  3.5) %>% mutate(exactly.3 = home.margin == 3)
 du <- du %>% mutate(fave.covers = home.margin < -3.5) %>% mutate(exactly.3 = home.margin == -3)
 
-
 # new dataset
 d2 <- rbind(df,du)
 d2 <- d2[ rev(order(as.Date(d2$date, format="%Y-%m-%d"))), ]
