@@ -1,6 +1,6 @@
 +++
 author = "admin"
-title="Math"
+title="More Math"
 weight="50"
 active = true
 +++
