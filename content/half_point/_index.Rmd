@@ -47,12 +47,7 @@ So, is it worth it to pay the stiff juice of a $-135$ moneyline to avoid despair
 
 ### Probability Model.
 
-There are 2 strategies for betting on the Chiefs: 
-
-1. betting on the original line Chiefs $-3.5 \ (+100)$ 
-2. buying a half point to get the line Chiefs $-3 \ (-135)$. 
-
-Let the profit from betting $\$B$ on the original line be the random variable $X_0$, and let the profit from betting $\$B$ on the alternative line be the random variable $X_a$, given by
+Let $X_0$ be the random variable denoting the profit from betting $\$B$ on the original $-3.5$ line, and let $X_A$ denote the profit from betting $\$B$ on the alternative $-3$ line. So, 
 
 $$
  X_0 =  \begin{cases}
@@ -62,7 +57,7 @@ $$
 $$
 
 $$
- X_a =  \begin{cases} 
+ X_A =  \begin{cases} 
   +\frac{100}{135}B & \text{if Chiefs win by } \geq 4 \\
     0 & \text{if Chiefs win by exactly } 3 \\
     -B & \text{else}. \\
@@ -79,7 +74,7 @@ $$
 $$
 
 $$
- X_a =  \begin{cases} 
+ X_A =  \begin{cases} 
   +\frac{100}{135}B & \text{with probability } p \\
     0 & \text{with probability } q \\
     -B & \text{with probability } 1-p-q. \\
@@ -88,26 +83,26 @@ $$
 
 A strategy is more profitable if it has a higher expected profit. In other words, we buy a half point if and only if
 
-$$\mathbb{E}X_a - \mathbb{E}X_0 > 0.$$
+$$\mathbb{E}X_A - \mathbb{E}X_0 > 0.$$
 
 Well,
 
 $$
 \begin{aligned}
-\mathbb{E}X_a - \mathbb{E}X_0 &= \bigg(B\frac{100}{135}p - B(1-p-q)\bigg) - \bigg(Bp - B(1-p)\bigg) \\
+\mathbb{E}X_A - \mathbb{E}X_0 &= \bigg(B\frac{100}{135}p - B(1-p-q)\bigg) - \bigg(Bp - B(1-p)\bigg) \\
 &= B\bigg((\frac{235}{135}p + q - 1) - (2p-1) \bigg) \\
 &= B\bigg(q - \frac{35}{135}p \bigg) \\
 &= B\bigg(q - \frac{7}{27}p \bigg). \\
 \end{aligned}
 $$
 
-Therefore, we buy a half point if and only if $\mathbb{E}X_a - \mathbb{E}X_0 > 0$ iff
+Therefore, we buy a half point if and only if $\mathbb{E}X_A - \mathbb{E}X_0 > 0$, iff
 
 $$q > \frac{7}{27}p.$$
 
 Hence we need only calculate $p$ and $q$.
 
-### Calculating $p$ and $q$.
+### Estimating $p$ and $q$.
 
 Given that the Chiefs are a $3.5$ point favorite, $p$ is the probability that the Chiefs win by $\geq 4$ points, and $q$ is the probability that the Chiefs win by exactly $3$ points. Our task is to estimate $p$ and $q$.
 
@@ -166,9 +161,6 @@ and
 
 $$q = `r q`.$$
 
-
-
-
 Finally, note that our dataset of games having a pointspread of $3.5$ contains $`r nrow(d2)`$ games, which is a nice sample size, enough to give us some confidence in our estimates for $p$ and $q$.
 
 ### Conclusion.
@@ -176,7 +168,7 @@ Finally, note that our dataset of games having a pointspread of $3.5$ contains $
 As calculated previously,
 
 $$
-\mathbb{E}X_a - \mathbb{E}X_0 = B\bigg(q - \frac{7}{27}p \bigg).
+\mathbb{E}X_A - \mathbb{E}X_0 = B\bigg(q - \frac{7}{27}p \bigg).
 $$
 
 We just calculated $p = `r p`$ and $q = `r q`$. Furthermore, during each week of the 2020 NFL season, Ryan Brill and his buddy Nick Miller made $\$ 50$ worth of NFL bets on the [Bet, Sweat, and Forget Podcast](https://ryansbrill.com/bsf/), so we shall use a bet size of $B =50$. Hence
@@ -188,27 +180,27 @@ exp.profit <- round(B*(q - 7/27*p),2)
 ```
 
 $$
-\mathbb{E}X_a - \mathbb{E}X_0 = `r exp.profit`.
+\mathbb{E}X_A - \mathbb{E}X_0 = `r exp.profit`.
 $$
 
-Since $\mathbb{E}X_a - \mathbb{E}X_0 < 0$, it is more profitable on average _not_ to buy a half point, no matter how tempting it may seem! 
+Since $\mathbb{E}X_A - \mathbb{E}X_0 < 0$, it is more profitable on average _not_ to buy a half point, no matter how tempting it may seem!
 
 ### More General Moneylines. 
 
-More generally, we suppose that the original pointspread has a moneyline of $-M_f$ for the favorite and $-M_u$ for the underdog. Also, suppose that the alternative "buy a half point" pointspread has a moneyline of $-m_f$ for the favorite and $-m_u$ for the underdog. Suppose we bet $\$ B$. Let $p$ be the probability that the favorite covers in the original bet, and let $q$ be the probability that the final game score is exactly the pointspread in the alternative bet. Then the profit $X_0$ of betting on the original pointspread, and the profit $X_a$ of betting on the alternative pointspread, are given by
+More generally, we suppose that the original pointspread has a moneyline of $-M_0$ for the favorite and that the alternative "buy a half point" pointspread has a moneyline of $-M_A$ for the favorite. Suppose we bet $\$ B$. Let $p$ be the probability that the favorite covers in the original bet, and let $q$ be the probability that the final game score is exactly the pointspread in the alternative bet. Then the profit $X_0$ of betting on the original pointspread, and the profit $X_A$ of betting on the alternative pointspread, are given by
 
 $$
  X_0 =  \begin{cases}
-    +B\frac{100}{M_f} & \text{with probability } p \\
-    -B\frac{100}{M_u} & \text{with probability } 1-p
+    +B\frac{100}{M_0} & \text{with probability } p \\
+    -B & \text{with probability } 1-p
   \end{cases}
 $$
 
 $$
- X_a =  \begin{cases} 
-  +B\frac{100}{m_f} & \text{with probability } p \\
+ X_A =  \begin{cases} 
+  +B\frac{100}{M_A} & \text{with probability } p \\
     0 & \text{with probability } q \\
-    -B\frac{100}{m_u} & \text{with probability } 1-p-q. \\
+    -B & \text{with probability } 1-p-q. \\
   \end{cases}
 $$
 
@@ -216,10 +208,11 @@ Therefore,
 
 $$
 \begin{aligned}
-\mathbb{E}X_a - \mathbb{E}X_0 
-&= \bigg[B\frac{100}{m_f} p - B \frac{100}{m_u} (1-p-q)\bigg] - \bigg[ B\frac{100}{M_f} p - B \frac{100}{M_u}(1-p) \bigg] \\
-&= 100B \bigg[p \bigg(\frac{1}{m_f} + \frac{1}{m_u} - \frac{1}{M_f} - \frac{1}{M_u} \bigg)+ \frac{1}{m_u}q +  \frac{1}{M_u} - \frac{1}{m_u}  \bigg].
+\mathbb{E}X_A - \mathbb{E}X_0 
+&= \bigg[B\frac{100}{M_A} p -B (1-p-q)\bigg] - \bigg[ B\frac{100}{M_0} p - B (1-p) \bigg] \\
+&= B \bigg[p \bigg(\frac{100}{M_A}  - \frac{100}{M_0} \bigg)+ q  \bigg].
 \end{aligned}
 $$
 
-Buying a half point is profitable if and only if $\mathbb{E}X_a - \mathbb{E}X_0 > 0$.
+Buying a half point is profitable if and only if $\mathbb{E}X_A - \mathbb{E}X_0 > 0$.
+

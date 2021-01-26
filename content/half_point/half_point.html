@@ -241,12 +241,7 @@ This corresponds to the following profit chart.
 </div>
 <div id="probability-model." class="section level3">
 <h3>Probability Model.</h3>
-<p>There are 2 strategies for betting on the Chiefs:</p>
-<ol style="list-style-type: decimal">
-<li>betting on the original line Chiefs <span class="math inline">\(-3.5 \ (+100)\)</span></li>
-<li>buying a half point to get the line Chiefs <span class="math inline">\(-3 \ (-135)\)</span>.</li>
-</ol>
-<p>Let the profit from betting <span class="math inline">\(\$B\)</span> on the original line be the random variable <span class="math inline">\(X_0\)</span>, and let the profit from betting <span class="math inline">\(\$B\)</span> on the alternative line be the random variable <span class="math inline">\(X_a\)</span>, given by</p>
+<p>Let <span class="math inline">\(X_0\)</span> be the random variable denoting the profit from betting <span class="math inline">\(\$B\)</span> on the original <span class="math inline">\(-3.5\)</span> line, and let <span class="math inline">\(X_A\)</span> denote the profit from betting <span class="math inline">\(\$B\)</span> on the alternative <span class="math inline">\(-3\)</span> line. So,</p>
 <p><span class="math display">\[
  X_0 =  \begin{cases}
     +B &amp; \text{if Chiefs win by } \geq 4 \\
@@ -254,7 +249,7 @@ This corresponds to the following profit chart.
   \end{cases}
 \]</span></p>
 <p><span class="math display">\[
- X_a =  \begin{cases} 
+ X_A =  \begin{cases} 
   +\frac{100}{135}B &amp; \text{if Chiefs win by } \geq 4 \\
     0 &amp; \text{if Chiefs win by exactly } 3 \\
     -B &amp; \text{else}. \\
@@ -268,29 +263,29 @@ This corresponds to the following profit chart.
   \end{cases}
 \]</span></p>
 <p><span class="math display">\[
- X_a =  \begin{cases} 
+ X_A =  \begin{cases} 
   +\frac{100}{135}B &amp; \text{with probability } p \\
     0 &amp; \text{with probability } q \\
     -B &amp; \text{with probability } 1-p-q. \\
   \end{cases}
 \]</span></p>
 <p>A strategy is more profitable if it has a higher expected profit. In other words, we buy a half point if and only if</p>
-<p><span class="math display">\[\mathbb{E}X_a - \mathbb{E}X_0 &gt; 0.\]</span></p>
+<p><span class="math display">\[\mathbb{E}X_A - \mathbb{E}X_0 &gt; 0.\]</span></p>
 <p>Well,</p>
 <p><span class="math display">\[
 \begin{aligned}
-\mathbb{E}X_a - \mathbb{E}X_0 &amp;= \bigg(B\frac{100}{135}p - B(1-p-q)\bigg) - \bigg(Bp - B(1-p)\bigg) \\
+\mathbb{E}X_A - \mathbb{E}X_0 &amp;= \bigg(B\frac{100}{135}p - B(1-p-q)\bigg) - \bigg(Bp - B(1-p)\bigg) \\
 &amp;= B\bigg((\frac{235}{135}p + q - 1) - (2p-1) \bigg) \\
 &amp;= B\bigg(q - \frac{35}{135}p \bigg) \\
 &amp;= B\bigg(q - \frac{7}{27}p \bigg). \\
 \end{aligned}
 \]</span></p>
-<p>Therefore, we buy a half point if and only if <span class="math inline">\(\mathbb{E}X_a - \mathbb{E}X_0 &gt; 0\)</span> iff</p>
+<p>Therefore, we buy a half point if and only if <span class="math inline">\(\mathbb{E}X_A - \mathbb{E}X_0 &gt; 0\)</span>, iff</p>
 <p><span class="math display">\[q &gt; \frac{7}{27}p.\]</span></p>
 <p>Hence we need only calculate <span class="math inline">\(p\)</span> and <span class="math inline">\(q\)</span>.</p>
 </div>
-<div id="calculating-p-and-q." class="section level3">
-<h3>Calculating <span class="math inline">\(p\)</span> and <span class="math inline">\(q\)</span>.</h3>
+<div id="estimating-p-and-q." class="section level3">
+<h3>Estimating <span class="math inline">\(p\)</span> and <span class="math inline">\(q\)</span>.</h3>
 <p>Given that the Chiefs are a <span class="math inline">\(3.5\)</span> point favorite, <span class="math inline">\(p\)</span> is the probability that the Chiefs win by <span class="math inline">\(\geq 4\)</span> points, and <span class="math inline">\(q\)</span> is the probability that the Chiefs win by exactly <span class="math inline">\(3\)</span> points. Our task is to estimate <span class="math inline">\(p\)</span> and <span class="math inline">\(q\)</span>.</p>
 <p>I found a dataset containing the opening and closing pointspreads from every NFL game during the last 10 years, ending with NFL Week 14, 2020. Here is a peak at the head of the dataset, showing the some of the Week 14 results.</p>
 <pre><code>        date away.team home.team away.score home.score home.line.open home.line.close
@@ -317,39 +312,39 @@ This corresponds to the following profit chart.
 <h3>Conclusion.</h3>
 <p>As calculated previously,</p>
 <p><span class="math display">\[
-\mathbb{E}X_a - \mathbb{E}X_0 = B\bigg(q - \frac{7}{27}p \bigg).
+\mathbb{E}X_A - \mathbb{E}X_0 = B\bigg(q - \frac{7}{27}p \bigg).
 \]</span></p>
 <p>We just calculated <span class="math inline">\(p = 0.48\)</span> and <span class="math inline">\(q = 0.08\)</span>. Furthermore, during each week of the 2020 NFL season, Ryan Brill and his buddy Nick Miller made <span class="math inline">\(\$ 50\)</span> worth of NFL bets on the <a href="https://ryansbrill.com/bsf/">Bet, Sweat, and Forget Podcast</a>, so we shall use a bet size of <span class="math inline">\(B =50\)</span>. Hence</p>
 <p><span class="math display">\[
-\mathbb{E}X_a - \mathbb{E}X_0 = -2.22.
+\mathbb{E}X_A - \mathbb{E}X_0 = -2.22.
 \]</span></p>
-<p>Since <span class="math inline">\(\mathbb{E}X_a - \mathbb{E}X_0 &lt; 0\)</span>, it is more profitable on average <em>not</em> to buy a half point, no matter how tempting it may seem!</p>
+<p>Since <span class="math inline">\(\mathbb{E}X_A - \mathbb{E}X_0 &lt; 0\)</span>, it is more profitable on average <em>not</em> to buy a half point, no matter how tempting it may seem!</p>
 </div>
 <div id="more-general-moneylines." class="section level3">
 <h3>More General Moneylines.</h3>
-<p>More generally, we suppose that the original pointspread has a moneyline of <span class="math inline">\(-M_f\)</span> for the favorite and <span class="math inline">\(-M_u\)</span> for the underdog. Also, suppose that the alternative “buy a half point” pointspread has a moneyline of <span class="math inline">\(-m_f\)</span> for the favorite and <span class="math inline">\(-m_u\)</span> for the underdog. Suppose we bet <span class="math inline">\(\$ B\)</span>. Let <span class="math inline">\(p\)</span> be the probability that the favorite covers in the original bet, and let <span class="math inline">\(q\)</span> be the probability that the final game score is exactly the pointspread in the alternative bet. Then the profit <span class="math inline">\(X_0\)</span> of betting on the original pointspread, and the profit <span class="math inline">\(X_a\)</span> of betting on the alternative pointspread, are given by</p>
+<p>More generally, we suppose that the original pointspread has a moneyline of <span class="math inline">\(-M_0\)</span> for the favorite and that the alternative “buy a half point” pointspread has a moneyline of <span class="math inline">\(-M_A\)</span> for the favorite. Suppose we bet <span class="math inline">\(\$ B\)</span>. Let <span class="math inline">\(p\)</span> be the probability that the favorite covers in the original bet, and let <span class="math inline">\(q\)</span> be the probability that the final game score is exactly the pointspread in the alternative bet. Then the profit <span class="math inline">\(X_0\)</span> of betting on the original pointspread, and the profit <span class="math inline">\(X_A\)</span> of betting on the alternative pointspread, are given by</p>
 <p><span class="math display">\[
  X_0 =  \begin{cases}
-    +B\frac{100}{M_f} &amp; \text{with probability } p \\
-    -B\frac{100}{M_u} &amp; \text{with probability } 1-p
+    +B\frac{100}{M_0} &amp; \text{with probability } p \\
+    -B &amp; \text{with probability } 1-p
   \end{cases}
 \]</span></p>
 <p><span class="math display">\[
- X_a =  \begin{cases} 
-  +B\frac{100}{m_f} &amp; \text{with probability } p \\
+ X_A =  \begin{cases} 
+  +B\frac{100}{M_A} &amp; \text{with probability } p \\
     0 &amp; \text{with probability } q \\
-    -B\frac{100}{m_u} &amp; \text{with probability } 1-p-q. \\
+    -B &amp; \text{with probability } 1-p-q. \\
   \end{cases}
 \]</span></p>
 <p>Therefore,</p>
 <p><span class="math display">\[
 \begin{aligned}
-\mathbb{E}X_a - \mathbb{E}X_0 
-&amp;= \bigg[B\frac{100}{m_f} p - B \frac{100}{m_u} (1-p-q)\bigg] - \bigg[ B\frac{100}{M_f} p - B \frac{100}{M_u}(1-p) \bigg] \\
-&amp;= 100B \bigg[p \bigg(\frac{1}{m_f} + \frac{1}{m_u} - \frac{1}{M_f} - \frac{1}{M_u} \bigg)+ \frac{1}{m_u}q +  \frac{1}{M_u} - \frac{1}{m_u}  \bigg].
+\mathbb{E}X_A - \mathbb{E}X_0 
+&amp;= \bigg[B\frac{100}{M_A} p -B (1-p-q)\bigg] - \bigg[ B\frac{100}{M_0} p - B (1-p) \bigg] \\
+&amp;= B \bigg[p \bigg(\frac{100}{M_A}  - \frac{100}{M_0} \bigg)+ q  \bigg].
 \end{aligned}
 \]</span></p>
-<p>Buying a half point is profitable if and only if <span class="math inline">\(\mathbb{E}X_a - \mathbb{E}X_0 &gt; 0\)</span>.</p>
+<p>Buying a half point is profitable if and only if <span class="math inline">\(\mathbb{E}X_A - \mathbb{E}X_0 &gt; 0\)</span>.</p>
 </div>
 </div>
 
