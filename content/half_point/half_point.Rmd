@@ -144,6 +144,7 @@ du <- du %>% mutate(fave.covers = home.margin < -3.5) %>% mutate(exactly.3 = hom
 d2 <- rbind(df,du)
 d2 <- d2[ rev(order(as.Date(d2$date, format="%Y-%m-%d"))), ]
 d2$home.margin <- NULL
+d2$home.line.close <- NULL
 head(d2,6)
 
 # calculate p and q

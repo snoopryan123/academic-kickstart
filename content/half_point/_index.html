@@ -294,13 +294,13 @@ This corresponds to the following profit chart.
 3 2020-12-13   Falcons  Chargers         17         20            2.5            -1.0
 4 2020-12-13    Saints    Eagles         21         24            7.0             7.5</code></pre>
 <p>Now, we narrow the dataset to include only the games that had an opening or closing pointspread of <span class="math inline">\(3.5\)</span>. Then, we modify the dataset to include 2 new columns: <code>fave.covers</code>, which is <code>TRUE</code> iff the favorite covered the <span class="math inline">\(-3.5\)</span> spread, and <code>exactly.3</code>, which is <code>TRUE</code> iff the final score ended in the favorite winning by exactly 3 points. Here is a peak at the head of the updated dataset.</p>
-<pre><code>          date away.team  home.team away.score home.score home.line.open home.line.close fave.covers exactly.3
-1   2020-12-13   Broncos   Panthers         32         27           -3.5            -4.0       FALSE     FALSE
-286 2020-12-06     Colts     Texans         26         20            2.5             3.5        TRUE     FALSE
-2   2020-12-06    Browns     Titans         41         35           -4.0            -3.5       FALSE     FALSE
-3   2020-12-02    Ravens   Steelers         14         19           -3.5            -5.0        TRUE     FALSE
-287 2020-11-29    Chiefs Buccaneers         27         24            3.5             3.5       FALSE      TRUE
-4   2020-11-23      Rams Buccaneers         27         24           -3.5            -4.5       FALSE     FALSE</code></pre>
+<pre><code>          date away.team  home.team away.score home.score home.line.open fave.covers exactly.3
+1   2020-12-13   Broncos   Panthers         32         27           -3.5       FALSE     FALSE
+286 2020-12-06     Colts     Texans         26         20            2.5        TRUE     FALSE
+2   2020-12-06    Browns     Titans         41         35           -4.0       FALSE     FALSE
+3   2020-12-02    Ravens   Steelers         14         19           -3.5        TRUE     FALSE
+287 2020-11-29    Chiefs Buccaneers         27         24            3.5       FALSE      TRUE
+4   2020-11-23      Rams Buccaneers         27         24           -3.5       FALSE     FALSE</code></pre>
 <p>Interestingly, as shown above, the Chiefs and Bucs met earlier in the season, on November 29, 2020. The Chiefs were also <span class="math inline">\(3.5\)</span> point favorites then, and they won by exactly 3 points! Spooky!</p>
 <p>Now, we estimate <span class="math inline">\(p\)</span>, the probability that a <span class="math inline">\(-3.5\)</span> point favorite covers the spread, and <span class="math inline">\(q\)</span>, the probability that a <span class="math inline">\(-3.5\)</span> point favorite wins by exactly 3 points, by the empirical proportions from our dataset. Hence</p>
 <p><span class="math display">\[p = 0.48\]</span></p>
