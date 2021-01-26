@@ -128,7 +128,7 @@ head(d,4)
 ```
 
 
-Now, we narrow the dataset to include only the games that had an opening or closing pointspread of $3.5$. Then, we modify the dataset to include 2 new columns: `fave.covers`, which is `TRUE` iff the favorite covered the $-3.5$ spread, and `exactly.3`, which is `TRUE` iff the final score ended in the favorite winning by exactly 3 points. Here is a peak at the head of the updated dataset, ommiting the column `home.line.close` to save space for aesthetics.
+Now, we narrow the dataset to include only the games that had an opening or closing pointspread of $3.5$. Then, we modify the dataset to include 2 new columns: `fave.covers`, which is `TRUE` iff the favorite covered the $-3.5$ spread, and `exactly.3`, which is `TRUE` iff the final score ended in the favorite winning by exactly 3 points. Here is a peak at the head of the updated dataset, omiting the column `home.line.close` to save space for aesthetics.
 
 ```{r, comment=NA, echo=FALSE, R.options = list(width = 200)}
 d <- d %>% mutate(home.margin = home.score - away.score)
@@ -189,6 +189,8 @@ To make this calculation more concrete, we choose a value for $B$. Since Ryan Br
 $$
 \mathbb{E}X_A - \mathbb{E}X_0 = `r exp.profit.bsf`.
 $$
+
+This means that buying a half point off a $\$ 50$ bet will lose you $\$`r abs(exp.profit.bsf)`$ on average.
 
 ##### Hence it is more profitable on average _not_ to buy a half point, no matter how tempting it may seem!
 
