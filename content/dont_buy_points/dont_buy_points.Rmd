@@ -15,6 +15,10 @@ library(tidyr)
 
 # Why You Shouldn't Buy Points for Super Bowl 2021.
 
+<center>
+#### Ryan Brill. January 2021.
+</center>
+
 ### Understanding the Question.
 
 In 2021, we have been blessed with the Super Bowl matchup of our dreams, `G.O.A.T. Brady vs. God Mahomes`. The opening line on Bovada is Chiefs -3.5 (+100) and Bucs +3.5 (-120), as shown in the screenshot below.

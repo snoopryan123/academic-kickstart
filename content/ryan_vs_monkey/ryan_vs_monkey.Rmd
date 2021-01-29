@@ -11,6 +11,11 @@ library(tidyr)
 
 # Are Ryan Brill and Nick Miller Better at Sports Betting than a Monkey?
 
+<center>
+#### Ryan Brill. December 2020.
+</center>
+
+
 Each week during the NFL season, Ryan Brill and his buddy Nick Miller make $50 worth of NFL bets on the [Bet, Sweat, and Forget Podcast](https://ryansbrill.com/bsf/). This begs the following question: __Are Ryan and Nick better gamblers than a "monkey throwing darts", i.e. someone who bets \$50 randomly each week?__
 
 ### Strategy: Conduct a Hypothesis Test

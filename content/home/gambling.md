@@ -11,10 +11,4 @@ active = true
 
 * [Moneylines and Implied Win Probability.](/pdf/Moneylines.pdf)
 
-* [The Expected Value Strategy in Gambling.](/pdf/Betting.pdf)  
-
-
-<!---
-[![betting](/img/pdf.gif)](/pdf/Betting.pdf)
- [![moneylines](/img/pdf.gif)](/pdf/Moneylines.pdf)
---->
+* [Intro to the "Expected Profit" Mindset in Gambling.](/pdf/Betting.pdf)  
