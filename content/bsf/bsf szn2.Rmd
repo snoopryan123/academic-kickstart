@@ -65,7 +65,7 @@ expand_limits(x = N, y = 0)
 * **Champion:** Nick 
 * **Most Profitable Guest of the Year:** Harry
 * **Most Entertaining Guest of the Year:** Jerry
-* **Guest Host of the Year:** Griffin 
+* **Most Improved Bettor:** Griffin 
 * **-$50 Club:** Nick (2x), Kole, Bernie, Jerry, Harry, Ryan
 * **Official NFL G.O.A.T.:** Tom Brady
 * **Loser's Punishment:** Ryan shall purchase and proudly wear Tom Brady gear
