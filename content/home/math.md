@@ -9,13 +9,26 @@ active = true
 
 * [Deriving the Black-Scholes Formula](/pdf/BSPaper.pdf)
 
+<!---
+Events:
+
+* [Research in Industrial Projects for Students, Singapore](https://www.ipam.ucla.edu/programs/student-research-programs/research-in-industrial-projects-for-students-rips-2019-singapore/)
+
+* [2020 Joint Math Meetings, Denver](/pdf/JMM2020.pdf)
+
+* [2021 CRM-PIMS Summer School in Probability (CRM, Montreal)](https://www.msri.org/summer_schools/957)
+--->
+
+
+
+
+
 
 
 <!---
 [![Undergrad_Thesis](/img/pdf.gif)](/pdf/Undergrad_Thesis.pdf)
 [![black-scholes](/img/pdf.gif)](/pdf/BSPaper.pdf)
 --->
-
 
 <!---
 * For my [<u>undergraduate senior thesis</u>](/pdf/Undergrad_Thesis.pdf), I pursued a continuation of [Learning Heuristics for Automated Reasoning through Deep Reinforcement Learning](https://arxiv.org/abs/1807.08058). I explored using a Graph Neural Network as a branching heuristic in [Conflict Driven Clause Learning](https://en.wikipedia.org/wiki/Conflict-driven_clause_learning) for [SAT solving](https://en.wikipedia.org/wiki/Boolean_satisfiability_problem).

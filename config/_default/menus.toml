@@ -21,7 +21,7 @@
   weight = 3
 
 [[main]]
-  name = "More Math"
+  name = "Math"
   url = "#math"
   weight = 4
 
