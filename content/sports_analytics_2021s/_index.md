@@ -21,10 +21,10 @@ author = "admin"
 
 #### **Week 1: March 16, 2021**
 
-* [Stanford Stat 200 - Intro to Bradley-Terry Model](/pdf/sports_analytics_2021s/1_Bradley_Terry/elo_sd.pdf)
+* [Stanford Stat 200 - Intro to Bradley-Terry Model](/pdf/sports_analytics_2021s/1_Bradley_Terry/btm.pdf)
 
 * [Szczecinski and Djebbi - Understanding and Pushing the Limits of the Elo
-Rating Algorithm](/pdf/sports_analytics_2021s/1_Bradley_Terry/btm.pdf)
+Rating Algorithm](/pdf/sports_analytics_2021s/1_Bradley_Terry/elo_sd.pdf)
 
 * [Aldous - Elo Ratings and the Sports Model: a Neglected Topic in Applied Probability?](/pdf/sports_analytics_2021s/1_Bradley_Terry/Aldous.pdf)
 
