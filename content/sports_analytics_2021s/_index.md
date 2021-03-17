@@ -15,13 +15,18 @@ author = "admin"
 
 #### **Week 2: March 23, 2021**
 
-* [Intro to the Bradley-Terry Model & Logistic Regression](/pdf/sports_analytics_2021s/2_Bradley_Terry/Brill.pdf)
+* [Brill - Intro to the Bradley-Terry Model & Logistic Regression](/pdf/sports_analytics_2021s/2_Bradley_Terry/Brill.pdf)
 
-* [MM Algorithms for Generalized Bradley-Terry Models](/pdf/sports_analytics_2021s/2_Bradley_Terry/Hunter.pdf)
+* [Hunter - MM Algorithms for Generalized Bradley-Terry Models](/pdf/sports_analytics_2021s/2_Bradley_Terry/Hunter.pdf)
 
 #### **Week 1: March 16, 2021**
 
+* [Stanford Stat 200 - Intro to Bradley-Terry Model](/pdf/sports_analytics_2021s/1_Bradley_Terry/elo_sd.pdf)
 
+* [Szczecinski and Djebbi - Understanding and Pushing the Limits of the Elo
+Rating Algorithm](/pdf/sports_analytics_2021s/1_Bradley_Terry/btm.pdf)
+
+* [Aldous - Elo Ratings and the Sports Model: a Neglected Topic in Applied Probability?](/pdf/sports_analytics_2021s/1_Bradley_Terry/Aldous.pdf)
 
 
 
