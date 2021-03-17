@@ -1,7 +1,7 @@
 +++
 author = "admin"
 title="Sports Analytics"
-weight="50"
+weight="11"
 active = true
 +++
 
