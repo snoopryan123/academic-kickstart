@@ -1,9 +1,11 @@
 +++
 author = "admin"
-title="Math & Gambling"
+title="Sports Analytics"
 weight="50"
 active = true
 +++
+
+* [Penn Sports Analytics Reading Group, 2021.](/sports_analytics_2021s/)
 
 * [Why You Shouldn't Buy Points for Super Bowl 2021.](/dont_buy_points/)
 

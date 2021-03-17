@@ -16,8 +16,8 @@
   weight = 2
 
 [[main]]
-  name = "Math & Gambling"
-  url = "#gambling"
+  name = "Sports Analytics"
+  url = "#sports_analytics"
   weight = 3
 
 [[main]]
