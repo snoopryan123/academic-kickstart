@@ -13,20 +13,21 @@ author = "admin"
 
 ## Penn Sports Analytics Reading Group - Reading List
 
-#### **Week 2: March 23, 2021**
+#### **Week 2: March 23, 2021 - MM Algorithms for Bradley Terry Models**
 
-* [Notes - Bradley-Terry Model & Logistic Regression](/pdf/sports_analytics_2021s/2_Bradley_Terry/Brill.pdf)
+* [Hunter - MM Algorithms for Generalized Bradley-Terry Models](/pdf/sports_analytics_2021s/2A.pdf)
 
-* [Hunter - MM Algorithms for Generalized Bradley-Terry Models](/pdf/sports_analytics_2021s/2_Bradley_Terry/Hunter.pdf)
+#### **Week 1: March 16, 2021 - ELO & Bradley Terry Model Intro**
 
-#### **Week 1: March 16, 2021**
-
-* [Stanford Stat 200 - Intro to Bradley-Terry Model](/pdf/sports_analytics_2021s/1_Bradley_Terry/btm.pdf)
+* [Stanford Stat 200 - Intro to Bradley-Terry Model](/pdf/sports_analytics_2021s/1A.pdf)
 
 * [Szczecinski and Djebbi - Understanding and Pushing the Limits of the Elo
-Rating Algorithm](/pdf/sports_analytics_2021s/1_Bradley_Terry/elo_sd.pdf)
+Rating Algorithm](/pdf/sports_analytics_2021s/1B.pdf)
 
-* [Aldous - Elo Ratings and the Sports Model: a Neglected Topic in Applied Probability?](/pdf/sports_analytics_2021s/1_Bradley_Terry/Aldous.pdf)
+* [Aldous - Elo Ratings and the Sports Model: a Neglected Topic in Applied Probability?](/pdf/sports_analytics_2021s/1C.pdf)
+
+* [Notes - Bradley-Terry Model & Logistic Regression](/pdf/sports_analytics_2021s/1D.pdf)
+
 
 
 
