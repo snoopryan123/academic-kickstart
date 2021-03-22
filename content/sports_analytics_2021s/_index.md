@@ -15,7 +15,7 @@ author = "admin"
 
 #### **Week 2: March 23, 2021**
 
-* [Brill - Intro to the Bradley-Terry Model & Logistic Regression](/pdf/sports_analytics_2021s/2_Bradley_Terry/Brill.pdf)
+* [Notes - Bradley-Terry Model & Logistic Regression](/pdf/sports_analytics_2021s/2_Bradley_Terry/Brill.pdf)
 
 * [Hunter - MM Algorithms for Generalized Bradley-Terry Models](/pdf/sports_analytics_2021s/2_Bradley_Terry/Hunter.pdf)
 
