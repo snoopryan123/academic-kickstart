@@ -13,6 +13,10 @@ author = "admin"
 
 ## Penn Sports Analytics Reading Group - Reading List
 
+#### **Week 3: March 30, 2021 - **
+
+* [Brown - In-Season Prediction of Batting Averages: A Field Test of Empirical Bayes and Bayes Methodologies](/pdf/sports_analytics_2021s/3A.pdf)
+
 #### **Week 2: March 23, 2021 - MM Algorithms for Bradley Terry Models**
 
 * [Hunter - MM Algorithms for Generalized Bradley-Terry Models](/pdf/sports_analytics_2021s/2A.pdf)
