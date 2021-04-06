@@ -11,17 +11,17 @@ weight = 10  # Order that this section will appear in.
 author = "admin"
 +++
 
-## Penn Sports Analytics Reading Group - Reading List
+## Penn Sports Analytics Reading Group - Topics
 
-#### **Week 3: March 30, 2021**
+#### 2. In-Season Prediction of Batting Averages (Brown, 2008)
 
-* [Brown - In-Season Prediction of Batting Averages: A Field Test of Empirical Bayes and Bayes Methodologies](/pdf/sports_analytics_2021s/3A.pdf)
+* [Brown, 2008 - In-Season Prediction of Batting Averages: A Field Test of Empirical Bayes and Bayes Methodologies](/pdf/sports_analytics_2021s/2A.pdf)
 
-#### **Week 2: March 23, 2021**
+* [Notes - Understanding the Setup of Brown 2008](/pdf/sports_analytics_2021s/2B.pdf)
 
-* [Hunter - MM Algorithms for Generalized Bradley-Terry Models](/pdf/sports_analytics_2021s/2A.pdf)
+* [Notes - Understanding the James Stein Estimator for Brown 2008](/pdf/sports_analytics_2021s/2C.pdf)
 
-#### **Week 1: March 16, 2021**
+#### 1. Bradley Terry & ELO
 
 * [Stanford Stat 200 - Intro to Bradley-Terry Model](/pdf/sports_analytics_2021s/1A.pdf)
 
@@ -31,6 +31,9 @@ Rating Algorithm](/pdf/sports_analytics_2021s/1B.pdf)
 * [Aldous - Elo Ratings and the Sports Model: a Neglected Topic in Applied Probability?](/pdf/sports_analytics_2021s/1C.pdf)
 
 * [Notes - Bradley-Terry Model & Logistic Regression](/pdf/sports_analytics_2021s/1D.pdf)
+
+* [Hunter - MM Algorithms for Generalized Bradley-Terry Models](/pdf/sports_analytics_2021s/1E.pdf)
+
 
 
 
