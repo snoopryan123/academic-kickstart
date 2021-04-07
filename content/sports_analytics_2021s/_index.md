@@ -19,7 +19,9 @@ author = "admin"
 
 * [Notes - Understanding the Setup of Brown 2008](/pdf/sports_analytics_2021s/2B.pdf)
 
-* [Notes - Understanding the James Stein Estimator for Brown 2008](/pdf/sports_analytics_2021s/2C.pdf)
+* [Notes - Understanding the James Stein Estimator as used in Brown 2008](/pdf/sports_analytics_2021s/2C.pdf)
+
+* [Notes - Understanding the Parametric Empirical Bayes Estimator (MLE) as used in Brown 2008](/pdf/sports_analytics_2021s/2D.pdf)
 
 #### 1. Bradley Terry & ELO
 
