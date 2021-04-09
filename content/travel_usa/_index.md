@@ -11,7 +11,7 @@ weight = 10  # Order that this section will appear in.
 author = "admin"
 +++
 
-# Travel: USA
+# Travel: USA (26 States + DC)
 
 ![](/img/states.png)
 

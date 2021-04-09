@@ -11,6 +11,6 @@ weight = 10  # Order that this section will appear in.
 author = "admin"
 +++
 
-* [International Travel]()
-* [Travel: USA]()
+* [International Travel](/travel_world/)
+* [Travel: USA](/travel_usa/)
 
