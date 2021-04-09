@@ -11,8 +11,6 @@ weight = 10  # Order that this section will appear in.
 author = "admin"
 +++
 
-# Travel.
-
 ### Asia
 
 * Singapore
@@ -71,5 +69,5 @@ author = "admin"
     - Guanacaste
     - San Jose
 
-### [Future Travel Ideas](/travel_plans/)
+### [Future Travel Ideas](/travel_plans_world/)
 

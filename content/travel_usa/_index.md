@@ -11,7 +11,7 @@ weight = 10  # Order that this section will appear in.
 author = "admin"
 +++
 
-# Travel: USA (26 States + DC)
+# USA (26 States + DC)
 
 ![](/img/states.png)
 
@@ -99,5 +99,5 @@ author = "admin"
     ![](/img/Teton1.jpg)
     ![](/img/Teton2.jpg)
 
-### [Future Travel Ideas](/travel_plans/)
+### [Future Travel Ideas](/travel_plans_usa/)
 
