@@ -11,7 +11,7 @@ weight = 10  # Order that this section will appear in.
 author = "admin"
 +++
 
-## Penn Sports Analytics Reading Group - Topics
+## Penn Sports Analytics Reading Group - Spring 2021
 
 #### 2. In-Season Prediction of Batting Averages (Brown, 2008)
 

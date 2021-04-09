@@ -71,7 +71,9 @@ author = "admin"
     - Guanacaste
     - San Jose
 
-### USA (27 states)
+### USA
+
+![](/img/states.png)
 
 * Arizona
     - Grand Canyon
@@ -79,7 +81,7 @@ author = "admin"
     - Flagstaff
     - Sedona
 * California
-    - Los Angeles, my birthplace
+    - Los Angeles
     - San Fransisco/Oakland/Berkeley
     - San Diego
     - Yosemite National Park
@@ -89,18 +91,17 @@ author = "admin"
     ![](/img/deathvalley1.jpg)
     ![](/img/deathvalley2.jpg)
     
-    <!---
-    ![](/img/deathvalley3.jpg)
-    ![](/img/deathvalley4.jpg)
-    --->
 * Colorado
     - Denver
     - Vail
     - Beaver Creek
 * Connecticut
+    - New Haven
 * Florida
     - Disney World
     - Kennedy Space Center
+* Georgia
+    - Savannah
 * Hawaii
     - Kauai
     - Maui
@@ -110,14 +111,13 @@ author = "admin"
     - Idaho Falls
 * Illinois
     - Chicago
-* Indiana
 * Maryland
     - Baltimore
 * Massachussetts
     - Boston
 * Michigan
     - Traverse City
-    - Ann Arbor
+    - Detroit
 * Minnesota
     - Minneapolis
 * Missouri
@@ -129,21 +129,24 @@ author = "admin"
 * Nevada
     - Las Vegas
 * New Hampshire
+    - Hanover
 * New Jersey
+    - Princeton
 * New York
     - New York
     - Syracuse
 * Pennsylvania
    - Philadelphia
-   - University of Pennsylvania, where I am a PhD student
 * Rhode Island
     - Providence
+* South Carolina
+    - Charleston
 * Utah
     - Salt Lake City
     - Willard Bay State Park
     - Park City
-* Vermont
 * Virginia
+    - Mount Vernon
 * Washington, DC
 * Wisconsin
     - Madison
