@@ -51,10 +51,6 @@ author = "admin"
     - White Sands National Park
     - Taos
     - Roswell
-9. Southern Arizona
-    - Saguaro National Park
-    - Tuscon
-    - Phoenix
     
 ### Southern USA
 
@@ -74,6 +70,7 @@ author = "admin"
     - Atlanta, GA
 
 ### Eastern USA
+
     - Acadia National Park, Maine
     - Pittsburgh, PA
     - Ocean City, MD
