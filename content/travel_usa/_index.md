@@ -81,6 +81,9 @@ author = "admin"
     - Providence
 * South Carolina
     - Charleston
+    - Kiawah Island
+    - Sullivan Island
+    - Huntington Beach State Park
 * Utah
     - Salt Lake City
     - Willard Bay State Park
