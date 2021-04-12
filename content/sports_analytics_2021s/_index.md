@@ -17,11 +17,11 @@ author = "admin"
 
 * [Brown, 2008 - In-Season Prediction of Batting Averages: A Field Test of Empirical Bayes and Bayes Methodologies](/pdf/sports_analytics_2021s/2A.pdf)
 
-* [Ryan's Notes - The Setup of Brown 2008](/pdf/sports_analytics_2021s/2B.pdf)
+* [Ryan's Notes - Brown 2008 Setup](/pdf/sports_analytics_2021s/2B.pdf)
 
-* [Ryan's Notes - The James Stein Estimator as used in Brown 2008](/pdf/sports_analytics_2021s/2C.pdf)
+* [Ryan's Notes - James Stein Estimator Derivation](/pdf/sports_analytics_2021s/2C.pdf)
 
-* [Ryan's Notes - The Parametric Empirical Bayes Estimator (MLE) as used in Brown 2008](/pdf/sports_analytics_2021s/2D.pdf)
+* [Ryan's Notes - Parametric Empirical Bayes Estimator (MLE) Derivation](/pdf/sports_analytics_2021s/2D.pdf)
 
 #### 1. Bradley Terry & ELO
 
