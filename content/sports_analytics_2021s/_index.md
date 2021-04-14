@@ -23,6 +23,8 @@ author = "admin"
 
 * [Ryan's Notes - Parametric Empirical Bayes Estimator (MLE) Derivation](/pdf/sports_analytics_2021s/2D.pdf)
 
+* [Ryan's Notes - Nonparametric Empirical Bayes Estimator Derivation](/pdf/sports_analytics_2021s/2E.pdf)
+
 #### 1. Bradley Terry & ELO
 
 * [Stanford Stat 200 - Intro to Bradley-Terry Model](/pdf/sports_analytics_2021s/1A.pdf)
