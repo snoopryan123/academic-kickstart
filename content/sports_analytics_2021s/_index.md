@@ -13,6 +13,10 @@ author = "admin"
 
 ## Penn Sports Analytics Reading Group - Spring 2021
 
+#### 3. Kelly Criterion & Log-Optimal Betting
+
+* [Kelly, 1956 - A New Interpretation of Information Rate](/pdf/sports_analytics_2021s/3.pdf)
+
 #### 2. In-Season Prediction of Batting Averages (Brown, 2008)
 
 * [Brown, 2008 - In-Season Prediction of Batting Averages: A Field Test of Empirical Bayes and Bayes Methodologies](/pdf/sports_analytics_2021s/2A.pdf)
@@ -24,6 +28,8 @@ author = "admin"
 * [Ryan's Notes - Parametric Empirical Bayes Estimator (MLE) Derivation](/pdf/sports_analytics_2021s/2D.pdf)
 
 * [Ryan's Notes - Nonparametric Empirical Bayes Estimator Derivation](/pdf/sports_analytics_2021s/2E.pdf)
+
+* [Rahul's Code - Implementing the Estimators from Brown 2008](https://colab.research.google.com/drive/1_ZBfS4kAfxFi93XqGzuSZ2FU13HAplpF?usp=sharing)
 
 #### 1. Bradley Terry & ELO
 
