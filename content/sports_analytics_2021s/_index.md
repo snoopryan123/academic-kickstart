@@ -15,7 +15,9 @@ author = "admin"
 
 #### 3. Kelly Criterion & Log-Optimal Betting
 
-* [Kelly, 1956 - A New Interpretation of Information Rate](/pdf/sports_analytics_2021s/3.pdf)
+* [Kelly, 1956 - A New Interpretation of Information Rate](/pdf/sports_analytics_2021s/3A.pdf)
+
+* [Ryan's Notes - Kelly 1956](/pdf/sports_analytics_2021s/3B.pdf)
 
 #### 2. In-Season Prediction of Batting Averages (Brown, 2008)
 
