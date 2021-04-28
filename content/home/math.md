@@ -7,7 +7,7 @@ active = true
 
 * [Graph Neural Network as a Branching Heuristic in Solving Quantified Boolean Formulas](/pdf/Undergrad_Thesis.pdf)
 
-* [Deriving the Black-Scholes Formula](/pdf/BSPaper.pdf)
+* [Deriving the Black-Scholes Formula](/pdf/BlackScholes.pdf)
 
 <!---
 Events:
