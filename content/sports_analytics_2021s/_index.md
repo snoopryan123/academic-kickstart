@@ -19,6 +19,8 @@ author = "admin"
 
 * [Ryan's Notes - Kelly 1956](/pdf/sports_analytics_2021s/3B.pdf)
 
+* [Ryan's Notes - Applying Kelly Criteron to the 2021 March Madness Elite 8](/pdf/sports_analytics_2021s/3C.pdf)
+
 #### 2. In-Season Prediction of Batting Averages (Brown, 2008)
 
 * [Brown, 2008 - In-Season Prediction of Batting Averages: A Field Test of Empirical Bayes and Bayes Methodologies](/pdf/sports_analytics_2021s/2A.pdf)
