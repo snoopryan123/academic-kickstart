@@ -17,9 +17,11 @@ author = "admin"
 
 * [Kelly, 1956 - A New Interpretation of Information Rate](/pdf/sports_analytics_2021s/3A.pdf)
 
-* [Ryan's Notes - Kelly 1956](/pdf/sports_analytics_2021s/3B.pdf)
+* [Ryan's Notes - Kelly Criterion Derivation (Case: No Rake)](/pdf/sports_analytics_2021s/3B.pdf)
 
-* [Ryan's Notes - Applying Kelly Criteron to the 2021 March Madness Elite 8](/pdf/sports_analytics_2021s/3C.pdf)
+* [Ryan's Notes - Kelly Criterion Derivation (Case: Rake)](/pdf/sports_analytics_2021s/3C.pdf)
+
+* [Ryan's Notes - Applying Kelly Criteron to the 2021 March Madness Elite 8](/pdf/sports_analytics_2021s/3D.pdf)
 
 #### 2. In-Season Prediction of Batting Averages (Brown, 2008)
 
