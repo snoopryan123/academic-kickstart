@@ -13,6 +13,10 @@ author = "admin"
 
 ## Penn Sports Analytics Reading Group - Spring 2021
 
+#### 4. AI & Soccer
+
+* [2020 - What AI can do for Football, and What Football can do for AI](/pdf/sports_analytics_2021s/4A.pdf)
+
 #### 3. Kelly Criterion & Log-Optimal Betting
 
 * [Kelly, 1956 - A New Interpretation of Information Rate](/pdf/sports_analytics_2021s/3A.pdf)
@@ -22,6 +26,8 @@ author = "admin"
 * [Ryan's Notes - Kelly Criterion Derivation (Case: Rake)](/pdf/sports_analytics_2021s/3C.pdf)
 
 * [Ryan's Notes - Applying Kelly Criteron to the 2021 March Madness Elite 8](/pdf/sports_analytics_2021s/3D.pdf)
+
+* [Wyner and Rising, 2012 - Partial Kelly Portfolios and Shrinkage Estimators](/pdf/sports_analytics_2021s/3E.pdf)
 
 #### 2. In-Season Prediction of Batting Averages (Brown, 2008)
 
