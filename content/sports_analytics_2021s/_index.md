@@ -27,7 +27,9 @@ author = "admin"
 
 * [Ryan's Notes - Applying Kelly Criteron to the 2021 March Madness Elite 8](/pdf/sports_analytics_2021s/3D.pdf)
 
-* [Wyner and Rising, 2012 - Partial Kelly Portfolios and Shrinkage Estimators](/pdf/sports_analytics_2021s/3E.pdf)
+* [Example of a Kelly-Optimal and Negative EV Bet](/pdf/sports_analytics_2021s/3E.pdf)
+
+* [Wyner and Rising, 2012 - Partial Kelly Portfolios and Shrinkage Estimators](/pdf/sports_analytics_2021s/3F.pdf)
 
 #### 2. In-Season Prediction of Batting Averages (Brown, 2008)
 
