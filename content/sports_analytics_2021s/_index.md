@@ -13,6 +13,10 @@ author = "admin"
 
 ## Penn Sports Analytics Reading Group - Spring 2021
 
+#### 5. Shannon's Original Paper on Information Theory (Shannon, 1948)
+
+* [Shannon, 1948 - A Mathematical Theory of Communication](/pdf/sports_analytics_2021s/5A.pdf)
+
 #### 4. AI & Soccer
 
 * [2020 - What AI can do for Football, and What Football can do for AI](/pdf/sports_analytics_2021s/4A.pdf)
