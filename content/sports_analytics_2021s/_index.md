@@ -13,9 +13,15 @@ author = "admin"
 
 ## Penn Sports Analytics Reading Group - Spring 2021
 
-#### 5. Shannon's Original Paper on Information Theory (Shannon, 1948)
+#### 6. Arcsine Laws 
 
-* [Shannon, 1948 - A Mathematical Theory of Communication](/pdf/sports_analytics_2021s/5A.pdf)
+* [Safe Leads and Lead Changes in Competitive Team Sports, 2015](/pdf/sports_analytics_2021s/6A.pdf)
+
+* [Ryan's Notes - Proofs of Arcsine Laws](/pdf/sports_analytics_2021s/6B.pdf)
+
+#### 5. Shannon Entropy as a Measure of the Uncertainty of a Distribution (Shannon, 1948)
+
+* [Shannon, 1948 - A Mathematical Theory of Communication (Pages 10-13 + Appendix 2)](/pdf/sports_analytics_2021s/5A.pdf)
 
 #### 4. AI & Soccer
 
@@ -57,6 +63,8 @@ author = "admin"
 Rating Algorithm](/pdf/sports_analytics_2021s/1B.pdf)
 
 * [Aldous - Elo Ratings and the Sports Model: a Neglected Topic in Applied Probability?](/pdf/sports_analytics_2021s/1C.pdf)
+
+* [Aldous - Mathematical Probability Foundations of Dynamic Sports Ratings](/pdf/sports_analytics_2021s/1CC.pdf)
 
 * [Ryan's Notes - Bradley-Terry Model & Logistic Regression](/pdf/sports_analytics_2021s/1D.pdf)
 
