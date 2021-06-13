@@ -59,10 +59,8 @@ author = "admin"
     - Biscayne National Park
     - Miami
 2. Southern Nature
-    - Shenandoah, Virginia
-    - Caesars Head, South Carolina
+    - Caesars Head, SC
     - Great Smoky Mountains, TN
-    - West Virginia Forests
 3. Southern Cities
     - Nashville, TN
     - New Orleans, LA
@@ -70,14 +68,15 @@ author = "admin"
     - Atlanta, GA
 
 ### Eastern USA
-
     - Acadia National Park, Maine
+    - Shenandoah, VA
+    - New River Gorge, WVA
+    - Pocono Mountains, PA 
+    - Allegheny National Forest, PA
+    - Snowboarding in Vermont
+    - Go Somewhere in Delaware
     - Pittsburgh, PA
-    - Ocean City, MD
-    - Montreal
-    - Toronto
-
-
-
-    
+    - Montreal, Canada
+    - Toronto, Canada
+    - NYC/DC/Baltimore/Boston
 
