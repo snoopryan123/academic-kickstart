@@ -57,16 +57,23 @@ author = "admin"
 1. Southern Florida
     - Key West
     - Biscayne National Park
+    - Everglades
     - Miami
 2. Southern Nature
     - Caesars Head, SC
-    - Great Smoky Mountains, TN
+    - Great Smoky Mountain NP [october]
+    - Outer Banks, NC [beaches]
 3. Southern Cities
     - Nashville, TN
+    - Memphis, TN
     - New Orleans, LA
     - Tuscaloosa, AL
     - Atlanta, GA
-
+4. Southern states that I need travel ideas for
+    - Mississippi
+    - Arkansas
+    - Kentucky
+    
 ### Eastern USA
     - Acadia National Park, Maine
     - Shenandoah, VA
@@ -74,9 +81,13 @@ author = "admin"
     - Pocono Mountains, PA 
     - Allegheny National Forest, PA
     - Snowboarding in Vermont
-    - Go Somewhere in Delaware
+    - Bombay Hook, Delaware
+    - Rehoboth, Delaware
     - Pittsburgh, PA
     - Montreal, Canada
     - Toronto, Canada
     - NYC/DC/Baltimore/Boston
+    
+
+    
 

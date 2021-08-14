@@ -11,7 +11,13 @@ weight = 10  # Order that this section will appear in.
 author = "admin"
 +++
 
-## Penn Sports Analytics Reading Group - Spring 2021
+## Penn Sports Analytics Reading Group
+
+#### 7. Horse Race Betting
+
+* [The Gambler Who Cracked the Horse-Racing Code](/pdf/sports_analytics_2021s/7A.pdf)
+
+* [Benter, 1994 -  Computer Based Horse Race Handicapping and Wagering Systems: A Report](/pdf/sports_analytics_2021s/7B.pdf)
 
 #### 6. Arcsine Laws 
 
