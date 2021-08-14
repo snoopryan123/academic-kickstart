@@ -7,7 +7,7 @@ active = true
 
 * [Predicting the Quarterback-MVP](pdf/sports_analytics_articles/qbmvp.pdf)
 
-* [Penn Sports Analytics Reading Group - Spring 2021](/sports_analytics_2021s/)
+* [Penn Sports Analytics Reading Group](/sports_analytics_2021s/)
 
 * [A Hidden Markov Model for an MLB Pitcher's Earned Runs](pdf/sports_analytics_articles/ER_HMM.pdf)
 
