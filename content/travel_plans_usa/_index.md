@@ -81,8 +81,6 @@ author = "admin"
     - Pocono Mountains, PA 
     - Allegheny National Forest, PA
     - Snowboarding in Vermont
-    - Bombay Hook, Delaware
-    - Rehoboth, Delaware
     - Pittsburgh, PA
     - Montreal, Canada
     - Toronto, Canada

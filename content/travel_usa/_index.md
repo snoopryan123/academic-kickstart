@@ -11,7 +11,7 @@ weight = 10  # Order that this section will appear in.
 author = "admin"
 +++
 
-# USA (26 States + DC)
+# USA (27 States + DC)
 
 ![](/img/states.png)
 
