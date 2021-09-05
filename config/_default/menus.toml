@@ -21,7 +21,7 @@
   weight = 3
 
 [[main]]
-  name = "Math"
+  name = "Math Blog"
   url = "#math"
   weight = 4
 
