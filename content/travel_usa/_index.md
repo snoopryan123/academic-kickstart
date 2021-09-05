@@ -40,7 +40,7 @@ author = "admin"
 * Delaware
     - Wilmington
     - Dover
-    - Bombay Hook Wildlife Refuge
+    - Bombay Hook National Wildlife Refuge
     ![](/img/delaware_bombay_hook.jpg)
     
 * Florida

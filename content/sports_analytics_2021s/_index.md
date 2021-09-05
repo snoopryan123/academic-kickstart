@@ -11,7 +11,9 @@ weight = 10  # Order that this section will appear in.
 author = "admin"
 +++
 
-## Penn Sports Analytics Reading Group
+# Penn Sports Analytics Reading Group
+
+## Summer 2021 (Personal Reading)
 
 #### 7. Horse Race Betting
 
@@ -24,6 +26,8 @@ author = "admin"
 * [Safe Leads and Lead Changes in Competitive Team Sports, 2015](/pdf/sports_analytics_2021s/6A.pdf)
 
 * [Ryan's Notes - Proofs of Arcsine Laws](/pdf/sports_analytics_2021s/6B.pdf)
+
+## Spring 2021
 
 #### 5. Shannon Entropy as a Measure of the Uncertainty of a Distribution (Shannon, 1948)
 

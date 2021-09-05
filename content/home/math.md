@@ -1,15 +1,23 @@
 +++
 author = "admin"
-title="More Math"
+title="Math Blog"
 weight="50"
 active = true
 +++
 
-* [Graph Neural Network as a Branching Heuristic in Solving Quantified Boolean Formulas](/pdf/Undergrad_Thesis.pdf)
 
 * [Deriving the Black-Scholes Formula](/pdf/BlackScholes.pdf)
 
+* [Gödel's Theorems Quickly](/pdf/blog/G_del_s_Theorems_Quickly.pdf)
+
+
+
 <!---
+* [Graph Neural Network as a Branching Heuristic in Solving Quantified Boolean Formulas](/pdf/Undergrad_Thesis.pdf)
+
+
+
+
 Events:
 
 * [Research in Industrial Projects for Students, Singapore](https://www.ipam.ucla.edu/programs/student-research-programs/research-in-industrial-projects-for-students-rips-2019-singapore/)
@@ -18,9 +26,6 @@ Events:
 
 * [2021 CRM-PIMS Summer School in Probability (CRM, Montreal)](https://www.msri.org/summer_schools/957)
 --->
-
-
-
 
 
 
