@@ -50,4 +50,4 @@ expand_limits(x = N, y = 0)
 
 #### View our weekly bets, and the detailed accounting, [here.](https://docs.google.com/spreadsheets/d/1IU1Dw72FoYQJVTqJl-prHRBDOvDPqIjvmUKVmu3dCXQ/edit#gid=0)
 
-#### View previous seasons of the Bet, Sweat, and Forget Podcast [here.](https://ryansbrill.com/bsf/bsf_prev_szns/)
+#### View previous seasons of the Bet, Sweat, and Forget Podcast [here.](/bsf/bsf_prev_szns/)
