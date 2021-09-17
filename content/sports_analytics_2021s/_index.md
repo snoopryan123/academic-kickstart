@@ -13,6 +13,16 @@ author = "admin"
 
 # Penn Sports Analytics Reading Group
 
+## Fall 2021
+
+#### 9. Horse Race Betting
+
+* [Massey & Thaler, 2013 - The Loser's Curse: Decision Making and Market Efficiency in the National Football League Draft](/pdf/sports_analytics_2021s/7A.pdf)
+
+#### 8. Horse Race Betting
+
+* [Romer, 2006 - Do Firms Maximize? Evidence from Professional Football](/pdf/sports_analytics_2021s/7A.pdf)
+
 ## Summer 2021 (Personal Reading)
 
 #### 7. Horse Race Betting
