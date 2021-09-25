@@ -23,7 +23,7 @@ author = "admin"
 
 * [Romer, 2006 - Do Firms Maximize? Evidence from Professional Football](/pdf/sports_analytics_2021s/8A.pdf)
 
-* [Ryan's Notes - Romer 2006](/pdf/sports_analytics_2021s/8B.zip)
+* [Ryan's Notes - Romer 2006](/pdf/sports_analytics_2021s/8B.pdf)
 
 ## Summer 2021 (Personal Reading)
 
