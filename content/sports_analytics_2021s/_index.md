@@ -17,11 +17,13 @@ author = "admin"
 
 #### 9. Finding Value in the NFL Draft
 
-* [Massey & Thaler, 2013 - The Loser's Curse: Decision Making and Market Efficiency in the National Football League Draft](/pdf/sports_analytics_2021s/7A.pdf)
+* [Massey & Thaler, 2013 - The Loser's Curse: Decision Making and Market Efficiency in the National Football League Draft](/pdf/sports_analytics_2021s/9A.pdf)
 
 #### 8. 4th Down Decision Making
 
-* [Romer, 2006 - Do Firms Maximize? Evidence from Professional Football](/pdf/sports_analytics_2021s/7A.pdf)
+* [Romer, 2006 - Do Firms Maximize? Evidence from Professional Football](/pdf/sports_analytics_2021s/8A.pdf)
+
+* [Ryan's Notes - Romer 2006](/pdf/sports_analytics_2021s/8B.zip)
 
 ## Summer 2021 (Personal Reading)
 
