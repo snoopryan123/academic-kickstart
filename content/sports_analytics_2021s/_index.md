@@ -57,6 +57,8 @@ author = "admin"
 
 * [Ryan's Notes - Kelly Criterion Derivation (Case: Rake)](/pdf/sports_analytics_2021s/3C.pdf)
 
+* [Ryan's Slides - Horse Racing, Kelly Betting, and Unintuitive Bets](/pdf/sports_analytics_2021s/3G.pdf)
+
 * [Ryan's Notes - Applying Kelly Criteron to the 2021 March Madness Elite 8](/pdf/sports_analytics_2021s/3D.pdf)
 
 * [Example of a Kelly-Optimal and Negative EV Bet](/pdf/sports_analytics_2021s/3E.pdf)
