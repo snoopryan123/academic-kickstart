@@ -64,7 +64,7 @@ geom_text(data = df_guests, aes(x= df_guests$guest_weeks,
   scale_color_manual(values=COLORS, name="legend") +
 #scale_color_discrete(name = "",labels = c("wind", "temperature")) + 
 #scale_color_manual(values=c( "gray25","firebrick", "dodgerblue2", "gray65", "green", "green", "green")) +
-labs(title = "Bet, Sweat, and Forget 2020 NFL Betting Results", x = "NFL Week Number", y = "Cumulative Profit, USD", color="") +
+labs(title = "Bet, Sweat, and Forget 2021 NFL Betting Results", x = "NFL Week Number", y = "Cumulative Profit, USD", color="") +
 scale_x_continuous(breaks = num_weeks) +
 scale_y_continuous(breaks = seq(-90,90,by=10)) +
 expand_limits(x = N, y = 0)
