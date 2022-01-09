@@ -11,7 +11,7 @@ library(tidyr)
 
 # [Bet, Sweat, and Forget.](https://open.spotify.com/show/1bABVhkwnd3sDaBSZLC0oY)
 
-#### Each week during the NFL season, Ryan Brill and Nick Miller make $50 worth of NFL bets on the [Bet, Sweat, and Forget](https://open.spotify.com/show/1bABVhkwnd3sDaBSZLC0oY) podcast, competing for glory and the title of "best bettor". Check out the podcast on Apple Podcasts and [Spotify](https://open.spotify.com/show/1bABVhkwnd3sDaBSZLC0oY).
+#### Each week during the NFL season, Ryan Brill and Nick Miller make $50 worth of NFL bets on the [Bet, Sweat, and Forget](https://open.spotify.com/show/1bABVhkwnd3sDaBSZLC0oY) podcast, competing for glory and the title of "best bettor". 
 
 ## 2021 NFL Season.
 

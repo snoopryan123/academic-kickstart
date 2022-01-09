@@ -8,7 +8,7 @@ weight="93"
 * [<u>atme</u>](/atme/) - the selfless social media | Creator 
 * [<u>Bet, Sweat, and Forget Podcast</u>](/bsf/) | Co-Creator 
 * [<u>calhat</u>](/calhat/) | Co-Creator 
-* [<u>Traveler</u>](/travel/)
+* [<u>traveler</u>](/travel/)
 
 <!---
 * [<u>Music Producer</u>](/music/)</u>
