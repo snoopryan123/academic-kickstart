@@ -69,9 +69,9 @@ organizations:
 # - Visitors
 ---
 
-I am a second year PhD student at the [University of Pennsylvania](https://www.upenn.edu) in the [Applied Mathematics & Computational Science group](https://www.amcs.upenn.edu) with a Benjamin Franklin Fellowship. My favorite subjects are probability and statistics.
+I am a second year PhD student at the [University of Pennsylvania](https://www.upenn.edu) in [Applied Mathematics & Computational Science](https://www.amcs.upenn.edu) with a Benjamin Franklin Fellowship. I'm interested in Bayesian statistics, statistical prediction, applied probability, mathematical modelling, and sports analytics.
 
-For my undergraduate studies, I attended the [University of California, Berkeley](https://www.berkeley.edu), where I double majored in [Mathematics](https://math.berkeley.edu) and [Statistics](https://statistics.berkeley.edu), and minored in [Computer Science](https://eecs.berkeley.edu). At Berkeley, I was a [Regents' and Chancellor's Scholar](https://financialaid.berkeley.edu/regents-and-chancellors-scholarship). 
+For my undergraduate studies, I attended [UC Berkeley](https://www.berkeley.edu), where I double majored in [Mathematics](https://math.berkeley.edu) and [Statistics](https://statistics.berkeley.edu), and minored in [Computer Science](https://eecs.berkeley.edu). At Berkeley, I was a [Regents' and Chancellor's Scholar](https://financialaid.berkeley.edu/regents-and-chancellors-scholarship). 
 <!---
 Outside of class, I used my math/statistics/CS knowledge by engaging in [research](#writings) and writing about areas of [math](#writings) that piqued my interest.
 --->
