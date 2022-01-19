@@ -9,8 +9,8 @@ authors:
 # Is this the primary user of the site?
 superuser: true
 
-Role/position
-role: [AMCS](https://www.amcs.upenn.edu) PhD Student
+# Role/position
+role: AMCS PhD Student
 
 # Organizations/Affiliations
 organizations:
@@ -38,6 +38,7 @@ education:
   - course: BA in Mathematics and Statistics, Minor in Computer Science
     institution: UC Berkeley
     year: 2020
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
