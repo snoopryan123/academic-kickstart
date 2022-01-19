@@ -69,7 +69,7 @@ organizations:
 # - Visitors
 ---
 
-I am a second year PhD student at the [University of Pennsylvania](https://www.upenn.edu) in [Applied Mathematics & Computational Science](https://www.amcs.upenn.edu). I'm interested in Bayesian statistics, statistical prediction, applied probability, mathematical modelling, and sports analytics.
+I am a second year PhD student at the [University of Pennsylvania](https://www.upenn.edu) in [Applied Mathematics & Computational Science](https://www.amcs.upenn.edu). I'm interested in Bayesian statistics, statistical prediction, applied probability, mathematical modeling, and sports analytics.
 
 For my undergraduate studies, I attended [UC Berkeley](https://www.berkeley.edu), where I double majored in [Mathematics](https://math.berkeley.edu) and [Statistics](https://statistics.berkeley.edu), and minored in [Computer Science](https://eecs.berkeley.edu). 
 <!---
