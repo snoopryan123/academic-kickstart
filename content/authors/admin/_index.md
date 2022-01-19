@@ -9,8 +9,8 @@ authors:
 # Is this the primary user of the site?
 superuser: true
 
-# Role/position
-# role: 4th year undergraduate at UC Berkeley
+Role/position
+role: [AMCS](https://www.amcs.upenn.edu) PhD Student
 
 # Organizations/Affiliations
 organizations:
@@ -21,11 +21,11 @@ organizations:
 # bio: Swag on heem
 
 interests:
-- mathematical modeling
-- statistical prediction
-- applied probability
-- Bayesian statistics
-- sports analytics
+- Mathematical Modeling
+- Statistical Prediction
+- Applied Probability
+- Bayesian Statistics
+- Sports Analytics
 
 education:
   courses:
@@ -35,18 +35,18 @@ education:
   - course: MA in Statistics
     institution: The Wharton School, University of Pennsylvania
     year: Expected 2022
-  - course: Double Major in Mathematics and Statistics, Minor in Computer Science
+  - course: BA in Mathematics and Statistics, Minor in Computer Science
     institution: UC Berkeley
-    year: 2020 (expected)
+    year: 2020
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-# social:
-# - icon: envelope
-#   icon_pack: fas
-#   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+social:
+- icon: envelope
+  icon_pack: fas
+  link: "mailto:ryguy123@sas.upenn.edu" ### '#contact'  # For a direct email link, use "mailto:test@example.org".
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/GeorgeCushen
@@ -58,9 +58,9 @@ education:
 #   link: https://github.com/gcushen
 # Link to a PDF of your CV from the About widget.
 # To enable, copy your CV to `static/pdf/CV.pdf` and uncomment the lines below.  
-# - icon: cv
-#   icon_pack: ai
-#   link: pdf/CV.pdf
+- icon: cv
+  icon_pack: ai
+  link: pdf/CV.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 # email: "ryguy123@sas.upenn.edu"
