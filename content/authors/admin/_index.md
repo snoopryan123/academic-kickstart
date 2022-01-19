@@ -20,19 +20,22 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 # bio: Swag on heem
 
-# interests:
-# - Probability
-# - Analysis
-# - Statistics
-# - Black-Scholes Options Pricing
-# - Type Theory 
-# - Automated Theorem Proving
-# - Probability and Sports Betting
-# - Probability and Poker
+interests:
+- mathematical modeling
+- statistical prediction
+- applied probability
+- Bayesian statistics
+- sports analytics
 
 education:
   courses:
-  - course: BA in Math
+  - course: PhD in Applied Mathematics and Computational Science
+    institution: University of Pennsylvania
+    year: Expected 2025 
+  - course: MA in Statistics
+    institution: The Wharton School, University of Pennsylvania
+    year: Expected 2022
+  - course: Double Major in Mathematics and Statistics, Minor in Computer Science
     institution: UC Berkeley
     year: 2020 (expected)
 
@@ -60,7 +63,7 @@ education:
 #   link: pdf/CV.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-# email: "ryansbrill@gmail.com"
+# email: "ryguy123@sas.upenn.edu"
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
