@@ -29,7 +29,7 @@ interests:
 
 education:
   courses:
-  - course: PhD in Applied Mathematics and Computational Science
+  - course: PhD in Applied Mathematics & Computational Science
     institution: University of Pennsylvania
     year: Expected 2025 
   - course: MA in Statistics
@@ -73,16 +73,22 @@ social:
 # - Visitors
 ---
 
+<!---
 I am a second year PhD student at the [University of Pennsylvania](https://www.upenn.edu) in [Applied Mathematics & Computational Science](https://www.amcs.upenn.edu). I'm interested in Bayesian statistics, statistical prediction, applied probability, mathematical modeling, and sports analytics.
 
 For my undergraduate studies, I attended [UC Berkeley](https://www.berkeley.edu), where I double majored in [Mathematics](https://math.berkeley.edu) and [Statistics](https://statistics.berkeley.edu), and minored in [Computer Science](https://eecs.berkeley.edu). 
-<!---
- with a Benjamin Franklin Fellowship
- At Berkeley, I was a [Regents' and Chancellor's Scholar](https://financialaid.berkeley.edu/regents-and-chancellors-scholarship). 
---->
-
+ 
 Please enjoy this picture of me at a [Husky Cafe](https://www.facebook.com/neverlandsiberians/) in Bangkok, Thailand.
 
 See also my [**CV**](pdf/CV.pdf).
+--->
+
+I am a second year PhD student in [Applied Mathematics & Computational Science](https://www.amcs.upenn.edu) at the [University of Pennsylvania](https://www.upenn.edu).
+
+<!---
+where I am advised by [Adi Wyner]() and [Sameer Deshpande]().
+--->
+
+Please enjoy this picture of me at a [Husky Cafe](https://www.facebook.com/neverlandsiberians/) in Bangkok, Thailand.
 
 <a href="https://www.digits.net" target="_blank"> <img src="https://counter.digits.net/?counter={297035b4-5e06-f154-5558-c850c031e36e}&template=simple" alt="Hit Counter by Digits" border="0"  /> </a>
