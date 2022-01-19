@@ -30,11 +30,11 @@ organizations:
 # - Probability and Sports Betting
 # - Probability and Poker
 
-# education:
-#   courses:
-#   - course: BA in Math
-#     institution: UC Berkeley
-#     year: 2020 (expected)
+education:
+  courses:
+  - course: BA in Math
+    institution: UC Berkeley
+    year: 2020 (expected)
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
