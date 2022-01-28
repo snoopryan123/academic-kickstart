@@ -25,7 +25,7 @@ interests:
 - Statistical Prediction
 - Applied Probability
 - Bayesian Statistics
-- Sports Analytics
+- Statistics in Sports
 
 education:
   courses:

@@ -16,8 +16,8 @@
   weight = 2
 
 [[main]]
-  name = "Sports Analytics"
-  url = "#sports_analytics"
+  name = "Statistics in Sports"
+  url = "#statistics_in_sports"
   weight = 3
 
 [[main]]

@@ -1,6 +1,6 @@
 +++
 author = "admin"
-title="Sports Analytics"
+title="Statistics in Sports"
 weight="11"
 active = true
 +++
