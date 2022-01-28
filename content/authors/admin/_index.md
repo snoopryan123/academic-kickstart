@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: AMCS PhD Student
+role: Applied Math PhD Student
 
 # Organizations/Affiliations
 organizations:
