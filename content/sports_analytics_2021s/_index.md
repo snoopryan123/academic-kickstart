@@ -11,7 +11,7 @@ weight = 10  # Order that this section will appear in.
 author = "admin"
 +++
 
-# Penn Sports Analytics Reading Group
+# Penn Statistics in Sports Reading Group
 
 ## Fall 2021
 
