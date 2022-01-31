@@ -23,7 +23,7 @@ ryan <- c(0,-7.83,17.82,37.92,55.16, 21.43, -28.57,16.97,-33.03,-33.03,-50.13,-3
 Elon <- c(0, -7.79, -27.29,-28.99,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA)
 #Shelon <- c(0, -23.2, -50.4,-37.9)
 #Belon <- c(0,-50,-100,-87.5)
-guest_profits <- c(NA,23.76, 17.40,43.59,-21.36,-50,NA,NA,-50,-50,16.82,NA,-50,NA,NA,NA,NA,NA,NA,-2.27,15.05,NA,-44)
+guest_profits <- c(NA,23.76, 17.40,43.59,-21.36,-50,NA,NA,-50,-50,16.82,NA,-50,NA,NA,NA,NA,NA,NA,-2.27,15.05,NA,-39)
 guest_names <- c(NA,"Harry", "Griff", "Kole","Jake","Vaish",NA,NA,"Adil","Bernie","Frank",NA,"Harry",
                  NA,NA,NA,NA,NA,NA,"Harry","Griff",NA,"Adil")
 guest_weeks <- c(0,1,1,2,3,4,5,6,7,8,9,10,11,12,13,NA,NA,NA,NA,18,19,NA,21)
