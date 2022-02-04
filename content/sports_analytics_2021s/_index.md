@@ -19,6 +19,8 @@ author = "admin"
 
 * [Massey & Thaler, 2013 - The Loser's Curse: Decision Making and Market Efficiency in the National Football League Draft](/pdf/sports_analytics_2021s/9A.pdf)
 
+* [Ryan's Notes - Massey & Thaler 2013](/pdf/sports_analytics_2021s/9B.pdf)
+
 #### 8. 4th Down Decision Making
 
 * [Romer, 2006 - Do Firms Maximize? Evidence from Professional Football](/pdf/sports_analytics_2021s/8A.pdf)
