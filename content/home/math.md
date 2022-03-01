@@ -2,7 +2,7 @@
 author = "admin"
 title="Math Blog"
 weight="50"
-active = true
+active = false
 +++
 
 
@@ -11,11 +11,11 @@ active = true
 * [Gödel's Theorems Quickly](/pdf/blog/G_del_s_Theorems_Quickly.pdf)
 
 
-
 <!---
+
+
+
 * [Graph Neural Network as a Branching Heuristic in Solving Quantified Boolean Formulas](/pdf/Undergrad_Thesis.pdf)
-
-
 
 
 Events:

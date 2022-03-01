@@ -20,11 +20,10 @@
   url = "#statistics_in_sports"
   weight = 3
 
-[[main]]
-  name = "Math Blog"
-  url = "#math"
-  weight = 4
-
+# [[main]]
+#   name = "Math Blog"
+#   url = "#math"
+#   weight = 4
 
 [[main]]
   name = "Projects"
