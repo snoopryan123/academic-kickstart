@@ -4,7 +4,7 @@ title="Photos"
 weight="100"
 active = true
 +++
-Exploring Singapore at [Research in Industrial Projects for Students, Singapore](https://www.ipam.ucla.edu/programs/student-research-programs/research-in-industrial-projects-for-students-rips-2019-singapore/):
+[Research in Industrial Projects for Students, Singapore](https://www.ipam.ucla.edu/programs/student-research-programs/research-in-industrial-projects-for-students-rips-2019-singapore/):
 
 ![](/img/singaporefour.jpg)
 

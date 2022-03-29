@@ -11,9 +11,11 @@ weight = 10  # Order that this section will appear in.
 author = "admin"
 +++
 
-# Penn Statistics in Sports Reading Group
+# Statistics in Sports Papers
 
-## Fall 2021
+#### 10. RL in Baseball
+
+* [Sidhu & Caffo, 2014 - MoneybaRL: Exploiting Pitcher Decision-Making Using Reinforcement Learning](/pdf/sports_analytics_2021s/10A.pdf)
 
 #### 9. Finding Value in the NFL Draft
 
@@ -27,8 +29,6 @@ author = "admin"
 
 * [Ryan's Notes - Romer 2006](/pdf/sports_analytics_2021s/8B.pdf)
 
-## Summer 2021 (Personal Reading)
-
 #### 7. Horse Race Betting
 
 * [The Gambler Who Cracked the Horse-Racing Code](/pdf/sports_analytics_2021s/7A.pdf)
@@ -40,8 +40,6 @@ author = "admin"
 * [Safe Leads and Lead Changes in Competitive Team Sports, 2015](/pdf/sports_analytics_2021s/6A.pdf)
 
 * [Ryan's Notes - Proofs of Arcsine Laws](/pdf/sports_analytics_2021s/6B.pdf)
-
-## Spring 2021
 
 #### 5. Shannon Entropy as a Measure of the Uncertainty of a Distribution (Shannon, 1948)
 
