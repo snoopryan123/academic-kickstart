@@ -9,7 +9,9 @@ active = true
 * [NFL Big Data Bowl 2022: Optimal Run Path for Kick Returners](pdf/sports_analytics_articles/optimal-run-path-for-kick-returners.html)
 --->
 
+<!---
 * [Grid WAR: Rethinking WAR for Starting Pitchers](pdf/sports_analytics_articles/grid_war.pdf)
+--->
 
 * [NFL Big Data Bowl 2022 Finalist:](https://nflcommunications.com/Pages/FINALISTS-NAMED-FOR-FOURTH-ANNUAL-NFL-BIG-DATA-BOWL-POWERED-BY-AWS.aspx) [Optimal Run Path for Kick Returners](https://www.kaggle.com/jrudoler56/optimal-run-path-for-kick-returners/notebook)
 
