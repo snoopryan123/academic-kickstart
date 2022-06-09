@@ -21,10 +21,11 @@ organizations:
 # bio: Swag on heem
 
 interests:
-- Mathematical Modeling
-- Statistical Prediction
-- Applied Probability
+- Statistics
 - Bayesian Statistics
+- Machine Learning
+- Probability
+- Mathematical Modeling
 - Statistics in Sports
 
 education:
@@ -89,6 +90,8 @@ I am a second year PhD student in [Applied Mathematics & Computational Science](
 where I am advised by [Adi Wyner]() and [Sameer Deshpande]().
 --->
 
+<!---
 Please enjoy this picture of me at a [Husky Cafe](https://www.facebook.com/neverlandsiberians/) in Bangkok, Thailand.
+--->
 
 <a href="https://www.digits.net" target="_blank"> <img src="https://counter.digits.net/?counter={297035b4-5e06-f154-5558-c850c031e36e}&template=simple" alt="Hit Counter by Digits" border="0"  /> </a>
