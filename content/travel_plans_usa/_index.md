@@ -11,80 +11,23 @@ weight = 10  # Order that this section will appear in.
 author = "admin"
 +++
 
-# Future USA Trip Ideas.
-    
-### Alaska
+# Places in North America I want to go to
 
-* Gates of the Arctic
-* Denali
+1. Montana: Glacier NP
+3. Dakotas: Badlands NP & Teddy Roosevelt, ND
+4. Washington: Seattle & Cascades & Olympic NP & Mount Rainier
+5. Alaska: Denali? Gates of the Arctic?
+6. Banff NP & Southern Alberta & Calgary
+7. Maine: Acadia NP
+8. Eastern Utah: Canyonlands NP & Arches NP
+9. Oregon: Crater Lake & Portland
+10. Southern Florida: Key West & Miami
+11. Virginia: Shenandoah NP
+12. West Virginia: New River Gorge NP
+13. Austin Texas
+14. Montreal Quebec (tabarnak!)
+15. Nashville Tennessee
 
-### Western USA
-
-0. Kansas City: Chiefs game with Pat Mahomes
-1. Washington
-    - Olympic Peninsula
-    - Mount Rainier
-    - North Cascades
-    - Seattle
-    - Vancouver
-2. Montana
-    - Glacier National Park
-    - Southern Alberta
-    - Calgary
-3. Eastern Utah
-    - Canyonlands National Park
-    - Arches National Park
-4. Southern Utah
-    - Zion National Park
-    - Bryce National Park
-5. Oregon
-    - Crater Lake
-    - Portland
-6. Dakotas
-    - Badlands, SD
-    - Teddy Roosevelt, ND
-7. Kansas
-    - Tallgrass Prairie National Preserve, Kansas
-    - Chalk Pyramids, Kansas
-8. New Mexico
-    - Sante Fe
-    - White Sands National Park
-    - Taos
-    - Roswell
-    
-### Southern USA
-
-1. Southern Florida
-    - Key West
-    - Biscayne National Park
-    - Everglades
-    - Miami
-2. Southern Nature
-    - Caesars Head, SC
-    - Great Smoky Mountain NP [october]
-    - Outer Banks, NC [beaches]
-3. Southern Cities
-    - Nashville, TN
-    - Memphis, TN
-    - New Orleans, LA
-    - Tuscaloosa, AL
-    - Atlanta, GA
-4. Southern states that I need travel ideas for
-    - Mississippi
-    - Arkansas
-    - Kentucky
-    
-### Eastern USA
-    - Acadia National Park, Maine
-    - Shenandoah, VA
-    - New River Gorge, WVA
-    - Pocono Mountains, PA 
-    - Allegheny National Forest, PA
-    - Snowboarding in Vermont
-    - Pittsburgh, PA
-    - Montreal, Canada
-    - Toronto, Canada
-    - NYC/DC/Baltimore/Boston
     
 
     
