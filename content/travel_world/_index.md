@@ -60,6 +60,18 @@ author = "admin"
     - Pisa
     - Assisi
     - Como
+* Greece
+    - Athens
+    ![](/img/athens1.JPG)
+    ![](/img/athens2.jpeg)
+    - Crete: Chania, Elafonissi Beach, Samaria Gorge, Rethimno, Heraklion
+    - Santorini
+    ![](/img/santorini1.jpeg) 
+    - Mykonos
+* Spain
+    - Barcelona
+    - Sitges
+    - Madrid
 
 ### Central America
 
