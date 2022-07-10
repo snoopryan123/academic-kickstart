@@ -14,7 +14,7 @@ author = "admin"
 # Places in North America I want to go to
 
 1. Montana: Glacier NP
-3. Dakotas: Badlands NP & Teddy Roosevelt, ND
+3. Dakotas: Badlands NP & Teddy Roosevelt NP
 4. Washington: Seattle & Cascades & Olympic NP & Mount Rainier
 5. Alaska: Denali? Gates of the Arctic?
 6. Banff NP & Southern Alberta & Calgary
