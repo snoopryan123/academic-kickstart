@@ -15,9 +15,9 @@ active = true
 
 * [NFL Big Data Bowl 2022 Finalist:](https://nflcommunications.com/Pages/FINALISTS-NAMED-FOR-FOURTH-ANNUAL-NFL-BIG-DATA-BOWL-POWERED-BY-AWS.aspx) [Optimal Run Path for Kick Returners](https://www.kaggle.com/jrudoler56/optimal-run-path-for-kick-returners/notebook)
 
-* [Predicting the Quarterback-MVP](pdf/sports_analytics_articles/qbmvp.pdf)
+* [Predicting the Quarterback-MVP](pdf/sports_analytics_RyansArticles/qbmvp.pdf)
 
-* [Penn Statistics in Sports Reading Group](/sports_analytics_2021s/)
+* [A list of some statistics in sports papers](/sports_in_statistics_papers/)
 
 <!---
 * [A Hidden Markov Model for an MLB Pitcher's Earned Runs](pdf/sports_analytics_articles/ER_HMM.pdf)

@@ -1,10 +1,9 @@
 +++
 author = "admin"
-title="Projects"
+title="Personal Projects"
 weight="93"
 +++
 
-* [<u>Penn Statistics in Sports Reading Group</u>](/sports_analytics_2021s/) | Co-Creator 
 * [Deriving the Black-Scholes Formula](/pdf/BlackScholes.pdf)
 * [<u>atme</u>](/atme/) - the selfless social media | Creator 
 * [<u>Bet, Sweat, and Forget Podcast</u>](/bsf/) | Co-Creator 
@@ -12,6 +11,7 @@ weight="93"
 * [<u>traveler</u>](/travel/)
 
 <!---
+* [<u>Penn Statistics in Sports Reading Group</u>](/sports_analytics_2021s/) | Co-Creator 
 * [<u>Music Producer</u>](/music/)</u>
 * [<u>Artist</u>](/art/)
 -->
