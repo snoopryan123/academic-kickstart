@@ -14,7 +14,7 @@ author = "admin"
 # Statistics in Sports Papers
 
 
-## Up Next: 
+## Up Next
 
 #### Serve Returns in Tennis
 
@@ -23,6 +23,12 @@ author = "admin"
 #### RL in Baseball
 
 * [Sidhu & Caffo, 2014 - MoneybaRL: Exploiting Pitcher Decision-Making Using Reinforcement Learning](/pdf/sports_analytics_2021s/moneybaRL.pdf)
+
+#### Hierarchical Bayesian Models in Baseball
+
+* [Deshpande & Wyner, 2017 - A Hierarchical Bayesian Model of Pitch Framing](/pdf/sports_analytics_2021s/DeshpandeWyner2017.pdf)
+
+* [Jensen, Shirley, & Wyner, 2009 - Bayesball: A Bayesian Hierarchical Model for Evaluating Fielding in Major League Baseball](/pdf/sports_analytics_2021s/JensenShirleyWyner2009.pdf)
 
 
 ## American Football
