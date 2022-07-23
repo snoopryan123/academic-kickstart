@@ -84,7 +84,7 @@ Please enjoy this picture of me at a [Husky Cafe](https://www.facebook.com/never
 See also my [**CV**](pdf/CV.pdf).
 --->
 
-I am a second year PhD student in [Applied Mathematics & Computational Science](https://www.amcs.upenn.edu) at the [University of Pennsylvania](https://www.upenn.edu).
+I am a third year PhD student in [Applied Mathematics & Computational Science](https://www.amcs.upenn.edu) at the [University of Pennsylvania](https://www.upenn.edu).
 
 <!---
 where I am advised by [Adi Wyner]() and [Sameer Deshpande]().
