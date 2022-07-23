@@ -16,6 +16,10 @@ author = "admin"
 
 ## Up Next: 
 
+#### Serve Returns in Tennis
+
+* [Kovalchik & Albert, 2022 - A Statistical Model of Serve Return Impact Patterns in Professional Tennis](/pdf/sports_analytics_2021s/tennis_serve_return_patterns.pdf)
+
 #### RL in Baseball
 
 * [Sidhu & Caffo, 2014 - MoneybaRL: Exploiting Pitcher Decision-Making Using Reinforcement Learning](/pdf/sports_analytics_2021s/moneybaRL.pdf)
@@ -41,7 +45,7 @@ author = "admin"
 
 * [Yurko et. al., 2018 - nflWAR: A Reproducible Method for Offensive Player Evaluation in Football](/pdf/sports_analytics_2021s/Yurko2018.pdf)
 
-#### 4th Down Decision Making
+#### The Original Expected Points Model (Romer, 2006)
 
 * [Romer, 2006 - Do Firms Maximize? Evidence from Professional Football](/pdf/sports_analytics_2021s/Romer2006.pdf)
 
@@ -63,17 +67,6 @@ author = "admin"
 * [Ryan's Notes - Nonparametric Empirical Bayes Estimator Derivation](/pdf/sports_analytics_2021s/Brown2008_NonpEmpBayes.pdf)
 
 * [Rahul's Code - Implementing the Estimators from Brown 2008](https://colab.research.google.com/drive/1_ZBfS4kAfxFi93XqGzuSZ2FU13HAplpF?usp=sharing)
-
-
-## Soccer
-
-#### Stochastic Block Model for the EPL
-
-* [Basini et. al., 2021 - Assessing competitive balance in the English Premier League for over forty seasons using a stochastic block model](/pdf/sports_analytics_2021s/SBM_EPL.pdf)
-
-#### AI & Soccer
-
-* [2020 - What AI can do for Football, and What Football can do for AI](/pdf/sports_analytics_2021s/AI_Soccer.pdf)
 
 
 ## Sports Betting
@@ -107,15 +100,17 @@ author = "admin"
 
 * [Stanford Stat 200 - Intro to Bradley-Terry Model](/pdf/sports_analytics_2021s/Elo_BradleyTerryAlgo.pdf)
 
+* [Ryan's Notes - Bradley-Terry Model & Logistic Regression](/pdf/sports_analytics_2021s/Elo_RyansNotes.pdf)
+
+<!---
 * [Szczecinski and Djebbi - Understanding and Pushing the Limits of the Elo Rating Algorithm](/pdf/sports_analytics_2021s/Elo_Djebbi2019.pdf)
 
 * [Aldous - Elo Ratings and the Sports Model: a Neglected Topic in Applied Probability?](/pdf/sports_analytics_2021s/Elo_Aldous1.pdf)
 
 * [Aldous - Mathematical Probability Foundations of Dynamic Sports Ratings](/pdf/sports_analytics_2021s/Elo_Aldous2.pdf)
 
-* [Ryan's Notes - Bradley-Terry Model & Logistic Regression](/pdf/sports_analytics_2021s/Elo_RyansNotes.pdf)
-
 * [Hunter - MM Algorithms for Generalized Bradley-Terry Models](/pdf/sports_analytics_2021s/Elo_MM.pdf)
+--->
 
 #### Shannon Entropy as a Measure of the Uncertainty of a Distribution (Shannon, 1948)
 
@@ -126,6 +121,17 @@ author = "admin"
 * [Safe Leads and Lead Changes in Competitive Team Sports, 2015](/pdf/sports_analytics_2021s/ArcsineLaws_2015.pdf)
 
 * [Ryan's Notes - Proofs of Arcsine Laws](/pdf/sports_analytics_2021s/ArcsineLaws_RyansProofs.pdf)
+
+
+## Soccer
+
+#### AI & Soccer
+
+* [2020 - What AI can do for Football, and What Football can do for AI](/pdf/sports_analytics_2021s/AI_Soccer.pdf)
+
+#### Stochastic Block Model for the EPL
+
+* [Basini et. al., 2021 - Assessing competitive balance in the English Premier League for over forty seasons using a stochastic block model](/pdf/sports_analytics_2021s/SBM_EPL.pdf)
 
 
 
