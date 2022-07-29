@@ -17,7 +17,7 @@ active = true
 
 * [Predicting the Quarterback-MVP](pdf/RyansArticles/qbmvp.pdf)
 
-* [A list of some statistics in sports papers](/statistics_in_sports_papers/)
+* [Some statistics in sports papers](/statistics_in_sports_papers/)
 
 <!---
 * [A Hidden Markov Model for an MLB Pitcher's Earned Runs](pdf/sports_analytics_articles/ER_HMM.pdf)

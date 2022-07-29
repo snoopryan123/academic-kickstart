@@ -49,9 +49,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: "mailto:ryguy123@sas.upenn.edu" ### '#contact'  # For a direct email link, use "mailto:test@example.org".
-# - icon: twitter
-#   icon_pack: fab
-#   link: https://twitter.com/GeorgeCushen
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/RyanBrill_
 # - icon: google-scholar
 #   icon_pack: ai
 #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
@@ -87,7 +87,9 @@ See also my [**CV**](pdf/CV.pdf).
 I am a third year PhD student in [Applied Mathematics & Computational Science](https://www.amcs.upenn.edu) at the [University of Pennsylvania](https://www.upenn.edu).
 
 <!---
-where I am advised by [Adi Wyner]() and [Sameer Deshpande]().
+where I am advised by [Adi Wyner]() 
+
+and [Sameer Deshpande]().
 --->
 
 <!---
