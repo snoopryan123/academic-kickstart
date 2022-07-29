@@ -2,7 +2,7 @@
 author = "admin"
 title="Photos"
 weight="100"
-active = true
+active = false
 +++
 [Research in Industrial Projects for Students, Singapore](https://www.ipam.ucla.edu/programs/student-research-programs/research-in-industrial-projects-for-students-rips-2019-singapore/):
 

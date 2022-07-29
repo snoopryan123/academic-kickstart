@@ -25,22 +25,17 @@
 #   url = "#math"
 #   weight = 4
 
-[[main]]
-  name = "Projects"
-  url = "#projects"
-  weight = 5
-
-[[main]]
-  name = "Photos"
-  url = "#photos"
-  weight = 6
-
-
+# [[main]]
+#   name = "Projects"
+#   url = "#projects"
+#   weight = 5
 
 # [[main]]
-#   name = "Articles"
-#   url = "#featured"
-#   weight = 4
+#   name = "Photos"
+#   url = "#photos"
+#   weight = 6
+
+
 
 [[main]]
   name = "Contact"

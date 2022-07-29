@@ -2,6 +2,7 @@
 author = "admin"
 title="Personal Projects"
 weight="93"
+active = false
 +++
 
 * [Deriving the Black-Scholes Formula](/pdf/BlackScholes.pdf)

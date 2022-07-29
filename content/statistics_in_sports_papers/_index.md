@@ -30,7 +30,7 @@ author = "admin"
 
 * [Rahul's Code - Implementing the Estimators from Brown 2008](https://colab.research.google.com/drive/1_ZBfS4kAfxFi93XqGzuSZ2FU13HAplpF?usp=sharing)
 
-#### Pitch Framing (Deshapnde, 2017)
+#### Pitch Framing 
 
 * [Deshpande & Wyner, 2017 - A Hierarchical Bayesian Model of Pitch Framing](/pdf/statistics_in_sports_papers/DeshpandeWyner2017.pdf)
 
