@@ -74,8 +74,18 @@ author = "admin"
     - Madrid
 * Germany
     - Berlin
+    ![](/img/Berlin.jpg)
+    - Pottsdam
+    ![](/img/Pottsdam1.jpg)
+    Sans Souci - No Worries
+    ![](/img/Pottsdam2.jpg)
+    ![](/img/Pottsdam3.jpg)
 * Czech Republic
     - Prague
+    ![](/img/Prague1.jpg)
+    ![](/img/Prague2.jpg)
+    
+    
 
 ### Central America
 
