@@ -11,7 +11,7 @@ weight = 10  # Order that this section will appear in.
 author = "admin"
 +++
 
-# Favorite Statistics in Sports Papers
+# Some Statistics in Sports Papers
 
 
 ## Baseball
@@ -50,6 +50,18 @@ author = "admin"
 * [PFF Player Grades](/pdf/statistics_in_sports_papers/pffWar_pffGrades.pdf)
 
 * [Ryan's Notes - PFF WAR](/pdf/statistics_in_sports_papers/pffWar_RyansNotes.pdf)
+
+## Causal Inference
+
+#### A good overview of causal inference
+
+* [Stuart 2010 - Matching methods for causal inference: A review and a look forward](/pdf/statistics_in_sports_papers/Stuart2010.pdf)
+
+#### A good example of applying causal inference to sports
+
+* [Gibbs, Elmore, Fosdick 2021 - The Causal Effect of a Timeout at Stopping an Opposing Run in the NBA](/pdf/statistics_in_sports_papers/Causal_NBA_timeout.pdf)
+
+
 
 <!---
 #### Expected Points, Win Probability, and WAR Models 

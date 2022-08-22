@@ -72,6 +72,10 @@ author = "admin"
     - Barcelona
     - Sitges
     - Madrid
+* Germany
+    - Berlin
+* Czech Republic
+    - Prague
 
 ### Central America
 

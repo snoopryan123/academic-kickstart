@@ -19,22 +19,30 @@ author = "admin"
 * Seoul
 * China: Beijing, Shanghai, Hong Kong
 * Indonesia? Philippines? Coastal & Northern Thailand?
-
-### South/Central America
-
-* Argentina: Patagonia
-* Peru: Machu Piccu & Lima
-* Colombia: Medellín
-* Brazil
+* Go back to Singapore 
 
 ### Europe
 
-* Camino de Santiago
 * Istanbul, Turkey
-* Holland: Amsterdam, and something more authentic like Utrecht
-* Italy: Venice, Sardinia
-* Switzerland: hiking in the Alps
+* Budapest, Hungary
+* Lisboa, Portugal
+* St. Petersburg, Russia
+* Moscow, Russia
+* Venice, Italy
+* The Netherlands
 * Southern Spain 
+* Football game in London
+
+### South/Central America
+
+* Torres del Paine National Park, Chile 
+* Ushuaia, Argentina 
+* Iguazu Falls, Brazil/Argentina
+* Colombia: Medellín, Bogotá, Andes
+* Peru: Machu Piccu & Cusco
+* Atacama Desert, Chile
+* Lençóis National Park, Maranhão, Brazil
+* Rio de Janeiro, Brazil
 
 ### New Zealand: Great Walks
 ### Australia: East coast tour
