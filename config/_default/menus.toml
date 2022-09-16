@@ -21,7 +21,7 @@
     weight = 3
 
 [[main]]
-  name = "Publications in Sports"
+  name = "Publications"
   url = "#publications"
   weight = 4
 
