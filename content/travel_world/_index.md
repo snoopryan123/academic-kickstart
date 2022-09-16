@@ -75,11 +75,11 @@ author = "admin"
 * Germany
     - Berlin
     ![](/img/Berlin.jpg)
-    - Pottsdam
-    ![](/img/Pottsdam1.jpg)
+    - Potsdam
+    ![](/img/Potsdam1.jpg)
     Sans Souci - No Worries
-    ![](/img/Pottsdam2.jpg)
-    ![](/img/Pottsdam3.jpg)
+    ![](/img/Potsdam2.jpg)
+    ![](/img/Potsdam3.jpg)
 * Czech Republic
     - Prague
     ![](/img/Prague1.jpg)
@@ -87,13 +87,15 @@ author = "admin"
     
     
 
-### Central America
+### America
 
 * Costa Rica
     - Arenal
     - Monteverde
     - Guanacaste
     - San Jose
+* Mexico
+    - Cabo
 
 ### [Future Travel Ideas](/travel_plans_world/)
 

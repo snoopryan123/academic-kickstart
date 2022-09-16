@@ -15,10 +15,15 @@
   url = "pdf/CV.pdf"
   weight = 2
 
+  [[main]]
+    name = "Statistics in Sports"
+    url = "#statistics_in_sports"
+    weight = 3
+
 [[main]]
-  name = "Statistics in Sports"
-  url = "#statistics_in_sports"
-  weight = 3
+  name = "Publications in Sports"
+  url = "#publications"
+  weight = 4
 
 # [[main]]
 #   name = "Math Blog"

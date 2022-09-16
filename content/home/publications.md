@@ -4,8 +4,8 @@
 
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
-weight = 90  # Order that this section will appear.
+active = true  # Activate this widget? true/false
+weight = 10  # Order that this section will appear.
 
 title = "Recent Publications"
 subtitle = ""
@@ -65,3 +65,16 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+
+<!--
+### Pre-prints & Working Papers
+-->
+
+### Pre-prints
+
+* [Introducing Grid WAR: Rethinking WAR for Starting Pitchers](https://arxiv.org/abs/2209.07274)
+Brill, R. and Wyner, A. (2022). "Introducing Grid WAR: Rethinking WAR for Starting Pitchers."
+
+
+
+
