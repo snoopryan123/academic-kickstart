@@ -21,12 +21,9 @@ organizations:
 # bio: Swag on heem
 
 interests:
-- Statistics
+- Statistics in Sports
 - Bayesian Statistics
 - Machine Learning
-- Probability
-- Mathematical Modeling
-- Statistics in Sports
 
 education:
   courses:
