@@ -96,6 +96,9 @@ author = "admin"
     - San Jose
 * Mexico
     - Cabo
+* Canada
+    - Vancouver
+    ![](/img/vancouver.jpg)
 
 ### [Future Travel Ideas](/travel_plans_world/)
 
