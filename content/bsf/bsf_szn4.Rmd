@@ -1,0 +1,74 @@
+---
+title: ""
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(ggplot2)
+library(tidyr)
+```
+
+# [Bet, Sweat, and Forget.](https://open.spotify.com/show/1bABVhkwnd3sDaBSZLC0oY)
+
+#### Each week during the NFL season, Ryan Brill and Nick Miller make $50 worth of NFL bets on the [Bet, Sweat, and Forget](https://open.spotify.com/show/1bABVhkwnd3sDaBSZLC0oY) podcast, competing for glory and the title of "best bettor". 
+
+## 2022 NFL Season.
+
+
+```{r, echo=FALSE, warning=FALSE, fig.align = "center",fig.width=8.5, fig.height=5}
+# out.width = "85%"
+nick <- c(0,-34.08,-27.52)
+ryan <- c(0,39.31,55.54)
+guest_profits <- c(NA,0,NA)
+guest_names <- c("Harry")
+guest_weeks <- c(0,1,2)
+
+N = length(ryan)
+num_weeks <- 0:(N-1)
+df <- data.frame(nick, ryan, num_weeks)
+
+df_guests <- data.frame(guest_profits, guest_names, guest_weeks)
+
+library(ggthemes)
+#theme_set(theme_classic())
+theme_set(theme_bw())
+
+COLORS <- c("nick" = "firebrick", 
+            "ryan" = "dodgerblue2",
+            "zero" = "gray50",
+            "guest" = "gray25")#,
+            # "elon" = "mediumseagreen")#,
+            # "shelon" = "darkseagreen3",
+            # "belon" = "lightsteelblue2")
+
+ggplot(data = df) +
+
+geom_line(aes(x = df$num_weeks, y = rep(0, N), color = "zero"), lwd=.4) +
+geom_line(aes(x = df$num_weeks, y = df$nick, color = "nick"), lwd=1.3) +
+geom_line(aes(x = df$num_weeks, y = df$ryan, color = "ryan"), lwd=1.3) +
+
+geom_point(data = df_guests, aes(x= df_guests$guest_weeks, 
+                                 y = df_guests$guest_profits, 
+                                 color = "guest")) +
+geom_text(data = df_guests, aes(x= df_guests$guest_weeks, 
+                                y = df_guests$guest_profits, 
+                                label=guest_names, 
+                                color = "guest"),
+          hjust=0, vjust=0) +
+  scale_color_manual(values=COLORS, name="legend") +
+#scale_color_discrete(name = "",labels = c("wind", "temperature")) + 
+#scale_color_manual(values=c( "gray25","firebrick", "dodgerblue2", "gray65", "green", "green", "green")) +
+labs(title = "Bet, Sweat, and Forget 2022 NFL Betting Results", x = "NFL Week Number", y = "Cumulative Profit, USD", color="") +
+scale_x_continuous(breaks = num_weeks) +
+scale_y_continuous(breaks = seq(-160,80,by=20)) +
+expand_limits(x = N, y = 0)
+```
+
+#### View our weekly bets, and the detailed accounting, [here.](https://docs.google.com/spreadsheets/d/15DFcpdxcciP5_kcx9nvesw9OlovFa1ydqmxUE230pmk/edit#gid=0)
+
+#### View previous seasons of the Bet, Sweat, and Forget Podcast:
+
+* [BSF 2021](/bsf/bsf_2021)
+* [BSF 2020 and 2019](/bsf/bsf_2020_2019)
+
