@@ -83,6 +83,8 @@ author = "admin"
     - Syracuse
 * Pennsylvania
    - Philadelphia
+   - Pittsburgh
+   ![](/img/Pittsburgh.jpg)
 * Rhode Island
     - Providence
 * South Carolina
