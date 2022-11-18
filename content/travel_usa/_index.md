@@ -57,6 +57,9 @@ author = "admin"
     - Idaho Falls
 * Illinois
     - Chicago
+* Maine
+    - Kittery
+    - York
 * Maryland
     - Baltimore
 * Massachussetts
@@ -76,6 +79,7 @@ author = "admin"
     - Las Vegas
 * New Hampshire
     - Hanover
+    - White Mountains, Flume Gorge, Old Man of the Mountain
 * New Jersey
     - Princeton
 * New York
