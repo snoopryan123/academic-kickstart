@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ryan Brill | Ryan S. Brill</title>
+    <link>/ryansbrill.com/authors/ryan-brill/</link>
+      <atom:link href="/ryansbrill.com/authors/ryan-brill/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ryan Brill</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 05 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/ryansbrill.com/img/icon-192.png</url>
+      <title>Ryan Brill</title>
+      <link>/ryansbrill.com/authors/ryan-brill/</link>
+    </image>
+    
+    <item>
+      <title>Exploring a Type Theoretic Environment in Python</title>
+      <link>/ryansbrill.com/publication/rips/</link>
+      <pubDate>Mon, 05 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/ryansbrill.com/publication/rips/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Options Pricing</title>
+      <link>/ryansbrill.com/publication/bspaper/</link>
+      <pubDate>Sat, 14 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>/ryansbrill.com/publication/bspaper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Betting and Basic Probability</title>
+      <link>/ryansbrill.com/publication/betting/</link>
+      <pubDate>Mon, 23 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>/ryansbrill.com/publication/betting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Moneylines and Win Probability</title>
+      <link>/ryansbrill.com/publication/moneylines/</link>
+      <pubDate>Wed, 14 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>/ryansbrill.com/publication/moneylines/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

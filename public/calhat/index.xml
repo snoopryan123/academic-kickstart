@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ryan S. Brill</title>
+    <link>/ryansbrill.com/calhat/</link>
+      <atom:link href="/ryansbrill.com/calhat/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ryan S. Brill</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>/ryansbrill.com/img/icon-192.png</url>
+      <title>Ryan S. Brill</title>
+      <link>/ryansbrill.com/calhat/</link>
+    </image>
+    
+  </channel>
+</rss>

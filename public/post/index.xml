@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts | RYAN S. BRILL</title>
+    <link>/ryansbrill.com/post/</link>
+      <atom:link href="/ryansbrill.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Posts</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 04 Aug 2019 20:41:58 +0800</lastBuildDate>
+    <image>
+      <url>/ryansbrill.com/img/icon-192.png</url>
+      <title>Posts</title>
+      <link>/ryansbrill.com/post/</link>
+    </image>
+    
+    <item>
+      <title>Options Pricing</title>
+      <link>/ryansbrill.com/post/bspaper/</link>
+      <pubDate>Sun, 04 Aug 2019 20:41:58 +0800</pubDate>
+      <guid>/ryansbrill.com/post/bspaper/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

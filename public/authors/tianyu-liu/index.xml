@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tianyu Liu | Ryan S. Brill</title>
+    <link>/ryansbrill.com/authors/tianyu-liu/</link>
+      <atom:link href="/ryansbrill.com/authors/tianyu-liu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tianyu Liu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 05 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/ryansbrill.com/img/icon-192.png</url>
+      <title>Tianyu Liu</title>
+      <link>/ryansbrill.com/authors/tianyu-liu/</link>
+    </image>
+    
+    <item>
+      <title>Exploring a Type Theoretic Environment in Python</title>
+      <link>/ryansbrill.com/publication/rips/</link>
+      <pubDate>Mon, 05 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/ryansbrill.com/publication/rips/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
