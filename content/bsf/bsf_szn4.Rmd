@@ -21,11 +21,11 @@ theme_update(plot.title = element_text(hjust = 0.5))
 
 ```{r, echo=FALSE, warning=FALSE, fig.align = "center",fig.width=8.5, fig.height=5}
 # out.width = "85%"
-nick <- c(0,0,-34.08,-27.52,-67.57,-117.57,-167.57,-179.39,-129.38,-126.19,-157.10)
-ryan <- c(0,0,39.31,55.54,41.43,30.94,10.85,25.75,36.13,48.77,22.63)
-guest_profits <- c(NA,NA,4.69,NA,-21.36,6.68,-50,-21.49,NA,NA,NA)
-guest_names <- c(NA,NA,"Harry",NA,"Griff","Frank","Kole","Brandon",NA,NA,NA)
-guest_weeks <- c(0,1,2,3,4,5,6,7,8,9,10)
+nick <- c(0,0,-34.08,-27.52,-67.57,-117.57,-167.57,-179.39,-129.38,-126.19,-157.10,-207.10,-228.46)
+ryan <- c(0,0,39.31,55.54,41.43,30.94,10.85,25.75,36.13,48.77,22.63,-9.46,-21.28)
+guest_profits <- c(NA,NA,4.69,NA,-21.36,6.68,-50,-21.49,NA,NA,NA,NA,NA)
+guest_names <- c(NA,NA,"Harry",NA,"Griff","Frank","Kole","Brandon",NA,NA,NA,NA,NA)
+guest_weeks <- c(0,1,2,3,4,5,6,7,8,9,10,11,12)
 
 N = length(ryan)
 num_weeks <- 0:(N-1)
@@ -60,7 +60,7 @@ geom_text(data = df_guests, aes(x= df_guests$guest_weeks,
 #scale_color_manual(values=c( "gray25","firebrick", "dodgerblue2", "gray65", "green", "green", "green")) +
 labs(title = "Bet, Sweat, and Forget 2022 NFL Betting Results", x = "NFL Week Number", y = "Cumulative Profit, USD", color="") +
 scale_x_continuous(breaks = num_weeks) +
-scale_y_continuous(breaks = seq(-160,80,by=20)) +
+scale_y_continuous(breaks = seq(-1000,1000,by=20)) +
 expand_limits(x = N, y = 0)
 ```
 
