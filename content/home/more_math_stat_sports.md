@@ -1,6 +1,6 @@
 +++
 author = "admin"
-title="Articles and Musings"
+title="More Math/Stat/Sports"
 weight="14"
 active = true
 +++
