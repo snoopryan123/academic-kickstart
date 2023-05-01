@@ -18,11 +18,12 @@ organizations:
   url: "https://www.amcs.upenn.edu"
 
 # Short bio (displayed in user profile at end of posts)
-# bio: Swag on heem
+# bio: :)
 
 interests:
 - Statistics in Sports
-- Bayesian Statistics
+- Statistics
+- Probability
 - Machine Learning
 
 education:
@@ -32,7 +33,7 @@ education:
     year: Expected 2025 
   - course: MA in Statistics
     institution: The Wharton School, University of Pennsylvania
-    year: Expected 2022
+    year: 2023
   - course: BA in Mathematics and Statistics, Minor in Computer Science
     institution: UC Berkeley
     year: 2020
