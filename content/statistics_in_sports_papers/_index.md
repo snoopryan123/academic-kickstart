@@ -11,57 +11,43 @@ weight = 15  # Order that this section will appear in.
 author = "admin"
 +++
 
-# Some Statistics in Sports Papers
+# Some statistics in sports papers that I enjoy
 
+## Bayesian statistics in baseball
 
-## Baseball
+* [Yee & Deshpande, 2023 - Evaluating Plate Discipline in Major League Baseball with Bayesian Additive Regression Trees](/pdf/statistics_in_sports_papers/bayesball_plate_discipline_bart.pdf)
 
-#### In-Season Prediction of Batting Averages (Brown, 2008)
+* [Deshpande & Wyner, 2017 - A Hierarchical Bayesian Model of Pitch Framing](/pdf/statistics_in_sports_papers/bayesball_hierarchical_pitch_framing.pdf)
+
+* [Jensen, Shirley, & Wyner, 2009 - Bayesball: A Bayesian Hierarchical Model for Evaluating Fielding in Major League Baseball](/pdf/statistics_in_sports_papers/bayesball_hierarchical_fielding.pdf)
 
 * [Brown, 2008 - In-Season Prediction of Batting Averages: A Field Test of Empirical Bayes and Bayes Methodologies](/pdf/statistics_in_sports_papers/Brown2008.pdf)
 
-* [Ryan's Notes - Brown 2008 Setup](/pdf/statistics_in_sports_papers/Brown2008_RyansNotes.pdf)
+    * [Ryan's Notes - Brown 2008 Setup](/pdf/statistics_in_sports_papers/Brown2008_RyansNotes.pdf)
 
-* [Ryan's Notes - James Stein Estimator Derivation](/pdf/statistics_in_sports_papers/Brown2008_JamesStein.pdf)
+    * [Ryan's Notes - James Stein Estimator Derivation](/pdf/statistics_in_sports_papers/Brown2008_JamesStein.pdf)
 
-* [Ryan's Notes - Parametric Empirical Bayes Estimator (MLE) Derivation](/pdf/statistics_in_sports_papers/Brown2008_ParEmpBayes.pdf)
+    * [Ryan's Notes - Parametric Empirical Bayes Estimator (MLE) Derivation](/pdf/statistics_in_sports_papers/Brown2008_ParEmpBayes.pdf)
 
-* [Ryan's Notes - Nonparametric Empirical Bayes Estimator Derivation](/pdf/statistics_in_sports_papers/Brown2008_NonpEmpBayes.pdf)
+    * [Ryan's Notes - Nonparametric Empirical Bayes Estimator Derivation](/pdf/statistics_in_sports_papers/Brown2008_NonpEmpBayes.pdf)
 
-* [Rahul's Code - Implementing the Estimators from Brown 2008](https://colab.research.google.com/drive/1_ZBfS4kAfxFi93XqGzuSZ2FU13HAplpF?usp=sharing)
-
-#### Pitch Framing 
-
-* [Deshpande & Wyner, 2017 - A Hierarchical Bayesian Model of Pitch Framing](/pdf/statistics_in_sports_papers/DeshpandeWyner2017.pdf)
-
+    * [Rahul's Code - Implementing the Estimators from Brown 2008](https://colab.research.google.com/drive/1_ZBfS4kAfxFi93XqGzuSZ2FU13HAplpF?usp=sharing)
+    
 
 ## American Football
 
-#### Finding Value in the NFL Draft
-
 * [Massey & Thaler, 2013 - The Loser's Curse: Decision Making and Market Efficiency in the National Football League Draft](/pdf/statistics_in_sports_papers/MasseyThaler2013.pdf)
 
-* [Ryan's Notes - Massey & Thaler 2013](/pdf/statistics_in_sports_papers/MasseyThaler2013_RyansNotes.pdf)
-
-#### PFF WAR
+    * [Ryan's Notes - Massey & Thaler 2013](/pdf/statistics_in_sports_papers/MasseyThaler2013_RyansNotes.pdf)
+    
 
 * [Eric Eager, 2020 - PFF WAR: Modeling Player Value in American Football](/pdf/statistics_in_sports_papers/pffWar_Eager2020.pdf)
 
-* [PFF Player Grades](/pdf/statistics_in_sports_papers/pffWar_pffGrades.pdf)
-
-* [Ryan's Notes - PFF WAR](/pdf/statistics_in_sports_papers/pffWar_RyansNotes.pdf)
-
-## Causal Inference
-
-#### A good overview of causal inference
-
-* [Stuart 2010 - Matching methods for causal inference: A review and a look forward](/pdf/statistics_in_sports_papers/Stuart2010.pdf)
-
-#### A good example of applying causal inference to sports
-
-* [Gibbs, Elmore, Fosdick 2021 - The Causal Effect of a Timeout at Stopping an Opposing Run in the NBA](/pdf/statistics_in_sports_papers/Causal_NBA_timeout.pdf)
-
-
+    * [PFF Player Grades](/pdf/statistics_in_sports_papers/pffWar_pffGrades.pdf)
+    
+<!---
+    * [Ryan's Notes - PFF WAR](/pdf/statistics_in_sports_papers/pffWar_RyansNotes.pdf)
+--->
 
 <!---
 #### Expected Points, Win Probability, and WAR Models 
@@ -77,31 +63,42 @@ author = "admin"
 
 ## Sports Betting & Information Theory
 
-#### Kelly Criterion & Log-Optimal Betting
-
 * [Kelly, 1956 - A New Interpretation of Information Rate](/pdf/statistics_in_sports_papers/Kelly1956.pdf)
 
-* [Ryan's Notes - Kelly Criterion Derivation (Case: No Rake)](/pdf/statistics_in_sports_papers/Kelly1956_RyansNotes1.pdf)
+    * [Shannon, 1948 - A Mathematical Theory of Communication (Pages 10-13 + Appendix 2)](/pdf/statistics_in_sports_papers/Shannon1948.pdf)
 
-* [Ryan's Notes - Kelly Criterion Derivation (Case: Rake)](/pdf/statistics_in_sports_papers/Kelly1956_RyansNotes2.pdf)
+    * [Ryan's Notes - Kelly Criterion Derivation (Case: No Rake)](/pdf/statistics_in_sports_papers/Kelly1956_RyansNotes1.pdf)
 
-* [Ryan's Slides - Horse Racing, Kelly Betting, and Unintuitive Bets](/pdf/statistics_in_sports_papers/Kelly1956_RyansSlides.pdf)
+    * [Ryan's Notes - Kelly Criterion Derivation (Case: Rake)](/pdf/statistics_in_sports_papers/Kelly1956_RyansNotes2.pdf)
 
-* [Ryan's Notes - Applying Kelly Criteron to the 2021 March Madness Elite 8](/pdf/statistics_in_sports_papers/Kelly1956_Elite8.pdf)
+    * [Ryan's Slides - Horse Racing, Kelly Betting, and Unintuitive Bets](/pdf/statistics_in_sports_papers/Kelly1956_RyansSlides.pdf)
 
-* [Example of a Kelly-Optimal and Negative EV Bet](/pdf/statistics_in_sports_papers/Kelly1956_exBet.pdf)
+    * [Ryan's Notes - Applying Kelly Criteron to the 2021 March Madness Elite 8](/pdf/statistics_in_sports_papers/Kelly1956_Elite8.pdf)
 
-* [Wyner and Rising, 2012 - Partial Kelly Portfolios and Shrinkage Estimators](/pdf/statistics_in_sports_papers/Kelly1956_Wyner2012.pdf)
+    * [Example of a Kelly-Optimal and Negative EV Bet](/pdf/statistics_in_sports_papers/Kelly1956_exBet.pdf)
 
-#### Horse Race Betting
+    * [Wyner and Rising, 2012 - Partial Kelly Portfolios and Shrinkage Estimators](/pdf/statistics_in_sports_papers/Kelly1956_Wyner2012.pdf)
 
-* [The Gambler Who Cracked the Horse-Racing Code](/pdf/statistics_in_sports_papers/Horse_Race_Betting_article.pdf)
+    * [The Gambler Who Cracked the Horse-Racing Code](/pdf/statistics_in_sports_papers/Horse_Race_Betting_article.pdf)
 
-* [Benter, 1994 -  Computer Based Horse Race Handicapping and Wagering Systems: A Report](/pdf/statistics_in_sports_papers/Horse_Race_Betting_Benter1994.pdf)
+    * [Benter, 1994 -  Computer Based Horse Race Handicapping and Wagering Systems: A Report](/pdf/statistics_in_sports_papers/Horse_Race_Betting_Benter1994.pdf)
 
-#### Shannon Entropy as a Measure of the Uncertainty of a Distribution (Shannon, 1948)
 
-* [Shannon, 1948 - A Mathematical Theory of Communication (Pages 10-13 + Appendix 2)](/pdf/statistics_in_sports_papers/Shannon1948.pdf)
+## Causal Inference in Sports
+
+A good overview of causal inference:
+
+* [Stuart 2010 - Matching methods for causal inference: A review and a look forward](/pdf/statistics_in_sports_papers/Stuart2010.pdf)
+
+A good example of applying causal inference to sports:
+
+* [Gibbs, Elmore, Fosdick 2021 - The Causal Effect of a Timeout at Stopping an Opposing Run in the NBA](/pdf/statistics_in_sports_papers/Causal_NBA_timeout.pdf)
+
+
+
+
+
+
 
 
 <!---
