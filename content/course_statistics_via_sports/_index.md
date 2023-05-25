@@ -11,9 +11,9 @@ weight = 10  # Order that this section will appear in.
 author = "admin"
 +++
 
-## Statistics via Sports
+# Statistics via Sports
 
-#### Lectures
+#### Lectures:
 
 * probability primer
 * data visualization primer

@@ -5,7 +5,7 @@ weight="18"
 active = true
 +++
 
-* [Statistics via Sports](/teaching/) 
+* [Statistics via Sports](/course_statistics_via_sports/) 
 
 
 
