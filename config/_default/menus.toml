@@ -26,6 +26,11 @@ url = "#more_math_stat_sports"
 weight = 4
 
 
+[[main]]
+name = "Teaching"
+url = "#teaching"
+weight = 5
+
 
 # [[main]]
 #   name = "Math Blog"
