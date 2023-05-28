@@ -30,7 +30,8 @@ author = "admin"
     * predict end-of-season win percentage from mid-season win percentage
 * Shrinkage 3: empirical Bayes
     * predict end-of-season batting average from mid-season batting average
-    
+* Parametric uncertainty quantification
+    * fixme: need an example
 * Trees 1: decision trees and random forests
     * fixme: need an example
 * Trees 2: gradient boosting
@@ -39,14 +40,15 @@ author = "admin"
     * in-game NFL win probabilities
 * Machine learning vs. mathematical modeling
     * wins above replacement for starting pitchers
+* NFL draft chart 
 * Clustering 1: k-means clustering
 * Clustering 2: eigenvalues, diagonalization, SVD
 * Clustering 3: PCA, factor analysis
     * fixme: need an example
 
 
-* parametric uncertainty quantification
-* NFL draft chart ?
+
+
 
 
 
