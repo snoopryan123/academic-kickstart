@@ -23,7 +23,7 @@ author = "admin"
 * Example of the research process
     * Rethinking WAR for starting pitchers
     * Machine learning vs. mathematical models
-    * [planned lecture]()
+    * [planned lecture](/pdf/lab/planned_lectures_2023/example_of_the_research_process.pdf)
     * [live lecture]()
 
 
