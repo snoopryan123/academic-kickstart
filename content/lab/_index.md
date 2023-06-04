@@ -13,6 +13,8 @@ author = "admin"
 
 # Statistics via Sports
 
+* Recommended prerequisites: calculus, probability, R coding; matrix algebra helps
+
 ### Lectures:
 * Linear algebra primer
     * [planned lecture](/pdf/lab/planned_lectures_2023/linear_algebra_primer.pdf)
