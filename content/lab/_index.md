@@ -14,10 +14,20 @@ author = "admin"
 # Statistics via Sports
 
 ### Lectures:
+* Linear algebra primer
+    * [planned lecture](/pdf/planned_lectures_2023/linear_algebra_primer.pdf)
+    * [live lecture](/pdf/live_lectures_2023/linear_algebra_primer.pdf)
+* Probability primer
+    * [planned lecture](/pdf/planned_lectures_2023/probability_primer.pdf)
+    * [live lecture](/pdf/live_lectures_2023/probability_primer.pdf)
+* Example of the research process
+    * Rethinking WAR for starting pitchers
+    * Machine learning vs. mathematical models
+    * [planned lecture]()
+    * [live lecture]()
 
-* Primer 1: probability
-* Primer 2: math
-* Primer 3: data visualization
+
+### Tentative Lecture Plan: 
 * Regression 1: simple linear regression
     * predict batting average across seasons, pythagorean win percentage
 * Regression 2: multivariable linear regression
@@ -47,6 +57,7 @@ author = "admin"
 * Clustering 2: eigenvalues, diagonalization, SVD
 * Clustering 3: PCA, factor analysis
     * fixme: need an example
+* Primer 3: data visualization
 
 
 
