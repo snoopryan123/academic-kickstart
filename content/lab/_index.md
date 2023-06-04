@@ -15,11 +15,11 @@ author = "admin"
 
 ### Lectures:
 * Linear algebra primer
-    * [planned lecture](/pdf/planned_lectures_2023/linear_algebra_primer.pdf)
-    * [live lecture](/pdf/live_lectures_2023/linear_algebra_primer.pdf)
+    * [planned lecture](/pdf/lab/planned_lectures_2023/linear_algebra_primer.pdf)
+    * [live lecture](/pdf/lab/live_lectures_2023/linear_algebra_primer.pdf)
 * Probability primer
-    * [planned lecture](/pdf/planned_lectures_2023/probability_primer.pdf)
-    * [live lecture](/pdf/live_lectures_2023/probability_primer.pdf)
+    * [planned lecture](/pdf/lab/planned_lectures_2023/probability_primer.pdf)
+    * [live lecture](/pdf/lab/live_lectures_2023/probability_primer.pdf)
 * Example of the research process
     * Rethinking WAR for starting pitchers
     * Machine learning vs. mathematical models
