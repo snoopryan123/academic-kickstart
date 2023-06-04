@@ -25,6 +25,9 @@ author = "admin"
     * Machine learning vs. mathematical models
     * [planned lecture](/pdf/lab/planned_lectures_2023/example_of_the_research_process.pdf)
     * [live lecture]()
+    * [code](/pdf/lab/code/fitting_f_grid.R)
+    * [data](/pdf/lab/code/data/df_f_grid.csv)
+    * [XGBoost pre-trained hyperparameters](/pdf/lab/code/data/xgb_f_grid_params.yaml)
 
 
 ### Tentative Lecture Plan: 
