@@ -43,7 +43,7 @@ author = "admin"
     * [planned lecture](/pdf/lab/planned_lectures_2023/multivariable_linear_regression.pdf)
     * [live lecture]()
     * [code](/pdf/lab/code/multivariable_linear_regression.R)
-    * [NCAA mbb schedule data](/pdf/lab/code/data/MRegularSeasonCompactResults.csv), [NCAA mbb team data](/pdf/lab/code/data/MTeams.csv), and [NFL expected points data](/pdf/lab/code/data/data_ep_2015_2019.csv), 
+    * [NCAA mbb schedule data](/pdf/lab/code/data/MRegularSeasonCompactResults.csv), [NCAA mbb team data](/pdf/lab/code/data/MTeams.csv), and [NFL expected points data](/pdf/lab/code/data/data_ep_2015_2019.csv)
 * Logistic regression
     * putt success probability, Bradley-Terry power ratings
     * [planned lecture](/pdf/lab/planned_lectures_2023/logistic_regression.pdf)
@@ -63,7 +63,7 @@ author = "admin"
     * in-game NFL win probabilities
 * Uncertainty quantification 1: nonparametric/bootstrap
     * in-game NFL win probabilities
-* Uncertainty quantification 2: parametric
+* Uncertainty quantification 2: parametric;  bayesian?
     * fixme: need an example
 * fixme: need a statistical theme
     * NFL draft chart 
