@@ -24,10 +24,10 @@ author = "admin"
     * [live lecture](/pdf/lab/live_lectures_2023/probability_primer.pdf)
 * Example of the research process
     * Rethinking WAR for starting pitchers
-    * Machine learning vs. mathematical models
     * [planned lecture](/pdf/lab/planned_lectures_2023/example_of_the_research_process.pdf)
     * [live lecture](/pdf/lab/live_lectures_2023/example_of_the_research_process.pdf)
-* Statistical / machine learning models vs. mathematical models
+* Statistical models vs. mathematical models
+    * Rethinking WAR for starting pitchers
     * [planned lecture](/pdf/lab/planned_lectures_2023/mathematical_vs_statistical_models.pdf)
     * [live lecture](/pdf/lab/live_lectures_2023/mathematical_vs_statistical_models.pdf)
     * [code](/pdf/lab/code/fitting_f_grid.R)
