@@ -63,7 +63,7 @@ author = "admin"
     * in-game NFL win probabilities
 * Uncertainty quantification 1: nonparametric/bootstrap
     * in-game NFL win probabilities
-* Uncertainty quantification 2: parametric;  bayesian?
+* Uncertainty quantification 2: parametric;  bayesian? ?
     * fixme: need an example
 * fixme: need a statistical theme
     * NFL draft chart 
