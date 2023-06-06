@@ -33,15 +33,24 @@ author = "admin"
     * [code](/pdf/lab/code/fitting_f_grid.R)
     * [data](/pdf/lab/code/data/df_f_grid.csv)
     * [XGBoost pre-trained hyperparameters](/pdf/lab/code/data/xgb_f_grid_params.yaml)
-
+* Simple linear regression
+    * predict batting average across seasons, pythagorean win percentage
+    * [planned lecture](/pdf/lab/planned_lectures_2023/simple_linear_regression.pdf)
+    * [live lecture]()
+    * [code](/pdf/lab/code/simple_linear_regression.R)
+* Multivariable linear regression
+    * NCAA basketball power ratings, NFL expected points 
+    * [planned lecture](/pdf/lab/planned_lectures_2023/multivariable_linear_regression.pdf)
+    * [live lecture]()
+    * [code](/pdf/lab/code/multivariable_linear_regression.R)
+    * [NCAA mbb schedule data](MRegularSeasonCompactResults.csv), [NCAA mbb team data](MTeams.csv), and [NFL expected points data](data_ep_2015_2019.csv), 
+* Logistic regression
+    * putt success probability, Bradley-Terry power ratings
+    * [planned lecture](/pdf/lab/planned_lectures_2023/logistic_regression.pdf)
+    * [NCAA mbb schedule data](MRegularSeasonCompactResults.csv), [NCAA mbb team data](MTeams.csv)
+    * [code](/pdf/lab/code/logistic_regression.R)
 
 ### Tentative Lecture Plan: 
-* Regression 1: simple linear regression
-    * predict batting average across seasons, pythagorean win percentage
-* Regression 2: multivariable linear regression
-    * NCAA basketball power ratings
-* Regression 3: logistic regression
-    * putt success probability, Bradley-Terry power ratings
 * Shrinkage 1: regularization and the bias-variance tradeoff
     * MLB park factors
 * Shrinkage 2: the power of fake data (priors)
