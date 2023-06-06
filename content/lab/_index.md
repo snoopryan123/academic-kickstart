@@ -43,12 +43,12 @@ author = "admin"
     * [planned lecture](/pdf/lab/planned_lectures_2023/multivariable_linear_regression.pdf)
     * [live lecture]()
     * [code](/pdf/lab/code/multivariable_linear_regression.R)
-    * [NCAA mbb schedule data](MRegularSeasonCompactResults.csv), [NCAA mbb team data](MTeams.csv), and [NFL expected points data](data_ep_2015_2019.csv), 
+    * [NCAA mbb schedule data](/pdf/lab/code/data/MRegularSeasonCompactResults.csv), [NCAA mbb team data](/pdf/lab/code/data/MTeams.csv), and [NFL expected points data](/pdf/lab/code/data/data_ep_2015_2019.csv), 
 * Logistic regression
     * putt success probability, Bradley-Terry power ratings
     * [planned lecture](/pdf/lab/planned_lectures_2023/logistic_regression.pdf)
-    * [NCAA mbb schedule data](MRegularSeasonCompactResults.csv), [NCAA mbb team data](MTeams.csv)
     * [code](/pdf/lab/code/logistic_regression.R)
+    * [NCAA mbb schedule data](/pdf/lab/code/data/MRegularSeasonCompactResults.csv), [NCAA mbb team data](/pdf/lab/code/data/MTeams.csv)
 
 ### Tentative Lecture Plan: 
 * Shrinkage 1: regularization and the bias-variance tradeoff
