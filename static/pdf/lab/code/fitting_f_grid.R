@@ -283,6 +283,19 @@ xgb_f_grid_xgb_2019_NL = fit_xgb_f_grid(
 xgb_f_grid_2019_NL = xgb_to_grid(xgb_f_grid_xgb_2019_NL)
 plot_grid_f_IR(xgb_f_grid_2019_NL)
 
+
+
+plot_grid_f_IR(xgb_to_grid(fit_xgb_f_grid(
+  params, df_f_grid %>% filter(YEAR == 2019, HOME_LEAGUE == "NL")
+)))
+plot_grid_f_IR(xgb_to_grid(fit_xgb_f_grid(
+  params, df_f_grid %>% filter(YEAR == 2018, HOME_LEAGUE == "NL")
+)))
+plot_grid_f_IR(xgb_to_grid(fit_xgb_f_grid(
+  params, df_f_grid %>% filter(YEAR == 2017, HOME_LEAGUE == "NL")
+)))
+
+
 ##############################
 ### Simplest Poisson Model ###
 ##############################
@@ -303,7 +316,9 @@ get_f_grid_Skellam <- function(lambda, max_r = 10) {
     for (I in 1:9) {
       if (I < 9) {
         t1 = pskellam(R, lambda1 = 9*lambda, lambda2 = (9-I)*lambda, lower.tail = FALSE)
+        ### pskellam means P(Skellam(9lambda, 9(9-I-1)) > R)
         t2 = dskellam(R, lambda1 = 9*lambda, lambda2 = (9-I)*lambda)
+        ### dskellam means P(Skellam == R)
         f_grid[I,R+1] = t1 + 1/2*t2
       } else {
         t1 = ppois(R, lambda = 9*lambda, lower.tail = FALSE)
@@ -374,6 +389,7 @@ get_f_grid_Skellam_XY <- function(lambda_X, lambda_Y, max_r = 10) {
 monte_carlo_f_grid <- function(lambda_hat, sigma_hat, B=100) {
   f_grid = NULL
   for (b in 1:B) {
+    # browser()
     ### sample lambda_X and lambda_Y
     lambda_X_b = truncnorm::rtruncnorm(n=1, a=0, mean=lambda_hat, sd=sigma_hat)
     lambda_Y_b = truncnorm::rtruncnorm(n=1, a=0, mean=lambda_hat, sd=sigma_hat)

@@ -26,7 +26,10 @@ author = "admin"
     * Rethinking WAR for starting pitchers
     * Machine learning vs. mathematical models
     * [planned lecture](/pdf/lab/planned_lectures_2023/example_of_the_research_process.pdf)
-    * [live lecture]()
+    * [live lecture](/pdf/lab/live_lectures_2023/example_of_the_research_process.pdf)
+* Statistical / machine learning models vs. mathematical models
+    * [planned lecture](/pdf/lab/planned_lectures_2023/mathematical_vs_statistical_models.pdf)
+    * [live lecture](/pdf/lab/live_lectures_2023/mathematical_vs_statistical_models.pdf)
     * [code](/pdf/lab/code/fitting_f_grid.R)
     * [data](/pdf/lab/code/data/df_f_grid.csv)
     * [XGBoost pre-trained hyperparameters](/pdf/lab/code/data/xgb_f_grid_params.yaml)
@@ -53,8 +56,6 @@ author = "admin"
     * in-game NFL win probabilities
 * Uncertainty quantification 2: parametric
     * fixme: need an example
-* Machine learning vs. mathematical modeling
-    * wins above replacement for starting pitchers
 * fixme: need a statistical theme
     * NFL draft chart 
 * Clustering 1: K-means 
@@ -63,7 +64,7 @@ author = "admin"
 * Clustering 3: PCA, factor analysis
     * fixme: need an example
 * Primer 3: data visualization
-
+* Selection Bias
 
 
 
