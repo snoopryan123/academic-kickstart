@@ -36,7 +36,7 @@ author = "admin"
 * Simple linear regression
     * predict batting average across seasons, pythagorean win percentage
     * [planned lecture](/pdf/lab/planned_lectures_2023/simple_linear_regression.pdf)
-    * [live lecture]()
+    * [live lecture](/pdf/lab/code/simple_linear_regression.R)
     * [code](/pdf/lab/code/simple_linear_regression.R)
 * Multivariable linear regression
     * NCAA basketball power ratings, NFL expected points 

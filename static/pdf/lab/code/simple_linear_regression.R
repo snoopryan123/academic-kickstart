@@ -58,6 +58,7 @@ plot_BA_2020_2021_1
 plot_BA_2020_2021_2 = D1a %>%
   ggplot(aes(x = BA_2020, y = BA_2021)) +
   geom_point() +
+  # geom_smooth(formula="y~x", method="lm")
   geom_smooth(formula="y~x", method="lm", se=FALSE)
 plot_BA_2020_2021_2
 # ggsave("plots/plot_BA_2020_2021_2.png", width=7, height=6)
