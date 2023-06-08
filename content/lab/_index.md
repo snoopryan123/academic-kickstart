@@ -14,6 +14,7 @@ author = "admin"
 # Statistics via Sports
 
 * Recommended prerequisites: calculus, probability, R coding; matrix algebra helps
+* Taught as part of the [Wharton Sports Analytics Summer Research Lab](https://wsb.wharton.upenn.edu/sports-analytics-summer-research-lab/)
 
 ### Lectures:
 * Linear algebra primer
@@ -41,12 +42,13 @@ author = "admin"
 * Multivariable linear regression
     * NCAA basketball power ratings, NFL expected points 
     * [planned lecture](/pdf/lab/planned_lectures_2023/multivariable_linear_regression.pdf)
-    * [live lecture]()
+    * [live lecture](/pdf/lab/live_lectures_2023/multivariable_linear_regression.pdf)
     * [code](/pdf/lab/code/multivariable_linear_regression.R)
     * [NCAA mbb schedule data](/pdf/lab/code/data/MRegularSeasonCompactResults.csv), [NCAA mbb team data](/pdf/lab/code/data/MTeams.csv), and [NFL expected points data](/pdf/lab/code/data/data_ep_2015_2019.csv)
 * Logistic regression
     * putt success probability, Bradley-Terry power ratings
     * [planned lecture](/pdf/lab/planned_lectures_2023/logistic_regression.pdf)
+    * [live lecture]()
     * [code](/pdf/lab/code/logistic_regression.R)
     * [NCAA mbb schedule data](/pdf/lab/code/data/MRegularSeasonCompactResults.csv), [NCAA mbb team data](/pdf/lab/code/data/MTeams.csv)
 

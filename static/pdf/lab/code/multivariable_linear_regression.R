@@ -50,7 +50,9 @@ df_ncaamb2[1:5,]
 X[1:5,c(1:5,131)]
 
 ### get power ratings using multivariable linear regression
-power_ratings_model = lm(df_ncaamb2$ScoreDiff ~ X + 0)
+y = df_ncaamb2$ScoreDiff
+power_ratings_model = lm(y ~ X + 0)
+summary(power_ratings_model)
 power_ratings = power_ratings_model$coefficients
 power_ratings
 
