@@ -48,7 +48,7 @@ author = "admin"
 * Logistic regression
     * putt success probability, Bradley-Terry power ratings
     * [planned lecture](/pdf/lab/planned_lectures_2023/logistic_regression.pdf)
-    * [live lecture]()
+    * [live lecture](/pdf/lab/live_lectures_2023/logistic_regression.pdf)
     * [code](/pdf/lab/code/logistic_regression.R)
     * [NCAA mbb schedule data](/pdf/lab/code/data/MRegularSeasonCompactResults.csv), [NCAA mbb team data](/pdf/lab/code/data/MTeams.csv)
 
@@ -76,6 +76,8 @@ author = "admin"
     * fixme: need an example
 * Primer 3: data visualization
 * Selection Bias
+* Regression models are sensitive (multicollinearity; model changes a lot when remove one predictor)
+
 
 
 

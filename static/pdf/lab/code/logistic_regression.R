@@ -129,6 +129,7 @@ plot_putts3a
 
 ### logistic regression with 
 m4 = glm(y ~ poly(dist_to_hole,3), data=putt_df_1, family="binomial")
+# m4 = glm(y ~ poly(dist_to_hole,5), data=putt_df_1, family="binomial")
 # m4 = glm(y ~ splines::bs(dist_to_hole,knots=c(10)), data=putt_df_1, family="binomial")
 m4
 ### visualize
