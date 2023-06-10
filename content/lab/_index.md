@@ -16,7 +16,8 @@ author = "admin"
 * Recommended prerequisites: calculus, probability, R coding; matrix algebra helps
 * Taught as part of the [Wharton Sports Analytics Summer Research Lab](https://wsb.wharton.upenn.edu/sports-analytics-summer-research-lab/)
 
-### Lectures:
+## Lectures:
+### Intro
 * Linear algebra primer
     * [planned lecture](/pdf/lab/planned_lectures_2023/linear_algebra_primer.pdf)
     * [live lecture](/pdf/lab/live_lectures_2023/linear_algebra_primer.pdf)
@@ -34,6 +35,7 @@ author = "admin"
     * [code](/pdf/lab/code/fitting_f_grid.R)
     * [data](/pdf/lab/code/data/df_f_grid.csv)
     * [XGBoost pre-trained hyperparameters](/pdf/lab/code/data/xgb_f_grid_params.yaml)
+### Regression
 * Simple linear regression
     * predict batting average across seasons, pythagorean win percentage
     * [planned lecture](/pdf/lab/planned_lectures_2023/simple_linear_regression.pdf)
@@ -51,14 +53,25 @@ author = "admin"
     * [live lecture](/pdf/lab/live_lectures_2023/logistic_regression.pdf)
     * [code](/pdf/lab/code/logistic_regression.R)
     * [NCAA mbb schedule data](/pdf/lab/code/data/MRegularSeasonCompactResults.csv), [NCAA mbb team data](/pdf/lab/code/data/MTeams.csv)
-
-### Tentative Lecture Plan: 
-* Shrinkage 1: regularization and the bias-variance tradeoff
-    * MLB park factors
-* Shrinkage 2: the power of fake data (priors)
+### Shrinkage
+* Regularization and the bias-variance tradeoff
+    * MLB park effects
+    * [planned lecture](/pdf/lab/planned_lectures_2023/regularization_and_the_bias_variance_tradeoff.pdf)
+    * [live lecture]()
+    * [code](/pdf/lab/code/regularization_and_the_bias_variance_tradeoff.R)
+    * [MLB half-inning data](/pdf/lab/code/data/park_df.csv)
+* The power of fake data (priors)
     * predict end-of-season win percentage from mid-season win percentage
-* Shrinkage 3: empirical Bayes
+    * [planned lecture](/pdf/lab/planned_lectures_2023/the_power_of_fake_data.pdf)
+    * [live lecture]()
+* Empirical Bayes
     * predict end-of-season batting average from mid-season batting average
+    * [planned lecture](/pdf/lab/planned_lectures_2023/empirical_bayes.pdf)
+    * [live lecture]()
+    * [code](/pdf/lab/code/empirical_bayes.R)
+    * [2019 batting average data](/pdf/lab/code/data/df_in_season_pred_BA_2019.csv)
+
+## Tentative Lecture Plan: 
 * Trees 1: decision trees and random forests
     * fixme: need an example
 * Trees 2: gradient boosting
