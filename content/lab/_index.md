@@ -17,6 +17,7 @@ author = "admin"
 * Taught as part of the [Wharton Sports Analytics Summer Research Lab](https://wsb.wharton.upenn.edu/sports-analytics-summer-research-lab/)
 
 ## Lectures:
+
 ### Intro
 * Linear algebra primer
     * [planned lecture](/pdf/lab/planned_lectures_2023/linear_algebra_primer.pdf)
@@ -35,6 +36,7 @@ author = "admin"
     * [code](/pdf/lab/code/fitting_f_grid.R)
     * [data](/pdf/lab/code/data/df_f_grid.csv)
     * [XGBoost pre-trained hyperparameters](/pdf/lab/code/data/xgb_f_grid_params.yaml)
+    
 ### Regression
 * Simple linear regression
     * predict batting average across seasons, pythagorean win percentage
@@ -53,6 +55,7 @@ author = "admin"
     * [live lecture](/pdf/lab/live_lectures_2023/logistic_regression.pdf)
     * [code](/pdf/lab/code/logistic_regression.R)
     * [NCAA mbb schedule data](/pdf/lab/code/data/MRegularSeasonCompactResults.csv), [NCAA mbb team data](/pdf/lab/code/data/MTeams.csv)
+    
 ### Shrinkage
 * Regularization and the bias-variance tradeoff
     * MLB park effects
