@@ -78,26 +78,37 @@ author = "admin"
     * [code](/pdf/lab/code/empirical_bayes.R)
     * [2019 batting average data](/pdf/lab/code/data/df_in_season_pred_BA_2019.csv)
     * [HW: Empirical Bayes player quality](/pdf/lab/hws_2023/hw_emp_bayes_player_quality.pdf)
-
-## Tentative Lecture Plan: 
+* Thinking like a Bayesian
+    * [planned lecture]()
+    * [live lecture]()
+    * [HW]()
+    
+## Tentative Lectures: 
+    
+### Tree machine learning
 * Trees 1: decision trees and random forests
     * fixme: need an example
 * Trees 2: gradient boosting
     * in-game NFL win probabilities
-* Uncertainty quantification 1: nonparametric/bootstrap
+* Nonparametric uncertainty quantification: the bootstrap
     * in-game NFL win probabilities
-* Uncertainty quantification 2: parametric;  bayesian? ?
-    * fixme: need an example
-* fixme: need a statistical theme
-    * NFL draft chart 
-* Clustering 1: K-means 
-    * fixme: need an example
-* Clustering 2: eigenvalues, diagonalization, SVD
-* Clustering 3: PCA, factor analysis
-    * fixme: need an example
-* Primer 3: data visualization
+    
+### Fun applications
+* Kelly betting
+* NFL Draft chart
+
+### Clustering
+* K-means clustering
+    * NBA player clustering
+* Eigenvalues, diagonalization, SVD
+* PCA, factor analysis
+    * ex?
+    
+### Other lessons
+* Data visualization primer
 * Selection Bias
-* Regression models are sensitive (multicollinearity; model changes a lot when remove one predictor)
+* The sensitivity of regression models
+    * models change a lot when remove one predictor
 
 
 
