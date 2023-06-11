@@ -49,12 +49,14 @@ author = "admin"
     * [live lecture](/pdf/lab/live_lectures_2023/multivariable_linear_regression.pdf)
     * [code](/pdf/lab/code/multivariable_linear_regression.R)
     * [NCAA mbb schedule data](/pdf/lab/code/data/MRegularSeasonCompactResults.csv), [NCAA mbb team data](/pdf/lab/code/data/MTeams.csv), and [NFL expected points data](/pdf/lab/code/data/data_ep_2015_2019.csv)
+    * [HW: Value of a draft position](/pdf/lab/hws_2023/hw_draft_position.pdf)
 * Logistic regression
     * putt success probability, Bradley-Terry power ratings
     * [planned lecture](/pdf/lab/planned_lectures_2023/logistic_regression.pdf)
     * [live lecture](/pdf/lab/live_lectures_2023/logistic_regression.pdf)
     * [code](/pdf/lab/code/logistic_regression.R)
     * [NCAA mbb schedule data](/pdf/lab/code/data/MRegularSeasonCompactResults.csv), [NCAA mbb team data](/pdf/lab/code/data/MTeams.csv)
+    * [HW: Power score comparison](/pdf/lab/hws_2023/hw_power_scores.pdf)
     
 ### Shrinkage
 * Regularization and the bias-variance tradeoff
@@ -63,16 +65,19 @@ author = "admin"
     * [live lecture]()
     * [code](/pdf/lab/code/regularization_and_the_bias_variance_tradeoff.R)
     * [MLB half-inning data](/pdf/lab/code/data/park_df.csv)
+    * [HW: Adjusted plus-minus and RAPM](/pdf/lab/hws_2023/hw_APM_RAPM.pdf)
 * The power of fake data (priors)
     * predict end-of-season win percentage from mid-season win percentage
     * [planned lecture](/pdf/lab/planned_lectures_2023/the_power_of_fake_data.pdf)
     * [live lecture]()
+    * [HW: Priors for in-season prediction of win percentage](/pdf/lab/hws_2023/hw_prior_WP.pdf)
 * Empirical Bayes
     * predict end-of-season batting average from mid-season batting average
     * [planned lecture](/pdf/lab/planned_lectures_2023/empirical_bayes.pdf)
     * [live lecture]()
     * [code](/pdf/lab/code/empirical_bayes.R)
     * [2019 batting average data](/pdf/lab/code/data/df_in_season_pred_BA_2019.csv)
+    * [HW: Empirical Bayes player quality](/pdf/lab/hws_2023/hw_emp_bayes_player_quality.pdf)
 
 ## Tentative Lecture Plan: 
 * Trees 1: decision trees and random forests
