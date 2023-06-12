@@ -62,7 +62,7 @@ author = "admin"
 * Regularization and the bias-variance tradeoff
     * MLB park effects
     * [planned lecture](/pdf/lab/planned_lectures_2023/regularization_and_the_bias_variance_tradeoff.pdf)
-    * [live lecture]()
+    * [live lecture](/pdf/lab/live_lectures_2023/regularization_and_the_bias_variance_tradeoff.pdf)
     * [code](/pdf/lab/code/regularization_and_the_bias_variance_tradeoff.R)
     * [MLB half-inning data](/pdf/lab/code/data/park_df.csv)
     * [HW: Adjusted plus-minus and RAPM](/pdf/lab/hws_2023/hw_APM_RAPM.pdf)
