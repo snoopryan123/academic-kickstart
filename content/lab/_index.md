@@ -58,7 +58,7 @@ author = "admin"
     * [NCAA mbb schedule data](/pdf/lab/code/data/MRegularSeasonCompactResults.csv), [NCAA mbb team data](/pdf/lab/code/data/MTeams.csv)
     * [HW: Power score comparison](/pdf/lab/hws_2023/hw_power_scores.pdf)
     
-### Shrinkage
+### Shrinkage & Bayesianism
 * Regularization and the bias-variance tradeoff
     * MLB park effects
     * [planned lecture](/pdf/lab/planned_lectures_2023/regularization_and_the_bias_variance_tradeoff.pdf)
@@ -78,11 +78,17 @@ author = "admin"
     * [code](/pdf/lab/code/empirical_bayes.R)
     * [2019 batting average data](/pdf/lab/code/data/df_in_season_pred_BA_2019.csv)
     * [HW: Empirical Bayes player quality](/pdf/lab/hws_2023/hw_emp_bayes_player_quality.pdf)
-* Thinking like a Bayesian
+* Examples: Bayesian modeling in sports
+    * [A high-level overview of Bayesian statistics](/pdf/lab/planned_lectures_2023/bayesian_high_level_overview.pdf)
     * [planned lecture]()
     * [live lecture]()
     * [HW]()
-    
+    * [How often does the best team win? A unified approach to understanding randomness in North American sport.](/pdf/statistics_in_sports_papers/lopez_2018.pdf)
+    * [Bayesball: A Bayesian hierarchical model for evaluating fielding in Major League Baseball](/pdf/statistics_in_sports_papers/bayesball_hierarchical_fielding.pdf)
+    * [A Hierarchical Bayesian omdel of pitch framing](/pdf/statistics_in_sports_papers/bayesball_hierarchical_pitch_framing.pdf)
+    * [Evaluating plate discipline in Major League Baseball with Bayesian Additive Regression Trees ](/pdf/statistics_in_sports_papers/bayesball_plate_discipline_bart.pdf)
+    * [A Bayesian analysis of the time through the order penalty in baseball](https://arxiv.org/abs/2210.06724)      
+
 ## Tentative Lectures: 
     
 ### Tree machine learning
