@@ -83,11 +83,12 @@ author = "admin"
     * [planned lecture]()
     * [live lecture]()
     * [HW]()
-    * [How often does the best team win? A unified approach to understanding randomness in North American sport.](/pdf/statistics_in_sports_papers/lopez_2018.pdf)
-    * [Bayesball: A Bayesian hierarchical model for evaluating fielding in Major League Baseball](/pdf/statistics_in_sports_papers/bayesball_hierarchical_fielding.pdf)
-    * [A Hierarchical Bayesian omdel of pitch framing](/pdf/statistics_in_sports_papers/bayesball_hierarchical_pitch_framing.pdf)
-    * [Evaluating plate discipline in Major League Baseball with Bayesian Additive Regression Trees ](/pdf/statistics_in_sports_papers/bayesball_plate_discipline_bart.pdf)
-    * [A Bayesian analysis of the time through the order penalty in baseball](https://arxiv.org/abs/2210.06724)      
+    * Papers:
+        * [How often does the best team win? A unified approach to understanding randomness in North American sport.](/pdf/statistics_in_sports_papers/lopez_2018.pdf)
+        * [Bayesball: A Bayesian hierarchical model for evaluating fielding in Major League Baseball](/pdf/statistics_in_sports_papers/bayesball_hierarchical_fielding.pdf)
+        * [A Hierarchical Bayesian omdel of pitch framing](/pdf/statistics_in_sports_papers/bayesball_hierarchical_pitch_framing.pdf)
+        * [Evaluating plate discipline in Major League Baseball with Bayesian Additive Regression Trees ](/pdf/statistics_in_sports_papers/bayesball_plate_discipline_bart.pdf)
+        * [A Bayesian analysis of the time through the order penalty in baseball](https://arxiv.org/abs/2210.06724)      
 
 ## Tentative Lectures: 
     

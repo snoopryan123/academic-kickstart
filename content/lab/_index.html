@@ -375,8 +375,10 @@ algebra helps</li>
 <li>Taught as part of the <a href="https://wsb.wharton.upenn.edu/sports-analytics-summer-research-lab/">Wharton
 Sports Analytics Summer Research Lab</a></li>
 </ul>
-<div id="lectures" class="section level3">
-<h3>Lectures:</h3>
+<div id="lectures" class="section level2">
+<h2>Lectures:</h2>
+<div id="intro" class="section level3">
+<h3>Intro</h3>
 <ul>
 <li>Linear algebra primer
 <ul>
@@ -412,6 +414,11 @@ lecture</a></li>
 <li><a href="/pdf/lab/code/data/xgb_f_grid_params.yaml">XGBoost
 pre-trained hyperparameters</a></li>
 </ul></li>
+</ul>
+</div>
+<div id="regression" class="section level3">
+<h3>Regression</h3>
+<ul>
 <li>Simple linear regression
 <ul>
 <li>predict batting average across seasons, pythagorean win
@@ -427,42 +434,104 @@ lecture</a></li>
 <li>NCAA basketball power ratings, NFL expected points</li>
 <li><a href="/pdf/lab/planned_lectures_2023/multivariable_linear_regression.pdf">planned
 lecture</a></li>
-<li><a href>live lecture</a></li>
+<li><a href="/pdf/lab/live_lectures_2023/multivariable_linear_regression.pdf">live
+lecture</a></li>
 <li><a href="/pdf/lab/code/multivariable_linear_regression.R">code</a></li>
 <li><a href="/pdf/lab/code/data/MRegularSeasonCompactResults.csv">NCAA
 mbb schedule data</a>, <a href="/pdf/lab/code/data/MTeams.csv">NCAA mbb
 team data</a>, and <a href="/pdf/lab/code/data/data_ep_2015_2019.csv">NFL expected points
 data</a></li>
+<li><a href="/pdf/lab/hws_2023/hw_draft_position.pdf">HW: Value of a
+draft position</a></li>
 </ul></li>
 <li>Logistic regression
 <ul>
 <li>putt success probability, Bradley-Terry power ratings</li>
 <li><a href="/pdf/lab/planned_lectures_2023/logistic_regression.pdf">planned
 lecture</a></li>
+<li><a href="/pdf/lab/live_lectures_2023/logistic_regression.pdf">live
+lecture</a></li>
 <li><a href="/pdf/lab/code/logistic_regression.R">code</a></li>
 <li><a href="/pdf/lab/code/data/MRegularSeasonCompactResults.csv">NCAA
 mbb schedule data</a>, <a href="/pdf/lab/code/data/MTeams.csv">NCAA mbb
 team data</a></li>
+<li><a href="/pdf/lab/hws_2023/hw_power_scores.pdf">HW: Power score
+comparison</a></li>
 </ul></li>
 </ul>
 </div>
-<div id="tentative-lecture-plan" class="section level3">
-<h3>Tentative Lecture Plan:</h3>
+<div id="shrinkage-bayesianism" class="section level3">
+<h3>Shrinkage &amp; Bayesianism</h3>
 <ul>
-<li>Shrinkage 1: regularization and the bias-variance tradeoff
+<li>Regularization and the bias-variance tradeoff
 <ul>
-<li>MLB park factors</li>
+<li>MLB park effects</li>
+<li><a href="/pdf/lab/planned_lectures_2023/regularization_and_the_bias_variance_tradeoff.pdf">planned
+lecture</a></li>
+<li><a href="/pdf/lab/live_lectures_2023/regularization_and_the_bias_variance_tradeoff.pdf">live
+lecture</a></li>
+<li><a href="/pdf/lab/code/regularization_and_the_bias_variance_tradeoff.R">code</a></li>
+<li><a href="/pdf/lab/code/data/park_df.csv">MLB half-inning
+data</a></li>
+<li><a href="/pdf/lab/hws_2023/hw_APM_RAPM.pdf">HW: Adjusted plus-minus
+and RAPM</a></li>
 </ul></li>
-<li>Shrinkage 2: the power of fake data (priors)
+<li>The power of fake data (priors)
 <ul>
 <li>predict end-of-season win percentage from mid-season win
 percentage</li>
+<li><a href="/pdf/lab/planned_lectures_2023/the_power_of_fake_data.pdf">planned
+lecture</a></li>
+<li><a href="/pdf/lab/live_lectures_2023/the_power_of_fake_data.pdf">live
+lecture</a></li>
+<li><a href="/pdf/lab/hws_2023/hw_prior_WP.pdf">HW: Priors for in-season
+prediction of win percentage</a></li>
 </ul></li>
-<li>Shrinkage 3: empirical Bayes
+<li>Empirical Bayes
 <ul>
 <li>predict end-of-season batting average from mid-season batting
 average</li>
+<li><a href="/pdf/lab/planned_lectures_2023/empirical_bayes.pdf">planned
+lecture</a></li>
+<li><a href>live lecture</a></li>
+<li><a href="/pdf/lab/code/empirical_bayes.R">code</a></li>
+<li><a href="/pdf/lab/code/data/df_in_season_pred_BA_2019.csv">2019
+batting average data</a></li>
+<li><a href="/pdf/lab/hws_2023/hw_emp_bayes_player_quality.pdf">HW:
+Empirical Bayes player quality</a></li>
 </ul></li>
+<li>Examples: Bayesian modeling in sports
+<ul>
+<li><a href="/pdf/lab/planned_lectures_2023/bayesian_high_level_overview.pdf">A
+high-level overview of Bayesian statistics</a></li>
+<li><a href>planned lecture</a></li>
+<li><a href>live lecture</a></li>
+<li><a href>HW</a></li>
+<li>Papers:
+<ul>
+<li><a href="/pdf/statistics_in_sports_papers/lopez_2018.pdf">How often
+does the best team win? A unified approach to understanding randomness
+in North American sport.</a></li>
+<li><a href="/pdf/statistics_in_sports_papers/bayesball_hierarchical_fielding.pdf">Bayesball:
+A Bayesian hierarchical model for evaluating fielding in Major League
+Baseball</a></li>
+<li><a href="/pdf/statistics_in_sports_papers/bayesball_hierarchical_pitch_framing.pdf">A
+Hierarchical Bayesian omdel of pitch framing</a></li>
+<li><a href="/pdf/statistics_in_sports_papers/bayesball_plate_discipline_bart.pdf">Evaluating
+plate discipline in Major League Baseball with Bayesian Additive
+Regression Trees</a></li>
+<li><a href="https://arxiv.org/abs/2210.06724">A Bayesian analysis of
+the time through the order penalty in baseball</a></li>
+</ul></li>
+</ul></li>
+</ul>
+</div>
+</div>
+<div id="tentative-lectures" class="section level2">
+<h2>Tentative Lectures:</h2>
+<div id="tree-machine-learning" class="section level3">
+<h3>Tree machine learning</h3>
+<ul>
 <li>Trees 1: decision trees and random forests
 <ul>
 <li>fixme: need an example</li>
@@ -471,30 +540,44 @@ average</li>
 <ul>
 <li>in-game NFL win probabilities</li>
 </ul></li>
-<li>Uncertainty quantification 1: nonparametric/bootstrap
+<li>Nonparametric uncertainty quantification: the bootstrap
 <ul>
 <li>in-game NFL win probabilities</li>
 </ul></li>
-<li>Uncertainty quantification 2: parametric; bayesian? ?
-<ul>
-<li>fixme: need an example</li>
-</ul></li>
-<li>fixme: need a statistical theme
-<ul>
-<li>NFL draft chart</li>
-</ul></li>
-<li>Clustering 1: K-means
-<ul>
-<li>fixme: need an example</li>
-</ul></li>
-<li>Clustering 2: eigenvalues, diagonalization, SVD</li>
-<li>Clustering 3: PCA, factor analysis
-<ul>
-<li>fixme: need an example</li>
-</ul></li>
-<li>Primer 3: data visualization</li>
-<li>Selection Bias</li>
 </ul>
+</div>
+<div id="fun-applications" class="section level3">
+<h3>Fun applications</h3>
+<ul>
+<li>Kelly betting</li>
+<li>NFL Draft chart</li>
+</ul>
+</div>
+<div id="clustering" class="section level3">
+<h3>Clustering</h3>
+<ul>
+<li>K-means clustering
+<ul>
+<li>NBA player clustering</li>
+</ul></li>
+<li>Eigenvalues, diagonalization, SVD</li>
+<li>PCA, factor analysis
+<ul>
+<li>ex?</li>
+</ul></li>
+</ul>
+</div>
+<div id="other-lessons" class="section level3">
+<h3>Other lessons</h3>
+<ul>
+<li>Data visualization primer</li>
+<li>Selection Bias</li>
+<li>The sensitivity of regression models
+<ul>
+<li>models change a lot when remove one predictor</li>
+</ul></li>
+</ul>
+</div>
 </div>
 </div>
 
