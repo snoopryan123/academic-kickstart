@@ -69,7 +69,7 @@ author = "admin"
 * The power of fake data (priors)
     * predict end-of-season win percentage from mid-season win percentage
     * [planned lecture](/pdf/lab/planned_lectures_2023/the_power_of_fake_data.pdf)
-    * [live lecture]()
+    * [live lecture](/pdf/lab/live_lectures_2023/the_power_of_fake_data.pdf)
     * [HW: Priors for in-season prediction of win percentage](/pdf/lab/hws_2023/hw_prior_WP.pdf)
 * Empirical Bayes
     * predict end-of-season batting average from mid-season batting average
