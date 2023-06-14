@@ -80,12 +80,14 @@ author = "admin"
     * [HW: Empirical Bayes player quality](/pdf/lab/hws_2023/hw_emp_bayes_player_quality.pdf)
 * Examples: Bayesian modeling in sports
     * [A high-level overview of Bayesian statistics](/pdf/lab/planned_lectures_2023/bayesian_high_level_overview.pdf)
-    * [planned lecture]()
-    * [live lecture]()
-    * [HW]()
-    * Papers:
-        * [How often does the best team win? A unified approach to understanding randomness in North American sport.](/pdf/statistics_in_sports_papers/lopez_2018.pdf)
-        * [Bayesball: A Bayesian hierarchical model for evaluating fielding in Major League Baseball](/pdf/statistics_in_sports_papers/bayesball_hierarchical_fielding.pdf)
+    * Bayesball: A Bayesian hierarchical model for evaluating fielding in Major League Baseball
+        * [Shane's slides](/pdf/statistics_in_sports_papers/shane_lab_slides_2023.pdf)
+        * [paper](/pdf/statistics_in_sports_papers/bayesball_hierarchical_fielding.pdf)
+    * How often does the best team win? A unified approach to understanding randomness in North American sport.
+        * [planned lecture](/pdf/lab/planned_lectures_2023/randomness_across_sports.pdf)
+        * [live lecture]()
+        * [paper](/pdf/statistics_in_sports_papers/lopez_2018.pdf)
+    * More Bayesian sports papers:
         * [A Hierarchical Bayesian model of pitch framing](/pdf/statistics_in_sports_papers/bayesball_hierarchical_pitch_framing.pdf)
         * [Evaluating plate discipline in Major League Baseball with Bayesian Additive Regression Trees ](/pdf/statistics_in_sports_papers/bayesball_plate_discipline_bart.pdf)
         * [A Bayesian analysis of the time through the order penalty in baseball](https://arxiv.org/abs/2210.06724)      
