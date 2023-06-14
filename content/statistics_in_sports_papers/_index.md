@@ -61,6 +61,12 @@ author = "admin"
 * [Ryan's Notes - Romer 2006](/pdf/statistics_in_sports_papers/Romer2006_RyansNotes.pdf)
 --->
 
+## Cross-sport analysis
+
+* [Lopez, Matthews, and Baumer 2018 - How often does the best team win? A unified approach to understanding randomness in North American sport](/pdf/statistics_in_sports_papers/lopez_2018.pdf)
+
+
+
 ## Sports Betting & Information Theory
 
 * [Kelly, 1956 - A New Interpretation of Information Rate](/pdf/statistics_in_sports_papers/Kelly1956.pdf)

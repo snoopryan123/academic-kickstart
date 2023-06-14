@@ -74,7 +74,7 @@ author = "admin"
 * Empirical Bayes
     * predict end-of-season batting average from mid-season batting average
     * [planned lecture](/pdf/lab/planned_lectures_2023/empirical_bayes.pdf)
-    * [live lecture]()
+    * [live lecture](/pdf/lab/live_lectures_2023/empirical_bayes.pdf)
     * [code](/pdf/lab/code/empirical_bayes.R)
     * [2019 batting average data](/pdf/lab/code/data/df_in_season_pred_BA_2019.csv)
     * [HW: Empirical Bayes player quality](/pdf/lab/hws_2023/hw_emp_bayes_player_quality.pdf)
@@ -86,7 +86,7 @@ author = "admin"
     * Papers:
         * [How often does the best team win? A unified approach to understanding randomness in North American sport.](/pdf/statistics_in_sports_papers/lopez_2018.pdf)
         * [Bayesball: A Bayesian hierarchical model for evaluating fielding in Major League Baseball](/pdf/statistics_in_sports_papers/bayesball_hierarchical_fielding.pdf)
-        * [A Hierarchical Bayesian omdel of pitch framing](/pdf/statistics_in_sports_papers/bayesball_hierarchical_pitch_framing.pdf)
+        * [A Hierarchical Bayesian model of pitch framing](/pdf/statistics_in_sports_papers/bayesball_hierarchical_pitch_framing.pdf)
         * [Evaluating plate discipline in Major League Baseball with Bayesian Additive Regression Trees ](/pdf/statistics_in_sports_papers/bayesball_plate_discipline_bart.pdf)
         * [A Bayesian analysis of the time through the order penalty in baseball](https://arxiv.org/abs/2210.06724)      
 
