@@ -78,6 +78,7 @@ author = "admin"
     * [code](/pdf/lab/code/empirical_bayes.R)
     * [2019 batting average data](/pdf/lab/code/data/df_in_season_pred_BA_2019.csv)
     * [HW: Empirical Bayes player quality](/pdf/lab/hws_2023/hw_emp_bayes_player_quality.pdf)
+    * [paper](/pdf/statistics_in_sports_papers/Brown2008.pdf) -- In-season prediction of batting averages: a field test of empirical Bayes and Bayes methodologies
 * Examples: Bayesian modeling in sports
     * [A high-level overview of Bayesian statistics](/pdf/lab/planned_lectures_2023/bayesian_high_level_overview.pdf)
     * Bayesball: A Bayesian hierarchical model for evaluating fielding in Major League Baseball
@@ -93,9 +94,9 @@ author = "admin"
         * [A Bayesian analysis of the time through the order penalty in baseball](https://arxiv.org/abs/2210.06724)      
         
 ### Tree machine learning
-* Our example: in-game NFL win probabilities
-* [HW](/pdf/lab/hws_2023/)
-* Decision trees and random forests
+    * Our example: in-game NFL win probabilities
+    * This unit's [HW](/pdf/lab/hws_2023/)
+* Decision trees
     * [planned lecture](/pdf/lab/planned_lectures_2023/decision_trees.pdf)
     * [live lecture](/pdf/lab/live_lectures_2023/)
 * Random forests
