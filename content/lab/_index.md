@@ -94,7 +94,7 @@ author = "admin"
         * [A Bayesian analysis of the time through the order penalty in baseball](https://arxiv.org/abs/2210.06724)      
         
 ### Tree machine learning
-    * Our example: in-game NFL win probabilities
+* Our example: in-game NFL win probabilities
     * This unit's [HW](/pdf/lab/hws_2023/)
 * Decision trees
     * [planned lecture](/pdf/lab/planned_lectures_2023/decision_trees.pdf)
