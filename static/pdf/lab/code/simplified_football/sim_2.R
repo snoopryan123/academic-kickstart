@@ -1,9 +1,13 @@
 
 source("0_clean_lm.R")
 
-args <- commandArgs(trailingOnly = TRUE)
-SIM_NUM = as.numeric(args[1])
-HYPERPARAM_COMBO_IDX = as.numeric(args[2])
+# args <- commandArgs(trailingOnly = TRUE)
+# SIM_NUM = as.numeric(args[1])
+# HYPERPARAM_COMBO_IDX = as.numeric(args[2])
+
+HYPERPARAM_COMBO_IDX = 1 ### same hyperparams as observed data
+# HYPERPARAM_COMBO_IDX = 2 ### same number of plays as observed data, but now each play is independent
+SIM_NUM = 1 ### 1,2,...,25
 set.seed(23748 + SIM_NUM*143)
 grid_size = 40 ### num param combos to try for XGBoost tuning
 RETUNE_XGB = FALSE
@@ -176,7 +180,7 @@ visualize_wp <- function(wp_true=TRUE, wp_xgb_model=NULL, wp_boot_mat=NULL, boot
     plot_df_A %>% 
       ggplot(aes(x=n, y=wp, color=factor(s))) +
       facet_wrap(~x_) +
-      geom_line(aes(linetype=wp_type), size=1) +
+      geom_line(aes(linetype=wp_type), linewidth=1) +
       scale_y_continuous(breaks=seq(0,1,by=0.1), name = "win probability") +
       scale_x_continuous(breaks=seq(0,N,by=25), name="play number n") +
       guides(color=guide_legend(title=" score\n differential\n s")) +
@@ -187,7 +191,7 @@ visualize_wp <- function(wp_true=TRUE, wp_xgb_model=NULL, wp_boot_mat=NULL, boot
       filter(s %in% -4:4) %>%
       ggplot(aes(x=n, y=wp, color=factor(x))) +
       facet_wrap(~fct_reorder(s_,s) ) +
-      geom_line(aes(linetype=wp_type), size=1) +
+      geom_line(aes(linetype=wp_type), linewidth=1) +
       scale_y_continuous(breaks=seq(0,1,by=0.1), name = "win probability") +
       scale_x_continuous(breaks=seq(0,N,by=25), name="play number n") +
       guides(color=guide_legend(title=" field\n position\n x")) +
@@ -198,7 +202,7 @@ visualize_wp <- function(wp_true=TRUE, wp_xgb_model=NULL, wp_boot_mat=NULL, boot
 
 plot_wp_true_vs_time = visualize_wp(wp_true=TRUE)
 plot_wp_true_vs_time_2 = visualize_wp(wp_true=TRUE, option=2)
-# plot_wp_true_vs_time
+plot_wp_true_vs_time
 # ggsave(paste0("job_output/", sim_str, "_plot_wp_true_vs_time.png"), plot_wp_true_vs_time, width=24, height=8)
 # ggsave(paste0("job_output/", sim_str, "_plot_wp_true_vs_time_2.png"), plot_wp_true_vs_time_2, width=16, height=12)
 
