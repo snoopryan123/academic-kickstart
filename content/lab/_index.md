@@ -111,8 +111,7 @@ author = "admin"
 * Nonparametric bootstrapped uncertainty quantification on simulated data 
     * [planned lecture](/pdf/lab/planned_lectures_2023/simplified_football.pdf)
     * [live lecture](/pdf/lab/live_lectures_2023/)
-    * [code](/pdf/lab/code/) 
-    * [data](/pdf/lab/code/data) 
+    * codefiles [1](/pdf/lab/code/simplified_football/0_clean_lm.R), [2](/pdf/lab/code/simplified_football/sim_2_main.R), [3](/pdf/lab/code/simplified_football/sim_2.R), [4](/pdf/lab/code/simplified_football/sim_2_aggregate_results.R)
 * Nonparametric bootstrapped uncertainty quantification on real data 
     * [planned lecture](/pdf/lab/planned_lectures_2023/)
     * [live lecture](/pdf/lab/live_lectures_2023/)
