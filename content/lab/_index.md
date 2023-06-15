@@ -86,7 +86,7 @@ author = "admin"
         * [paper](/pdf/statistics_in_sports_papers/bayesball_hierarchical_fielding.pdf)
     * How often does the best team win? A unified approach to understanding randomness in North American sport.
         * [planned lecture](/pdf/lab/planned_lectures_2023/randomness_across_sports.pdf)
-        * [live lecture]()
+        * [live lecture](/pdf/lab/live_lectures_2023/randomness_across_sports.pdf)
         * [paper](/pdf/statistics_in_sports_papers/lopez_2018.pdf)
     * More Bayesian sports papers:
         * [A Hierarchical Bayesian model of pitch framing](/pdf/statistics_in_sports_papers/bayesball_hierarchical_pitch_framing.pdf)
