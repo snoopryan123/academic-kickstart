@@ -94,10 +94,15 @@ author = "admin"
         
 ### Tree machine learning
 * Our example: in-game NFL win probabilities
+* [HW](/pdf/lab/hws_2023/)
 * Decision trees and random forests
+    * [planned lecture](/pdf/lab/planned_lectures_2023/decision_trees.pdf)
+    * [live lecture](/pdf/lab/live_lectures_2023/)
+* Random forests
     * [planned lecture](/pdf/lab/planned_lectures_2023/)
     * [live lecture](/pdf/lab/live_lectures_2023/)
-    * [Leo Breiman -- Arcing Classifiers](/pdf/statistics_in_sports_papers/Breiman_arcing_classifiers.pdf)
+    * [Arcing Classifiers](/pdf/statistics_in_sports_papers/Breiman_arcing_classifiers.pdf) (explores the bias-variance trade-off for classifiers)
+    * [Making sense of random forest probabilities](/pdf/statistics_in_sports_papers/making_sense_of_random_forest_probabilities.pdf)
 * Trees 2: gradient boosting
     * [planned lecture](/pdf/lab/planned_lectures_2023/)
     * [live lecture](/pdf/lab/live_lectures_2023/)
