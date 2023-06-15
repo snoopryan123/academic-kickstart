@@ -101,12 +101,12 @@ author = "admin"
 * Random forests
     * [planned lecture](/pdf/lab/planned_lectures_2023/)
     * [live lecture](/pdf/lab/live_lectures_2023/)
-    * [Arcing Classifiers](/pdf/statistics_in_sports_papers/Breiman_arcing_classifiers.pdf) (explores the bias-variance trade-off for classifiers)
-    * [Making sense of random forest probabilities](/pdf/statistics_in_sports_papers/making_sense_of_random_forest_probabilities.pdf)
+    * paper: [Arcing Classifiers](/pdf/statistics_in_sports_papers/Breiman_arcing_classifiers.pdf) (explores the bias-variance tradeoff for classifiers)
+    * paper: [Making sense of random forest probabilities](/pdf/statistics_in_sports_papers/making_sense_of_random_forest_probabilities.pdf)
 * Trees 2: gradient boosting
     * [planned lecture](/pdf/lab/planned_lectures_2023/)
     * [live lecture](/pdf/lab/live_lectures_2023/)
-    * [XGBoost paper](/pdf/statistics_in_sports_papers/xgboost_chen_guestrin_2016.pdf)
+    * paper: [XGBoost](/pdf/statistics_in_sports_papers/xgboost_chen_guestrin_2016.pdf)
 * Nonparametric uncertainty quantification: the bootstrap
     * [planned lecture](/pdf/lab/planned_lectures_2023/)
     * [live lecture](/pdf/lab/live_lectures_2023/)
