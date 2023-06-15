@@ -113,24 +113,19 @@ author = "admin"
     * [live lecture](/pdf/lab/live_lectures_2023/)
     * stay tuned for our paper coming soon!
     
-## Tentative Lectures: 
-    
-### Fun applications
-* Kelly betting
-* NFL Draft chart
-
 ### Clustering
 * K-means clustering
     * NBA player clustering
 * Eigenvalues, diagonalization, SVD
 * PCA, factor analysis
-    * ex?
-    
-### Other lessons
-* Data visualization primer
+    * NFL player clustering
+
+### Future lesson ideas
+* Kelly betting
+* NFL Draft chart
 * Selection Bias
-* The sensitivity of regression models
-    * models change a lot when remove one predictor
+* Data visualization tutorial
+* The sensitivity of regression models (models change a lot when remove one predictor)
 
 
 
