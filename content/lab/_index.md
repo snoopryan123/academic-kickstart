@@ -91,16 +91,23 @@ author = "admin"
         * [A Hierarchical Bayesian model of pitch framing](/pdf/statistics_in_sports_papers/bayesball_hierarchical_pitch_framing.pdf)
         * [Evaluating plate discipline in Major League Baseball with Bayesian Additive Regression Trees ](/pdf/statistics_in_sports_papers/bayesball_plate_discipline_bart.pdf)
         * [A Bayesian analysis of the time through the order penalty in baseball](https://arxiv.org/abs/2210.06724)      
-
-## Tentative Lectures: 
-    
+        
 ### Tree machine learning
-* Trees 1: decision trees and random forests
-    * fixme: need an example
+* Our example: in-game NFL win probabilities
+* Decision trees and random forests
+    * [planned lecture](/pdf/lab/planned_lectures_2023/)
+    * [live lecture](/pdf/lab/live_lectures_2023/)
+    * [Random forest paper](/pdf/statistics_in_sports_papers/randomforest2001.pdf)
 * Trees 2: gradient boosting
-    * in-game NFL win probabilities
+    * [planned lecture](/pdf/lab/planned_lectures_2023/)
+    * [live lecture](/pdf/lab/live_lectures_2023/)
+    * [XGBoost paper](/pdf/statistics_in_sports_papers/xgboost_chen_guestrin_2016.pdf)
 * Nonparametric uncertainty quantification: the bootstrap
-    * in-game NFL win probabilities
+    * [planned lecture](/pdf/lab/planned_lectures_2023/)
+    * [live lecture](/pdf/lab/live_lectures_2023/)
+    * stay tuned for our paper coming soon!
+    
+## Tentative Lectures: 
     
 ### Fun applications
 * Kelly betting
