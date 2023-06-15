@@ -97,7 +97,7 @@ author = "admin"
 * Decision trees and random forests
     * [planned lecture](/pdf/lab/planned_lectures_2023/)
     * [live lecture](/pdf/lab/live_lectures_2023/)
-    * [Random forest paper](/pdf/statistics_in_sports_papers/randomforest2001.pdf)
+    * [Leo Breiman -- Arcing Classifiers](/pdf/statistics_in_sports_papers/Breiman_arcing_classifiers.pdf)
 * Trees 2: gradient boosting
     * [planned lecture](/pdf/lab/planned_lectures_2023/)
     * [live lecture](/pdf/lab/live_lectures_2023/)
