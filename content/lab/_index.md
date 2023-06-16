@@ -96,6 +96,7 @@ author = "admin"
 ### Tree machine learning
 * Our example: in-game NFL win probabilities
     * This unit's [HW](/pdf/lab/hws_2023/hw_nfl_wp.pdf)
+    * Get my cleaned NFL WP play-by-play [dataset](https://upenn.box.com/s/f76spk9ismcjt4y4jebaiv7m4woncvkh)
 * Decision trees
     * [planned lecture](/pdf/lab/planned_lectures_2023/decision_trees.pdf)
     * [live lecture](/pdf/lab/live_lectures_2023/)
