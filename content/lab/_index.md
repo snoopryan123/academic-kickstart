@@ -109,7 +109,7 @@ author = "admin"
     * [planned lecture](/pdf/lab/planned_lectures_2023/xgboost_lec.pdf) 
     * [live lecture](/pdf/lab/live_lectures_2023/)
     * paper: [XGBoost](/pdf/statistics_in_sports_papers/xgboost_chen_guestrin_2016.pdf)
-    * XGBoost win probability & fourth down  [code](/pdf/lab/code/xgb_wp.zip)
+    * XGBoost win probability & fourth down [code](/pdf/lab/code/xgb_wp.zip) (instructions in `README.md`)
 * Nonparametric bootstrapped uncertainty quantification on simulated data 
     * [planned lecture](/pdf/lab/planned_lectures_2023/simplified_football.pdf)
     * [live lecture](/pdf/lab/live_lectures_2023/)
@@ -118,7 +118,7 @@ author = "admin"
     * [planned lecture](/pdf/lab/planned_lectures_2023/bootstrap_WP_NFL.pdf)
     * [live lecture](/pdf/lab/live_lectures_2023/)
     * stay tuned for our paper coming soon!
-    * XGBoost win probability & fourth down  [code](/pdf/lab/code/xgb_wp.zip)
+    * XGBoost win probability & fourth down [code](/pdf/lab/code/xgb_wp.zip) (instructions in `README.md`)
     
 ### Clustering
 * K-means clustering
