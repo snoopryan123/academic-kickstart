@@ -105,16 +105,18 @@ author = "admin"
     * paper: [Arcing Classifiers](/pdf/statistics_in_sports_papers/Breiman_arcing_classifiers.pdf) (explores the bias-variance tradeoff for classifiers)
     * paper: [Making sense of random forest probabilities](/pdf/statistics_in_sports_papers/making_sense_of_random_forest_probabilities.pdf)
 * XGBoost
-    * [planned lecture](/pdf/lab/planned_lectures_2023/) 
+    * [planned lecture](/pdf/lab/planned_lectures_2023/xgboost_lec.pdf) 
     * [live lecture](/pdf/lab/live_lectures_2023/)
+    * [code]()
     * paper: [XGBoost](/pdf/statistics_in_sports_papers/xgboost_chen_guestrin_2016.pdf)
 * Nonparametric bootstrapped uncertainty quantification on simulated data 
     * [planned lecture](/pdf/lab/planned_lectures_2023/simplified_football.pdf)
     * [live lecture](/pdf/lab/live_lectures_2023/)
     * codefiles [1](/pdf/lab/code/simplified_football/0_clean_lm.R), [2](/pdf/lab/code/simplified_football/sim_2_main.R), [3](/pdf/lab/code/simplified_football/sim_2.R), [4](/pdf/lab/code/simplified_football/sim_2_aggregate_results.R)
 * Nonparametric bootstrapped uncertainty quantification on real data 
-    * [planned lecture](/pdf/lab/planned_lectures_2023/)
+    * [planned lecture](/pdf/lab/planned_lectures_2023/bootstrap_WP_NFL.pdf)
     * [live lecture](/pdf/lab/live_lectures_2023/)
+    * [code]()
     * stay tuned for our paper coming soon!
     
 ### Clustering
