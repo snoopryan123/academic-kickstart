@@ -16,8 +16,8 @@
   weight = 2
 
 [[main]]
-name = "Publications"
-url = "#publications"
+name = "Papers"
+url = "#papers"
 weight = 3
 
 [[main]]
