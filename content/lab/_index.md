@@ -102,7 +102,7 @@ author = "admin"
     * [live lecture](/pdf/lab/live_lectures_2023/decision_trees.pdf)
 * Random forests
     * [planned lecture](/pdf/lab/planned_lectures_2023/Random_Forests.pdf)
-    * [live lecture](/pdf/lab/live_lectures_2023/)
+    * [live lecture](/pdf/lab/live_lectures_2023/Random_Forests.pdf)
     * paper: [Arcing Classifiers](/pdf/statistics_in_sports_papers/Breiman_arcing_classifiers.pdf) (explores the bias-variance tradeoff for classifiers)
     * paper: [Making sense of random forest probabilities](/pdf/statistics_in_sports_papers/making_sense_of_random_forest_probabilities.pdf)
 * XGBoost
