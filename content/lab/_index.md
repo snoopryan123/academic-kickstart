@@ -107,7 +107,7 @@ author = "admin"
     * paper: [Making sense of random forest probabilities](/pdf/statistics_in_sports_papers/making_sense_of_random_forest_probabilities.pdf)
 * XGBoost
     * [planned lecture](/pdf/lab/planned_lectures_2023/xgboost_lec.pdf) 
-    * [live lecture](/pdf/lab/live_lectures_2023/)
+    * [live lecture](/pdf/lab/live_lectures_2023/xgboost_lec.pdf)
     * paper: [XGBoost](/pdf/statistics_in_sports_papers/xgboost_chen_guestrin_2016.pdf)
     * XGBoost win probability & fourth down [code](/pdf/lab/code/xgb_wp.zip) (instructions in `README.md`)
 * Nonparametric bootstrapped uncertainty quantification on simulated data 
