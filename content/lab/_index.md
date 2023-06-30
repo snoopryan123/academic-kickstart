@@ -114,27 +114,32 @@ author = "admin"
     * [planned lecture](/pdf/lab/planned_lectures_2023/simplified_football.pdf)
     * [live lecture](/pdf/lab/live_lectures_2023/simplified_football.pdf)
     * codefiles [1](/pdf/lab/code/simplified_football/0_clean_lm.R), [2](/pdf/lab/code/simplified_football/sim_2_main.R), [3](/pdf/lab/code/simplified_football/sim_2.R), [4](/pdf/lab/code/simplified_football/sim_2_aggregate_results.R)
-* Nonparametric bootstrapped uncertainty quantification on real data 
+* Uncertainty quantification in fourth down decision making
     * [planned lecture](/pdf/lab/planned_lectures_2023/bootstrap_WP_NFL.pdf)
-    * [live lecture](/pdf/lab/live_lectures_2023/)
+    * [live lecture](/pdf/lab/live_lectures_2023/bootstrap_WP_NFL.pdf)
     * stay tuned for our paper coming soon!
     * XGBoost win probability & fourth down [code](/pdf/lab/code/xgb_wp.zip) (instructions in `README.md`)
+    
+--- 
+    
+## Future Lesson Ideas:
     
 ### Clustering
 * K-means clustering
     * NBA player clustering
 * Eigenvalues, diagonalization, SVD
 * PCA, factor analysis
-    * NFL player clustering
 
-### Future lesson ideas
+### Other Fun Stuff
 * Kelly betting
 * NFL Draft chart
 * Spatio-temporal modeling (Bornn, Cervone, etc.)
 * Selection Bias
 * Data visualization tutorial
-* The sensitivity of regression models (models change a lot when remove one predictor)
 
+<!---
+* The sensitivity of regression models (models change a lot when remove one predictor)
+--->
 
 
 
