@@ -23,6 +23,8 @@ author = "admin"
 
 * [Brown, 2008 - In-Season Prediction of Batting Averages: A Field Test of Empirical Bayes and Bayes Methodologies](/pdf/statistics_in_sports_papers/Brown2008.pdf)
 
+    * [Stigler, 1988 - A Galtonian Perspective on Shrinkage Estimators](/pdf/statistics_in_sports_papers/Stigler-1988NeymanMemorial-1990.pdf)
+
     * [Ryan's Notes - Brown 2008 Setup](/pdf/statistics_in_sports_papers/Brown2008_RyansNotes.pdf)
 
     * [Ryan's Notes - James Stein Estimator Derivation](/pdf/statistics_in_sports_papers/Brown2008_JamesStein.pdf)
