@@ -37,7 +37,7 @@ author = "admin"
     
 ## Tracking Data
 
-* [Nguyen, Yurko, and Matthews 2023 = Here Comes the STRAIN: Analyzing Defensive Pass Rush in American Football with Player Tracking Data](/pdf/statistics_in_sports_papers/strain.pdf)
+* [Nguyen, Yurko, and Matthews 2023 - Here Comes the STRAIN: Analyzing Defensive Pass Rush in American Football with Player Tracking Data](/pdf/statistics_in_sports_papers/strain.pdf)
 
 ## American Football
 
