@@ -171,6 +171,17 @@ A good example of applying causal inference to sports:
 --->
 
 
+# Machine Learning
+
+## Conditional density estimation
+
+*[Dalmasso et al., 2020 - Conditional density estimations tools in python and R with applications to photometric redshifts and likelihood-free cosmological inference](/pdf/ML_papers/CDE_2020.pdf)
+
+* [Pospisil and Lee, 2018 - RFCDE: Random Forests for Conditional Density Estimation](/pdf/ML_papers/RFCDE_2018.pdf)
+
+* [Bishop, 1994 - Mixture Density Networks](/pdf/ML_papers/MDN_1994.pdf)
+
+
 
 
 
