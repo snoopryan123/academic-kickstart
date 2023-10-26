@@ -21,11 +21,11 @@ theme_update(plot.title = element_text(hjust = 0.5))
 
 ```{r, echo=FALSE, warning=FALSE, fig.align = "center",fig.width=8.5, fig.height=5}
 # out.width = "85%"
-nick <- c(0,0,-21.36,-32.75,-7.16,0.68,-9.32)
-ryan <- c(0,0,-2.27,11.37,57.91,103.37,77.44)
-guest_profits <- c(NA,NA,NA,NA,NA,NA,NA)
-guest_names <- c(NA,NA,NA,NA,NA,NA,NA)
-guest_weeks <- c(0,1,2,3,4,5,6)
+nick <- c(0,0,-21.36,-32.75,-7.16,0.68,-9.32,-59.32)
+ryan <- c(0,0,-2.27,11.37,57.91,103.37,77.44,27.44)
+guest_profits <- c(NA,NA,NA,NA,NA,13.63,NA,-50)
+guest_names <- c(NA,NA,NA,NA,NA,"Frank",NA,"Kole")
+guest_weeks <- c(0,1,2,3,4,5,6,7)
 
 N = length(ryan)
 num_weeks <- 0:(N-1)
@@ -43,15 +43,14 @@ ggplot(data = df) +
 geom_line(aes(x = df$num_weeks, y = rep(0, N), color = "Zero"), lwd=.4) +
 geom_line(aes(x = df$num_weeks, y = df$nick, color = "Nick"), lwd=1.3) +
 geom_line(aes(x = df$num_weeks, y = df$ryan, color = "Ryan"), lwd=1.3) +
-
-# geom_point(data = df_guests, aes(x= df_guests$guest_weeks, 
-#                                  y = df_guests$guest_profits, 
-#                                  color = "Guest")) +
-# geom_text(data = df_guests, aes(x= df_guests$guest_weeks, 
-#                                 y = df_guests$guest_profits, 
-#                                 label=guest_names, 
-#                                 color = "Guest"),
-#           hjust=0, vjust=0) +
+geom_point(data = df_guests, aes(x= df_guests$guest_weeks,
+                                 y = df_guests$guest_profits,
+                                 color = "Guest")) +
+geom_text(data = df_guests, aes(x= df_guests$guest_weeks,
+                                y = df_guests$guest_profits,
+                                label=guest_names,
+                                color = "Guest"),
+          hjust=0, vjust=0) +
   scale_color_manual(values=COLORS, name="") +
 labs(title = "Bet, Sweat, and Forget 2023 NFL Betting Results", x = "NFL Week Number", y = "Cumulative Profit, USD", color="") +
 scale_x_continuous(breaks = num_weeks) +
