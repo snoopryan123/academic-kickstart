@@ -6,6 +6,7 @@ active = true
 +++
 
 * Brill, R.S. and Wyner, A.J. (2023+). "Analytics, have some humility: a statistical view of fourth down decision-making."
+    * [arXiv](https://arxiv.org/abs/2311.03490)  
     * [Talk](https://www.youtube.com/watch?v=uS4XxQ0LVfE) at [NESSIS 2023](http://www.nessis.org/nessis23.html)
 \
 \
