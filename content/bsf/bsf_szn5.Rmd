@@ -21,11 +21,11 @@ theme_update(plot.title = element_text(hjust = 0.5))
 
 ```{r, echo=FALSE, warning=FALSE, fig.align = "center",fig.width=8.5, fig.height=5}
 # out.width = "85%"
-nick <- c(0,0,-21.36,-32.75,-7.16,0.68,-9.32,-59.32,-16.39)
-ryan <- c(0,0,-2.27,11.37,57.91,103.37,77.44,27.44,41.08)
-guest_profits <- c(NA,NA,NA,NA,NA,13.63,NA,-50,-6.36)
-guest_names <- c(NA,NA,NA,NA,NA,"Frank",NA,"Kole","Harry")
-guest_weeks <- c(0,1,2,3,4,5,6,7,8)
+nick <- c(0,0,-21.36,-32.75,-7.16,0.68,-9.32,-59.32,-16.39,-18.66)
+ryan <- c(0,0,-2.27,11.37,57.91,103.37,77.44,27.44,41.08,54.72)
+guest_profits <- c(NA,NA,NA,NA,NA,13.63,NA,-50,-6.36,-50)
+guest_names <- c(NA,NA,NA,NA,NA,"Frank",NA,"Kole","Harry","Jake")
+guest_weeks <- c(0,1,2,3,4,5,6,7,8,9)
 
 N = length(ryan)
 num_weeks <- 0:(N-1)
