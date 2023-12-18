@@ -21,10 +21,11 @@ organizations:
 # bio: :)
 
 interests:
-- Statistics in Sports
 - Statistics
 - Probability
 - Machine Learning
+- Statistics in Sports
+- Statistical applications and case studies
 
 education:
   courses:
