@@ -170,7 +170,7 @@ A good example of applying causal inference to sports:
 * [Basini et. al., 2021 - Assessing competitive balance in the English Premier League for over forty seasons using a stochastic block model](/pdf/statistics_in_sports_papers/SBM_EPL.pdf)
 --->
 
-
+<!---
 # Machine Learning
 
 ## Conditional density estimation
@@ -180,7 +180,7 @@ A good example of applying causal inference to sports:
 * [Pospisil and Lee, 2018 - RFCDE: Random Forests for Conditional Density Estimation](/pdf/ML_papers/RFCDE_2018.pdf)
 
 * [Bishop, 1994 - Mixture Density Networks](/pdf/ML_papers/MDN_1994.pdf)
-
+--->
 
 
 
