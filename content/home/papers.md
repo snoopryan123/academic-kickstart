@@ -7,7 +7,7 @@ active = true
 
 * Brill, R.S., Yurko, R., and Wyner, A.J. (2023+). "Analytics, have some humility: a statistical view of fourth down decision-making."  _arXiv preprint_ arXiv:2311.03490 (in submission)
     * [arXiv](https://arxiv.org/abs/2311.03490)  
-    * [Talk](https://www.youtube.com/watch?v=uS4XxQ0LVfE) at [NESSIS 2023](http://www.nessis.org/nessis23.html)
+    * [Talk](https://www.youtube.com/watch?v=uS4XxQ0LVfE), [slides](/pdf/talks/slides_NESSIS23_Brill.pdf) at [NESSIS 2023](http://www.nessis.org/nessis23.html)
 \
 \
 * Brill, R.S. and Wyner, A.J. (2022+). "Introducing Grid WAR: Rethinking WAR for Starting Pitchers." _arXiv preprint_ arXiv:2209.07274 (in submission)
