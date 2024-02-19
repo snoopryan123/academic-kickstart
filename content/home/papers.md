@@ -22,7 +22,7 @@ active = true
 \
 
 
-[more papers](/pubs/)
+## [More papers](/pubs/)
 
 
 
