@@ -11,8 +11,6 @@ weight = 15  # Order that this section will appear in.
 author = "admin"
 +++
 
-# Some statistics in sports papers that I enjoy
-
 ## Working Papers
 
 * Brill, R.S., Barnett, I.J., and Wyner, A.J. (2023+). "Entropy-Based Strategies for Multi-Bracket Pools." _arXiv preprint_ arXiv:2308.14339.
