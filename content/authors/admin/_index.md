@@ -31,7 +31,7 @@ education:
   courses:
   - course: PhD in Applied Mathematics & Computational Science
     institution: University of Pennsylvania
-    year: Expected 2025 
+    year: Expected May 2025 
   - course: MA in Statistics
     institution: The Wharton School, University of Pennsylvania
     year: 2023
