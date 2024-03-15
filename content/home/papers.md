@@ -14,6 +14,7 @@ active = true
 \
 * Brill, R.S. and Wyner, A.J. (2022+). "Introducing Grid WAR: Rethinking WAR for Starting Pitchers." _arXiv preprint_ arXiv:2209.07274 (in submission).
     * [arXiv](https://arxiv.org/abs/2209.07274)
+    * [talk](https://www.youtube.com/watch?v=9jssiPtPTAM), [slides](/pdf/talks/slides_SABR24_grid_war.pdf) at [SABR 2024](https://sabr.org/analytics/2024)
     * Grid WAR Standings at [gridwar.xyz](https://gridwar.xyz)  
 \
 * Brill, R.S., Deshpande, S.K., and Wyner, A.J. (2023). "A Bayesian analysis of the time through the order penalty in baseball." _Journal of Quantitative Analysis in Sports_.
