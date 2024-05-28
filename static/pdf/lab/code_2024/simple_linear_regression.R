@@ -91,16 +91,19 @@ m1$coefficients
 ### Pythagorean win percentage ###
 ##################################
 
+library(Lahman)
 data(Teams)
 
 ### make 2021 pythagorean dataset
 D2 = Teams %>% 
-  filter(yearID %in% 2020:2021) %>% 
+  filter(yearID %in% 2017:2023) %>% 
   select(yearID,teamID,R,RA,W,G) %>%
   rename(RS = R) %>%
   mutate(WP = W/G) %>%
   mutate(WP_Pythag_2 = RS^2/(RS^2+RA^2))
 D2
+
+write_csv(D2, "data_MLB_pythag.csv")
 
 ### visualize 2020 Bill James' pythag WP
 plot_pythag_2020_2a = D2 %>%
