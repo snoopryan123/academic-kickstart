@@ -15,7 +15,6 @@ author = "admin"
 
 * Prerequisites: calculus, probability, R coding (and matrix algebra helps)
 * Taught as part of the [Wharton Sports Analytics Summer Research Lab](https://wsb.wharton.upenn.edu/sports-analytics-summer-research-lab/)
-
 * [2024 lab](/lab/lab_2024)
 * [2023 lab](/lab/lab_2023)
 
