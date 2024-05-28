@@ -1,0 +1,29 @@
+name,city,state,team_ID,conference,timezone_UTC
+Augusta Arrows FC,Augusta,Georgia,AUG,Eastern,-4
+Charleston Mariners FC,Charleston,South Carolina,CHM,Eastern,-4
+Des Moines Dynamo FC,Des Moines,Iowa,DES,Eastern,-5
+Dover Dragons FC,Dover,Delaware,DOV,Eastern,-4
+Jackson Jaguars FC,Jackson,Mississippi,JAC,Eastern,-5
+Laredo Lancers FC,Laredo,Texas,LAR,Eastern,-5
+Lexington Lynx FC,Lexington,Kentucky,LEX,Eastern,-4
+Little Rock Legends FC,Little Rock,Arkansas,LRO,Eastern,-5
+Manchester Meteors FC,Manchester,New Hampshire,MAN,Eastern,-4
+Mobile Mavericks FC,Mobile,Alabama,MOB,Eastern,-5
+Providence Pioneers FC,Providence,Rhode Island,PRO,Eastern,-4
+San Juan Strikers FC,San Juan,Puerto Rico,SJU,Eastern,-4
+Springfield Storm FC,Springfield,Missouri,SPR,Eastern,-5
+Toledo Titans FC,Toledo,Ohio,TOL,Eastern,-4
+Albuquerque Scorpions FC,Albuquerque,New Mexico,ALB,Western,-6
+Anchorage Avalanche FC,Anchorage,Alaska,ANC,Western,-8
+Bakersfield Bandits FC,Bakersfield,California,BAK,Western,-7
+Boise Thunderhawks FC,Boise,Idaho,BOI,Western,-6
+Eugene Enforcers FC,Eugene,Oregon,EUG,Western,-7
+Fargo Falcons FC,Fargo,North Dakota,FAR,Western,-5
+Fort Collins Foxes FC,Fort Collins,Colorado,FOR,Western,-5
+Oakland Olympians FC,Oakland,California,OAK,Western,-7
+Reno Rapids FC,Reno,Nevada,REN,Western,-7
+Saskatoon Spartans FC,Saskatoon,Saskatchewan,SAS,Western,-6
+Sioux Falls Sabers FC,Sioux Falls,South Dakota,SFS,Western,-5
+Tacoma Thunderbolts FC,Tacoma,Washington,TAC,Western,-7
+Tucson Torpedoes FC,Tucson,Arizona,TUC,Western,-6
+Wichita Warriors FC,Wichita,Kansas,WIC,Western,-5
