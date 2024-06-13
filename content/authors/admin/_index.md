@@ -86,9 +86,11 @@ See also my [**CV**](pdf/CV.pdf).
 I am a PhD student in [Applied Mathematics & Computational Science](https://www.amcs.upenn.edu) at the [University of Pennsylvania](https://www.upenn.edu).
 
 <!---
-where I am advised by [Adi Wyner]() 
+_"The world needs to know you can't just toss AI at data and pray."_
+--->
 
-and [Sameer Deshpande]().
+<!---
+where I am advised by [Adi Wyner]() 
 --->
 
 <!---
