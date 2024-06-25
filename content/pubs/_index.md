@@ -17,6 +17,10 @@ author = "admin"
     * [arXiv](https://arxiv.org/abs/2308.14339)      
 \
 \
+* Brill, R.S., Yurko, R., and Wyner, A.J. (2024+). "Exploring the difficulty of estimating win probability: a simulation study." _arXiv preprint_ arXiv:2406.16171.
+    * [arXiv](https://arxiv.org/abs/2406.16171)      
+\
+
 
 
 
