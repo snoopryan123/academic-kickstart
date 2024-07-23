@@ -13,10 +13,11 @@ author = "admin"
 
 ## Selected working Papers
 
-* Brill, R.S., Wyner, A.J., and Barnett, I.J. (2023+). "Entropy-Based Strategies for Multi-Bracket Pools." _arXiv preprint_ arXiv:2308.14339.
+* Brill, RS, Wyner, AJ, and Barnett, IJ. "Entropy-based strategies for multi-bracket pools." _Entropy_, 2024.
+    * [Entropy](https://www.mdpi.com/1099-4300/26/8/615)      
     * [arXiv](https://arxiv.org/abs/2308.14339)      
 \
-* Brill, R.S. and Wyner, A.J. (2024+). "Exploring the difficulty of estimating win probability: a simulation study." _arXiv preprint_ arXiv:2406.16171.
+* Brill, RS and Wyner, AJ. "Exploring the difficulty of estimating win probability: a simulation study." _arXiv preprint_, 2024+.
     * [arXiv](https://arxiv.org/abs/2406.16171)      
 \
 
