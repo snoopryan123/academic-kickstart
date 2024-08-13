@@ -82,8 +82,10 @@ author = "admin"
     - White Mountains, Flume Gorge, Old Man of the Mountain
 * New Jersey
     - Princeton
+    - Asbury Park
 * New York
-    - New York
+    - NYC
+    - Poughkeepsie
     - Syracuse
 * Pennsylvania
    - Philadelphia
@@ -114,5 +116,4 @@ author = "admin"
     ![](/img/Teton1.jpg)
     ![](/img/Teton2.jpg)
 
-### [Future Travel Ideas](/travel_plans_usa/)
 

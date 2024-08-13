@@ -29,12 +29,15 @@ author = "admin"
     - Kuala Lumpur
     ![](/img/KL1.JPG)
     ![](/img/KL2.JPG)
+* South Korea
+    - Seoul
 * Israel
     - Jerusalem
     - Tel Aviv
     - Haifa
     - Eilat
     - Dead Sea
+    - Tiberius
 * Jordan
     - Petra
 
@@ -87,7 +90,7 @@ author = "admin"
     
     
 
-### America
+### Americas
 
 * Costa Rica
     - Arenal
@@ -99,6 +102,14 @@ author = "admin"
 * Canada
     - Vancouver
     ![](/img/vancouver.jpg)
+* Argentina
+    - El Calafate
+    - El Chalten
+    - Buenos Aires
+    - Iguazu Falls
+* Chile
+    - Torres Del Paine 
+    - Santiago
 
-### [Future Travel Ideas](/travel_plans_world/)
+
 
