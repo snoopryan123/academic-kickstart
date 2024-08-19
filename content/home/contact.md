@@ -19,4 +19,6 @@ email_form = 0
 
 +++
 
+<!---
 _"The world needs to know you can't just toss AI at data and pray."_
+--->
