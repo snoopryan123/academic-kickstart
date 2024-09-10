@@ -20,6 +20,9 @@ author = "admin"
 * Brill, RS and Wyner, AJ. "Exploring the difficulty of estimating win probability: a simulation study." _arXiv preprint_, 2024+.
     * [arXiv](https://arxiv.org/abs/2406.16171)      
 \
+* {\bf Brill, RS}, Yee, R, Deshpande, SK, Wyner, AJ. ``Moving from Machine Learning to Statistics: the case of Expected Points in American football.'' _arXiv preprint_, 2024+.
+    * [arXiv](https://arxiv.org/abs/2409.04889}{arXiv:2409.04889)      
+\
 
 
 
