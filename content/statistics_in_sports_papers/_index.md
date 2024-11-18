@@ -35,6 +35,10 @@ author = "admin"
 
     * [Rahul's Code - Implementing the Estimators from Brown 2008](https://colab.research.google.com/drive/1_ZBfS4kAfxFi93XqGzuSZ2FU13HAplpF?usp=sharing)
     
+## Positional flexibility in baseball
+
+* [Chan and Fearing, 2019 - Process flexibility in baseball: The value of positional flexibility](/pdf/statistics_in_sports_papers/Chan_Fearing_Flexbility.pdf)
+    
 ## Tracking Data
 
 * [Nguyen, Yurko, and Matthews 2023 - Here Comes the STRAIN: Analyzing Defensive Pass Rush in American Football with Player Tracking Data](/pdf/statistics_in_sports_papers/strain.pdf)

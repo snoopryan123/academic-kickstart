@@ -13,21 +13,19 @@ author = "admin"
 
 # Some Favorites
 
-## Books
-
-### Tier 1
+### Books (Tier 1)
 
 * _The Righteous Mind: Why Good People are Divided by Politics and Religion_ by Jonathan Haidt
 
 * _East of Eden_ by John Steinbeck
 
-### Tier 2
+### Books (Tier 2)
 
 * _Uncanny Valley_ by Anna Wiener
 
 * _The Sun Also Rises_ by Ernest Hemingway
 
-## Papers
+### Papers
 
 * [Stigler, 1988 - A Galtonian Perspective on Shrinkage Estimators](/pdf/fave_papers/Stigler_galtonian_shrinkage.pdf)
 

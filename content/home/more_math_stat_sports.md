@@ -12,14 +12,10 @@ active = true
 
 * [Deriving the Black-Scholes Formula](pdf/RyansArticles/BlackScholes.pdf)
 
+<!---
+* [Some books and papers that I enjoy(/books_and_papers/)
+--->
+
 * [Some statistics in sports papers that I enjoy](/statistics_in_sports_papers/)
 
 
-
-<!---
-* [Is Ryan Brill better at sports betting than a monkey?](/ryan_vs_monkey/)
---->
-
-
-
-  
