@@ -17,6 +17,10 @@ author = "admin"
 
 * _The Righteous Mind: Why Good People are Divided by Politics and Religion_ by Jonathan Haidt
 
+* _East of Eden_ by John Steinbeck
+
+* _Uncanny Valley_ by Anna Wiener
+
 <!---
 ### Papers
 

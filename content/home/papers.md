@@ -17,8 +17,8 @@ active = true
     * [talk](https://www.youtube.com/watch?v=9jssiPtPTAM), [slides](/pdf/talks/slides_SABR24_grid_war.pdf) at [SABR 2024](https://sabr.org/analytics/2024)
     * Grid WAR Standings at [gridwar.xyz](https://gridwar.xyz)        
 \
-* Brill, RS and Wyner, AJ. "The Winner of the NFL Draft is Not Necessarily Cursed."
-    * [paper]() coming soon
+* Brill, RS and Wyner, AJ. "The winner of the NFL Draft is not necessarily cursed."
+    * [arXiv](https://arxiv.org/abs/2411.10400) 
     * [talk]() coming soon, [slides](/pdf/talks/slides_CMSAC24_NFLDraftCurves.pdf) at [CMSAC 2024](https://www.stat.cmu.edu/cmsac/conference/2024/)      
 \
 * Brill, RS, Deshpande, SK, and Wyner, AJ. "A Bayesian analysis of the time through the order penalty in baseball." _Journal of Quantitative Analysis in Sports_, 2023.
