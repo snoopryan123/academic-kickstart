@@ -13,17 +13,29 @@ author = "admin"
 
 # Some Favorites
 
-### Books (Tier 1)
+### Exceptional Books 
 
 * _The Righteous Mind: Why Good People are Divided by Politics and Religion_ by Jonathan Haidt
 
 * _East of Eden_ by John Steinbeck
 
-### Books (Tier 2)
+### Books 
 
 * _Uncanny Valley_ by Anna Wiener
 
 * _The Sun Also Rises_ by Ernest Hemingway
+
+* _Portnoy's Complaint_ by Philip Roth
+
+* _Nexus: A Brief History of Information Networks from the Stone Age to AI_ by Yuval Noah Harari
+
+* _Brothers at War: The Unending Conflict in Korea_ by Sheila Miyoshi Jager
+
+* _Empires of the Atlantic World: Britain and Spain in America 1492-1830_ by J. H. Elliott
+
+* _A History of the Modern Middle East_ by Martin P. Bunton and William L. Cleveland
+
+* _A History of Modern Iran_ by Ervand Abrahamian
 
 ### Papers
 
