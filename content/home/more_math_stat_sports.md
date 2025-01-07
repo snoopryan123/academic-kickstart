@@ -5,8 +5,9 @@ weight="14"
 active = true
 +++
 
+* [NFL Big Data Bowl 2025:](https://www.kaggle.com/competitions/nfl-big-data-bowl-2025) [Safety Entropy](https://www.kaggle.com/code/colejacobson/safety-entropy)
 
-* [NFL Big Data Bowl 2022 Finalist:](https://nflcommunications.com/Pages/FINALISTS-NAMED-FOR-FOURTH-ANNUAL-NFL-BIG-DATA-BOWL-POWERED-BY-AWS.aspx) [Optimal Run Path for Kick Returners](https://www.kaggle.com/jrudoler56/optimal-run-path-for-kick-returners/notebook)
+* [NFL Big Data Bowl 2022 Finalist:](https://operations.nfl.com/gameday/analytics/big-data-bowl/2022-big-data-bowl-video-gallery-recap/) [Optimal Run Path for Kick Returners](https://www.kaggle.com/code/tainguyen7597/optimal-run-path-for-kick-returners)
 
 * [Predicting the Quarterback-MVP](pdf/RyansArticles/qbmvp.pdf)
 
