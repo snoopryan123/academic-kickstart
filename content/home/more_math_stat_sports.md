@@ -5,7 +5,7 @@ weight="14"
 active = true
 +++
 
-* NFL Big Data Bowl 2025: [Safety Entropy](https://www.kaggle.com/code/colejacobson/safety-entropy)
+* [NFL Big Data Bowl 2025 Finalist:](https://operations.nfl.com/gameday/analytics/big-data-bowl/2025-big-data-bowl-finalists/) [Safety Entropy](https://www.kaggle.com/code/colejacobson/safety-entropy)
 
 <!--- # LOCAL VERSION OF THE BDB ENTRY
 [Safety Entropy](pdf/safety_entropy_local/safety_entropy.html)
@@ -15,7 +15,7 @@ active = true
 [NFL Big Data Bowl 2025:](https://www.kaggle.com/competitions/nfl-big-data-bowl-2025)
 -->
 
-* [NFL Big Data Bowl 2022 Finalist:](https://operations.nfl.com/gameday/analytics/big-data-bowl/2022-big-data-bowl-video-gallery-recap/) [Optimal Run Path for Kick Returners](https://www.kaggle.com/code/tainguyen7597/optimal-run-path-for-kick-returners)
+* [NFL Big Data Bowl 2022 Finalist:](https://operations.nfl.com/gameday/analytics/big-data-bowl/2022-big-data-bowl-video-gallery-recap) [Optimal Run Path for Kick Returners](https://www.kaggle.com/code/tainguyen7597/optimal-run-path-for-kick-returners)
 
 * [Predicting the Quarterback-MVP](pdf/RyansArticles/qbmvp.pdf)
 
