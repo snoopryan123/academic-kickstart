@@ -5,7 +5,10 @@ weight="14"
 active = true
 +++
 
+<!--- 
 * [NFL Big Data Bowl 2025 Finalist:](https://operations.nfl.com/gameday/analytics/big-data-bowl/2025-big-data-bowl-finalists/) [Safety Entropy](https://www.kaggle.com/code/colejacobson/safety-entropy)
+    * [slides](pdf/talks/slides_BigDataBowl2025_SafetyEntropy.pdf)
+-->
 
 <!--- # LOCAL VERSION OF THE BDB ENTRY
 [Safety Entropy](pdf/safety_entropy_local/safety_entropy.html)

@@ -25,6 +25,13 @@ active = true
     * [JQAS](https://www.degruyter.com/document/doi/10.1515/jqas-2022-0116/html?lang=en)
     * [arXiv](https://arxiv.org/abs/2210.06724)   
 \
+* Brill, RS, Jacobson, C, Lipitz, J, and Pipping, J. "Safety Entropy." _NFL Big Data Bowl_, 2025. [Finalist.](https://operations.nfl.com/gameday/analytics/big-data-bowl/2025-big-data-bowl-finalists/)
+    * [writeup](https://www.kaggle.com/code/colejacobson/safety-entropy)
+    * [slides](pdf/talks/slides_BigDataBowl2025_SafetyEntropy.pdf)
+    
+<!--- # LOCAL VERSION OF THE BDB ENTRY
+[Safety Entropy](pdf/safety_entropy_local/safety_entropy.html)
+-->
 
 ## [More papers](/pubs/)
 
