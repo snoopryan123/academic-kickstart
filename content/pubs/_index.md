@@ -13,6 +13,11 @@ author = "admin"
 
 ## Selected working Papers
 
+* Brill, RS and Wyner, AJ. "Exploring the difficulty of estimating win probability: a simulation study." _arXiv preprint_, 2024+.
+    * [arXiv](https://arxiv.org/abs/2406.16171)      
+\
+
+<!---
 * Brill, RS, Wyner, AJ, and Barnett, IJ. "Entropy-based strategies for multi-bracket pools." _Entropy_, 2024.
     * [Entropy](https://www.mdpi.com/1099-4300/26/8/615)      
     * [arXiv](https://arxiv.org/abs/2308.14339)      
@@ -23,6 +28,7 @@ author = "admin"
 * Brill, RS, Yee, R, Deshpande, SK, Wyner, AJ. "Moving from Machine Learning to Statistics: the case of Expected Points in American football."" _arXiv preprint_, 2024+.
     * [arXiv](https://arxiv.org/abs/2409.04889)      
 \
+--->
 
 
 

@@ -21,6 +21,10 @@ active = true
     * [arXiv](https://arxiv.org/abs/2411.10400) 
     * [talk](https://www.youtube.com/watch?v=0EON0LjGS6Q&list=PLGamdDdd5qYjvsc3umk-LwcUX8wezqYTV&index=23), [slides](/pdf/talks/slides_CMSAC24_NFLDraftCurves.pdf) at [CMSAC 2024](https://www.stat.cmu.edu/cmsac/conference/2024/)      
 \
+* Brill, RS, Wyner, AJ, and Barnett, IJ. "Entropy-based strategies for multi-bracket pools." _Entropy_, 2024.
+    * [Entropy](https://www.mdpi.com/1099-4300/26/8/615)      
+    * [arXiv](https://arxiv.org/abs/2308.14339)      
+\
 * Brill, RS, Deshpande, SK, and Wyner, AJ. "A Bayesian analysis of the time through the order penalty in baseball." _Journal of Quantitative Analysis in Sports_, 2023.
     * [JQAS](https://www.degruyter.com/document/doi/10.1515/jqas-2022-0116/html?lang=en)
     * [arXiv](https://arxiv.org/abs/2210.06724)   
