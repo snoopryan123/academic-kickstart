@@ -8,6 +8,7 @@ active = true
 ## Selected publications/pre-prints
 
 * Brill, RS, Yurko, R, and Wyner, AJ. "Analytics, have some humility: a statistical view of fourth-down decision making." _The American Statistician_, 2025.
+    * [TAS](https://www.tandfonline.com/eprint/IYTTBDU569RXVWHZNHCK/full?target=10.1080/00031305.2025.2475801#d1e148) ([pdf](/pdf/statistics_in_sports_papers/Humility_TAS.pdf))
     * [arXiv](https://arxiv.org/abs/2311.03490)  
     * [talk](https://www.youtube.com/watch?v=uS4XxQ0LVfE), [slides](/pdf/talks/slides_NESSIS23_Brill.pdf) at [NESSIS 2023](http://www.nessis.org/nessis23.html)     
 \
