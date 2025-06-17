@@ -12,15 +12,10 @@ superuser: true
 # Role/position
 role: Statistician
 
-<!---
-# Role/position
-role: Applied Math PhD Student
-
 # Organizations/Affiliations
 organizations:
 - name: University of Pennsylvania
   url: "https://www.amcs.upenn.edu"
-  -->
 
 # Short bio (displayed in user profile at end of posts)
 # bio: :)
