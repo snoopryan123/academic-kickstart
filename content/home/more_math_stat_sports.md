@@ -24,6 +24,8 @@ active = true
 
 * [Deriving the Black-Scholes Formula](pdf/RyansArticles/BlackScholes.pdf)
 
+* [Introducing xCTRL: A Probabilistic Approach to Pitch Location Accuracy](https://wsb.wharton.upenn.edu/introducing-xctrl-a-probabilistic-approach-to-pitch-location-accuracy/)
+
 <!---
 * [Some books and papers that I enjoy(/books_and_papers/)
 --->

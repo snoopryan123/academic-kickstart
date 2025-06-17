@@ -18,7 +18,8 @@ active = true
     * [talk](https://www.youtube.com/watch?v=9jssiPtPTAM), [slides](/pdf/talks/slides_SABR24_grid_war.pdf) at [SABR 2024](https://sabr.org/analytics/2024)
     * Grid WAR Standings at [gridwar.xyz](https://gridwar.xyz)        
 \
-* Brill, RS and Wyner, AJ. "The Loser's Curse and the Critical Role of the Utility Function."
+* Brill, RS and Wyner, AJ. "The Loser's Curse and the Critical Role of the Utility Function." _The American Statistician_, 2025.
+    * [TAS](https://www.tandfonline.com/doi/full/10.1080/00031305.2025.2505512)
     * [arXiv](https://arxiv.org/abs/2411.10400) 
     * [talk](https://www.youtube.com/watch?v=0EON0LjGS6Q&list=PLGamdDdd5qYjvsc3umk-LwcUX8wezqYTV&index=23), [slides](/pdf/talks/slides_CMSAC24_NFLDraftCurves.pdf) at [CMSAC 2024](https://www.stat.cmu.edu/cmsac/conference/2024/)      
 \
