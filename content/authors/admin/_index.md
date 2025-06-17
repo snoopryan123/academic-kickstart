@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Ryan S. Brill
+name: Ryan S. Brill, Ph.D.
 
 # Username (this should match the folder name)
 authors:
@@ -10,12 +10,17 @@ authors:
 superuser: true
 
 # Role/position
+role: Statistician
+
+<!---
+# Role/position
 role: Applied Math PhD Student
 
 # Organizations/Affiliations
 organizations:
 - name: University of Pennsylvania
   url: "https://www.amcs.upenn.edu"
+  -->
 
 # Short bio (displayed in user profile at end of posts)
 # bio: :)
@@ -31,7 +36,7 @@ education:
   courses:
   - course: PhD in Applied Mathematics & Computational Science
     institution: University of Pennsylvania
-    year: Expected May 2025 
+    year: 2025 
   - course: MA in Statistics
     institution: The Wharton School, University of Pennsylvania
     year: 2023
@@ -74,16 +79,8 @@ social:
 ---
 
 <!---
-I am a fifth year PhD student at the [University of Pennsylvania](https://www.upenn.edu) in [Applied Mathematics & Computational Science](https://www.amcs.upenn.edu). I'm interested in Bayesian statistics, statistical prediction, applied probability, mathematical modeling, and sports analytics.
-
-For my undergraduate studies, I attended [UC Berkeley](https://www.berkeley.edu), where I double majored in [Mathematics](https://math.berkeley.edu) and [Statistics](https://statistics.berkeley.edu), and minored in [Computer Science](https://eecs.berkeley.edu). 
- 
-Please enjoy this picture of me at a [Husky Cafe](https://www.facebook.com/neverlandsiberians/) in Bangkok, Thailand.
-
-See also my [**CV**](pdf/CV.pdf).
---->
-
 I am a PhD student in [Applied Mathematics & Computational Science](https://www.amcs.upenn.edu) at the [University of Pennsylvania](https://www.upenn.edu).
+-->
 
 <!---
 _"The world needs to know you can't just toss AI at data and pray."_
