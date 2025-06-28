@@ -13,6 +13,10 @@ author = "admin"
 
 # Some statistics in sports papers that I enjoy
 
+## Blogs
+
+* [Justin Jacobs' `squared2020`](https://squared2020.com/author/squared2020/page/6/)
+
 ## Bayesian statistics in baseball
 
 * [Yee & Deshpande, 2023 - Evaluating Plate Discipline in Major League Baseball with Bayesian Additive Regression Trees](/pdf/statistics_in_sports_papers/bayesball_plate_discipline_bart.pdf)
