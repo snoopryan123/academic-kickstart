@@ -13,30 +13,40 @@ author = "admin"
 
 # Places I want to go to 
 
-### International
+### World
 
-* Thailand/Singapore again
-* Brazil
-* Istanbul
-* Swiss Alps
-* Tokyo
-* China: Beijing, Shanghai, Hong Kong
-* Philippines
-* Indonesia
+* Asia
+  * China
+  * Tokyo
+  * Philippines
+  * Indonesia
+  * Nepal
+  * Singapore again
+* South America
+  * Brazil
+  * Peru
+  * Colombia
+  * Bolivia
+  * Atacama Desert, Chile
+* Europe
+  * Istanbul
+  * Faroe Islands
+  * Italy again
 * New Zealand
-* Atacama Desert, Chile
-* Colombia
-* Peru
 
-### Domestic
+### USA
 
-* Washington: Olympic NP & Mount Rainier & Cascades & Seattle
 * Montana: Glacier NP
 * Dakotas: Badlands NP & Teddy Roosevelt NP
 * Maine: Acadia NP
 * Alaska
 * Eastern Utah: Canyonlands NP & Arches NP
-* Oregon: Crater Lake, Oregon Dunes, Mt Bachelor, Portland
+* Southern Utah: Zion NP & Bryce Canyon NP
 * Southern Florida: Key West & Miami
-* Austin Texas
-    
+* Colorado: Rocky Mountain NP
+
+<!--
+* Oregon: Crater Lake, Oregon Dunes, Mt Bachelor, Portland
+-->
+
+

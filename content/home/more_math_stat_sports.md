@@ -24,7 +24,7 @@ active = true
 
 * [Deriving the Black-Scholes Formula](pdf/RyansArticles/BlackScholes.pdf)
 
-* [Notes on Arrow's Impossibility Theorem (Voting Theory)](pdf/RyansArticles/Arrows_Impossibility_Theorem.pdf)
+* [Notes on Arrow's Impossibility Theorem (voting theory)](pdf/RyansArticles/Arrows_Impossibility_Theorem.pdf)
 
 * [Introducing xCTRL: A Probabilistic Approach to Pitch Location Accuracy](https://wsb.wharton.upenn.edu/introducing-xctrl-a-probabilistic-approach-to-pitch-location-accuracy/)
 
