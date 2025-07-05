@@ -87,7 +87,11 @@ author = "admin"
     - Prague
     ![](/img/Prague1.jpg)
     ![](/img/Prague2.jpg)
-    
+* Croatia
+* Bosnia and Herzegovina
+* Montenegro
+* Albania
+* Serbia
     
 
 ### Americas

@@ -38,12 +38,12 @@ author = "admin"
 
 * Montana: Glacier NP
 * Dakotas: Badlands NP & Teddy Roosevelt NP
-* Maine: Acadia NP
-* Alaska
 * Eastern Utah: Canyonlands NP & Arches NP
 * Southern Utah: Zion NP & Bryce Canyon NP
-* Southern Florida: Key West & Miami
 * Colorado: Rocky Mountain NP
+* Alaska
+* Maine: Acadia NP
+* Southern Florida: Key West & Miami
 
 <!--
 * Oregon: Crater Lake, Oregon Dunes, Mt Bachelor, Portland
