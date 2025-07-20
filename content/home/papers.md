@@ -8,7 +8,7 @@ active = true
 ## Selected publications/pre-prints
 
 * Brill, RS, Yurko, R, and Wyner, AJ. "Analytics, have some humility: a statistical view of fourth-down decision making." _The American Statistician_, 2025.
-    * [TAS](https://www.tandfonline.com/eprint/IYTTBDU569RXVWHZNHCK/full?target=10.1080/00031305.2025.2475801#d1e148) ([pdf](/pdf/statistics_in_sports_papers/Humility_TAS.pdf))
+    * [TAS](https://www.tandfonline.com/doi/full/10.1080/00031305.2025.2475801) ([pdf](/pdf/statistics_in_sports_papers/Brill_Humility_TAS.pdf))
     * [arXiv](https://arxiv.org/abs/2311.03490)  
     * [talk](https://www.youtube.com/watch?v=uS4XxQ0LVfE), [slides](/pdf/talks/slides_NESSIS23_Brill.pdf) at [NESSIS 2023](http://www.nessis.org/nessis23.html)     
 \
@@ -19,7 +19,7 @@ active = true
     * Grid WAR Standings at [gridwar.xyz](https://gridwar.xyz)        
 \
 * Brill, RS and Wyner, AJ. "The Loser's Curse and the Critical Role of the Utility Function." _The American Statistician_, 2025.
-    * [TAS](https://www.tandfonline.com/doi/full/10.1080/00031305.2025.2505512)
+    * [TAS](https://www.tandfonline.com/doi/full/10.1080/00031305.2025.2505512) ([pdf](/pdf/statistics_in_sports_papers/Brill_LosersCurse_TAS.pdf))
     * [arXiv](https://arxiv.org/abs/2411.10400) 
     * [talk](https://www.youtube.com/watch?v=0EON0LjGS6Q&list=PLGamdDdd5qYjvsc3umk-LwcUX8wezqYTV&index=23), [slides](/pdf/talks/slides_CMSAC24_NFLDraftCurves.pdf) at [CMSAC 2024](https://www.stat.cmu.edu/cmsac/conference/2024/)      
 \
