@@ -11,7 +11,7 @@
   weight = 1
 
 [[main]]
-  name = "CV"
+  name = "Résumé"
   url = "pdf/CV.pdf"
   weight = 2
 
@@ -21,8 +21,8 @@ url = "#papers"
 weight = 3
 
 [[main]]
-name = "More Math/Stat/Sports"
-url = "#more_math_stat_sports"
+name = "Blog"
+url = "#blog"
 weight = 4
 
 

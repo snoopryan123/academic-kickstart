@@ -1,6 +1,6 @@
 +++
 author = "admin"
-title="More Math/Stat/Sports"
+title="Blog"
 weight="14"
 active = true
 +++
@@ -18,17 +18,19 @@ active = true
 [NFL Big Data Bowl 2025:](https://www.kaggle.com/competitions/nfl-big-data-bowl-2025)
 -->
 
-* [Deriving the Black-Scholes Formula](pdf/RyansArticles/BlackScholes.pdf)
+* [How to Choose a Wife: A Generalization of the Secretary Problem for Top-$k$ Selection](pdf/blog/How_to_Choose_a_Wife.pdf)
 
-* [Notes on the Secretary Problem / Marriage Problem (top-k formulation)](pdf/RyansArticles/secretary_problem.pdf)
 
-* [Notes on Arrow's Impossibility Theorem (voting theory)](pdf/RyansArticles/Arrows_Impossibility_Theorem.pdf)
+* [Deriving the Black-Scholes Formula](pdf/blog/BlackScholes.pdf)
 
 * [NFL Big Data Bowl 2022 Finalist:](https://operations.nfl.com/gameday/analytics/big-data-bowl/2022-big-data-bowl-video-gallery-recap) [Optimal Run Path for Kick Returners](https://www.kaggle.com/code/tainguyen7597/optimal-run-path-for-kick-returners)
 
-* [Predicting the Quarterback-MVP](pdf/RyansArticles/qbmvp.pdf)
+* [Predicting the Quarterback-MVP](pdf/blog/qbmvp.pdf)
 
 * [Introducing xCTRL: A Probabilistic Approach to Pitch Location Accuracy](https://wsb.wharton.upenn.edu/introducing-xctrl-a-probabilistic-approach-to-pitch-location-accuracy/)
+
+* [Notes on Arrow's Impossibility Theorem (voting theory)](pdf/blog/Arrows_Impossibility_Theorem.pdf)
+
 
 <!---
 * [Some books and papers that I enjoy(/books_and_papers/)
