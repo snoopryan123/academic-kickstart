@@ -7,13 +7,13 @@ active = true
 
 * [How to Choose a Wife: A Generalization of the Secretary Problem for Top-k Selection](pdf/blog/How_to_Choose_a_Wife.pdf)
 
-* [Deriving the Black-Scholes Formula](pdf/blog/BlackScholes.pdf)
+* [Deriving the Black-Scholes Formula from First Principles](pdf/blog/BlackScholes.pdf)
 
-* [Predicting the Quarterback-MVP](pdf/blog/qbmvp.pdf)
+* [Predicting the Quarterback MVP](pdf/blog/Predicting_the_Quarterback_MVP.pdf)
 
 * [Introducing xCTRL: A Probabilistic Approach to Pitch Location Accuracy](https://wsb.wharton.upenn.edu/introducing-xctrl-a-probabilistic-approach-to-pitch-location-accuracy/)
 
-* [NFL Big Data Bowl 2022 Finalist:](https://operations.nfl.com/gameday/analytics/big-data-bowl/2022-big-data-bowl-video-gallery-recap) Optimal Run Path for Kick Returners
+* [NFL Big Data Bowl 2022 Finalist: Optimal Run Path for Kick Returners](https://operations.nfl.com/gameday/analytics/big-data-bowl/2022-big-data-bowl-video-gallery-recap) 
 
 * [Notes on Arrow's Impossibility Theorem (voting theory)](pdf/blog/Arrows_Impossibility_Theorem.pdf)
 
