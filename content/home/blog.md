@@ -7,7 +7,7 @@ active = true
 
 * [How to Choose a Wife: A Generalization of the Secretary Problem for Top-k Selection](pdf/blog/How_to_Choose_a_Wife.pdf)
 
-* [Deriving the Black-Scholes Formula from First Principles](pdf/blog/BlackScholes.pdf)
+* [Deriving the Black-Scholes Formula](pdf/blog/Deriving_the_Black_Scholes_Formula.pdf)
 
 * [Predicting the Quarterback MVP](pdf/blog/Predicting_the_Quarterback_MVP.pdf)
 
