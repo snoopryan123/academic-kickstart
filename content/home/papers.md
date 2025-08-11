@@ -22,7 +22,7 @@ active = true
 \
 * Brill, RS and Wyner, AJ "Why Great Putting is Mostly Luck: An Empirical Bayes Analysis of PGA Tour Performance." 
     * [arXiv](https://arxiv.org/abs/2506.21822), 2025   
-    * Please enjoy these related lectures on [Empirical Bayes](/pdf/statistics_in_sports_papers/Brill_summerLabLecture_empiricalBayes.pdf) and [Shrinkage Estimation](/pdf/statistics_in_sports_papers/Brill_summerLabLecture_shrinkageEstimation.pdf).
+    * Please enjoy these related lectures on [Empirical Bayes](/pdf/statistics_in_sports_papers/Brill_summerLabLecture_empiricalBayes.pdf) and [Shrinkage Estimation](/pdf/statistics_in_sports_papers/Brill_summerLabLecture_shrinkageEstimation.pdf)  
 \
 * Brill, RS, Wyner, AJ, and Barnett, IJ. "Entropy-based strategies for multi-bracket pools." 
     * [_Entropy_](https://www.mdpi.com/1099-4300/26/8/615), 2024 ([pdf](/pdf/statistics_in_sports_papers/Brill_brackets_Entropy.pdf)) ([arXiv](https://arxiv.org/abs/2308.14339))      
