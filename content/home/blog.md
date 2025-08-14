@@ -7,9 +7,9 @@ active = true
 
 * [How to Choose a Wife: A Generalization of the Secretary Problem for Top-k Selection](pdf/blog/How_to_Choose_a_Wife.pdf)
 
-* [An R Squared Lesson from a Walk through Manhattan](pdf/blog/An_R2_Lesson_from_a_walk_through_Manhattan.pdf)
-
 * [Deriving the Black-Scholes Formula](pdf/blog/Deriving_the_Black_Scholes_Formula.pdf)
+
+* [An R Squared Lesson from a Walk through Manhattan](pdf/blog/An_R2_Lesson_from_a_walk_through_Manhattan.pdf)
 
 * [Predicting the Quarterback MVP](pdf/blog/Predicting_the_Quarterback_MVP.pdf)
 

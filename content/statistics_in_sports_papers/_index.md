@@ -42,6 +42,10 @@ author = "admin"
 ## Positional flexibility in baseball
 
 * [Chan and Fearing, 2019 - Process flexibility in baseball: The value of positional flexibility](/pdf/statistics_in_sports_papers/Chan_Fearing_Flexbility.pdf)
+
+## Fit: Beyond Linear/Additive Player Effects
+
+* [Oliver and Fienen, 2009 - Importance of Teammate Fit: Frescoball Example](/pdf/statistics_in_sports_papers/Dean_Oliver_2009_Frescoball.pdf)
     
 ## Tracking Data
 
@@ -77,7 +81,6 @@ author = "admin"
 ## Cross-sport analysis
 
 * [Lopez, Matthews, and Baumer 2018 - How often does the best team win? A unified approach to understanding randomness in North American sport](/pdf/statistics_in_sports_papers/lopez_2018.pdf)
-
 
 
 ## Sports Betting & Information Theory
