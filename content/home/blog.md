@@ -17,6 +17,8 @@ active = true
 
 * [NFL Big Data Bowl 2022 Finalist: Optimal Run Path for Kick Returners](https://operations.nfl.com/gameday/analytics/big-data-bowl/2022-big-data-bowl-video-gallery-recap) 
 
+* [Notes on Mixed Effects Model Estimation](pdf/blog/Mixed_Effects_Model_Estimation.pdf)
+
 * [Notes on Arrow's Impossibility Theorem (voting theory)](pdf/blog/Arrows_Impossibility_Theorem.pdf)
 
 <!---
