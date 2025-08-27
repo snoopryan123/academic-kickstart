@@ -13,10 +13,10 @@ author = "admin"
 
 ## More papers
 
-* Brill, RS and Wyner, AJ. "Exploring the difficulty of estimating win probability: a simulation study." _arXiv preprint_, 2024+.
-    * [_Journal of Quantitative Analysis in Sports_](), 2025 ([pdf]()) ([arXiv](ttps://arxiv.org/abs/2406.16171)) 
+* Brill, RS and Wyner, AJ. "Exploring the difficulty of estimating win probability: a simulation study." _arXiv preprint_, 2024+.   
+    * [_Journal of Quantitative Analysis in Sports_](), 2025 ([pdf]()) ([arXiv](ttps://arxiv.org/abs/2406.16171))      
 \
-* Ludwig, M, Brill, RS and Wyner, AJ. "Separating Intent from Execution: A Probabilistic Approach to Pitch Location Accuracy." _arXiv preprint_, 2025.
+* Ludwig, M, Brill, RS and Wyner, AJ. "Separating Intent from Execution: A Probabilistic Approach to Pitch Location Accuracy." _arXiv preprint_, 2025.   
     * [arXiv](https://arxiv.org/abs/2508.19184)      
 \
 
