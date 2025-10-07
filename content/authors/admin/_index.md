@@ -73,6 +73,9 @@ social:
 # - Visitors
 ---
 
+Please check out this [lovely article](https://wsb.wharton.upenn.edu/transforming-sports-through-analytics-ryan-brill-phd25-joins-the-utah-jazz/) from Wharton about me.
+
+
 <!---
 I am a PhD student in [Applied Mathematics & Computational Science](https://www.amcs.upenn.edu) at the [University of Pennsylvania](https://www.upenn.edu).
 -->

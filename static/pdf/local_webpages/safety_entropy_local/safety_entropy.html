@@ -1,0 +1,635 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>ee75f74c1e304727a4ba9dcdedc4f6a9</title>
+  <style>
+    html {
+      line-height: 1.5;
+      font-family: Georgia, serif;
+      font-size: 20px;
+      color: #1a1a1a;
+      background-color: #fdfdfd;
+    }
+    body {
+      margin: 0 auto;
+      max-width: 36em;
+      padding-left: 50px;
+      padding-right: 50px;
+      padding-top: 50px;
+      padding-bottom: 50px;
+      hyphens: auto;
+      overflow-wrap: break-word;
+      text-rendering: optimizeLegibility;
+      font-kerning: normal;
+    }
+    @media (max-width: 600px) {
+      body {
+        font-size: 0.9em;
+        padding: 1em;
+      }
+      h1 {
+        font-size: 1.8em;
+      }
+    }
+    @media print {
+      body {
+        background-color: transparent;
+        color: black;
+        font-size: 12pt;
+      }
+      p, h2, h3 {
+        orphans: 3;
+        widows: 3;
+      }
+      h2, h3, h4 {
+        page-break-after: avoid;
+      }
+    }
+    p {
+      margin: 1em 0;
+    }
+    a {
+      color: #1a1a1a;
+    }
+    a:visited {
+      color: #1a1a1a;
+    }
+    img {
+      max-width: 100%;
+    }
+    h1, h2, h3, h4, h5, h6 {
+      margin-top: 1.4em;
+    }
+    h5, h6 {
+      font-size: 1em;
+      font-style: italic;
+    }
+    h6 {
+      font-weight: normal;
+    }
+    ol, ul {
+      padding-left: 1.7em;
+      margin-top: 1em;
+    }
+    li > ol, li > ul {
+      margin-top: 0;
+    }
+    blockquote {
+      margin: 1em 0 1em 1.7em;
+      padding-left: 1em;
+      border-left: 2px solid #e6e6e6;
+      color: #606060;
+    }
+    code {
+      font-family: Menlo, Monaco, 'Lucida Console', Consolas, monospace;
+      font-size: 85%;
+      margin: 0;
+    }
+    pre {
+      margin: 1em 0;
+      overflow: auto;
+    }
+    pre code {
+      padding: 0;
+      overflow: visible;
+      overflow-wrap: normal;
+    }
+    .sourceCode {
+     background-color: transparent;
+     overflow: visible;
+    }
+    hr {
+      background-color: #1a1a1a;
+      border: none;
+      height: 1px;
+      margin: 1em 0;
+    }
+    table {
+      margin: 1em 0;
+      border-collapse: collapse;
+      width: 100%;
+      overflow-x: auto;
+      display: block;
+      font-variant-numeric: lining-nums tabular-nums;
+    }
+    table caption {
+      margin-bottom: 0.75em;
+    }
+    tbody {
+      margin-top: 0.5em;
+      border-top: 1px solid #1a1a1a;
+      border-bottom: 1px solid #1a1a1a;
+    }
+    th {
+      border-top: 1px solid #1a1a1a;
+      padding: 0.25em 0.5em 0.25em 0.5em;
+    }
+    td {
+      padding: 0.125em 0.5em 0.25em 0.5em;
+    }
+    header {
+      margin-bottom: 4em;
+      text-align: center;
+    }
+    #TOC li {
+      list-style: none;
+    }
+    #TOC ul {
+      padding-left: 1.3em;
+    }
+    #TOC > ul {
+      padding-left: 0;
+    }
+    #TOC a:not(:hover) {
+      text-decoration: none;
+    }
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    ul.task-list{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1.6em;
+      vertical-align: middle;
+    }
+    .display.math{display: block; text-align: center; margin: 0.5rem auto;}
+  </style>
+  <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+  <![endif]-->
+</head>
+<body>
+<div id="a6f1a639" class="cell markdown"
+data-papermill="{&quot;duration&quot;:7.345e-3,&quot;end_time&quot;:&quot;2025-01-06T16:08:04.494862&quot;,&quot;exception&quot;:false,&quot;start_time&quot;:&quot;2025-01-06T16:08:04.487517&quot;,&quot;status&quot;:&quot;completed&quot;}"
+data-tags="[]">
+<h1
+id="safety-entropy-a-measure-of-safeties-predictability"><strong>Safety
+Entropy: A Measure of Safeties’ Predictability</strong></h1>
+</div>
+<div id="d2e4991e" class="cell markdown"
+data-papermill="{&quot;duration&quot;:6.644e-3,&quot;end_time&quot;:&quot;2025-01-06T16:08:04.508616&quot;,&quot;exception&quot;:false,&quot;start_time&quot;:&quot;2025-01-06T16:08:04.501972&quot;,&quot;status&quot;:&quot;completed&quot;}"
+data-tags="[]">
+<h3 id="ryan-brill-cole-jacobson-justin-lipitz-jonathan-pipping">Ryan
+Brill, Cole Jacobson, Justin Lipitz, Jonathan Pipping</h3>
+</div>
+<div id="596cbc41" class="cell markdown"
+data-papermill="{&quot;duration&quot;:6.65e-3,&quot;end_time&quot;:&quot;2025-01-06T16:08:04.521859&quot;,&quot;exception&quot;:false,&quot;start_time&quot;:&quot;2025-01-06T16:08:04.515209&quot;,&quot;status&quot;:&quot;completed&quot;}"
+data-tags="[]">
+<h1 id="motivation">Motivation</h1>
+<p>We were fortunate to have an insightful conversation with quarterback
+Josh Rosen, forming the inspiration for our project. Weaving anecdotes
+from his time in the NFL with X’s and O’s, he emphasized something along
+the lines of:</p>
+<p><code>If I could know with 100% certainty what the safeties would do, my life would be twice as easy.</code></p>
+<p>Why? For example, suppose the offense runs a "<a
+href="https://fishduck.com/2023/11/the-oregon-offense-the-hoss-concept/">Hoss</a>"
+concept (hitch-seam combo) on both sides. If the offense knows the
+defense is playing <a
+href="https://www.si.com/nfl/colts/film/gus-glossary-mofo-mofc">Middle-Of-Field-Closed</a>
+(<span
+class="math inline"><em>M</em><em>O</em><em>F</em><em>C</em></span>)
+coverage – one safety in the middle of the field – there is a strong
+chance one of the vertical routes will be open, because the safety can’t
+cover both. If the offense knows the defense is playing
+Middle-Of-Field-Open (<span
+class="math inline"><em>M</em><em>O</em><em>F</em><em>O</em></span>),
+the QB’s first read is likely one of the hitches, since safeties can
+cover both slot routes. Having that pre-snap knowledge gives the offense
+a real advantage.</p>
+<p>Hence, in this study, we evaluate the play-level and team-level
+predictability of safeties. We devise a novel and powerful model which,
+given safeties’ pre-snap positioning and movements, estimates their
+post-snap middle-of-field coverage. We then quantify a defense’s overall
+level of safety predictability via <em>safety entropy</em>.
+Understanding opposing safeties’ degree of unpredictability allows an
+offense to tailor its game preparations. From our model, we extract key
+features – concrete defensive signals that telegraph what the safeties
+will do. In conjunction with play-level safety entropy, these tells can
+help safeties and quarterbacks retroactively study safety movements.
+Safeties can learn to disguise more effectively, whereas quarterbacks
+can work on diagnosing safeties’ signals.</p>
+</div>
+<div id="cd351d22" class="cell markdown"
+data-papermill="{&quot;duration&quot;:7.062e-3,&quot;end_time&quot;:&quot;2025-01-06T16:08:04.535608&quot;,&quot;exception&quot;:false,&quot;start_time&quot;:&quot;2025-01-06T16:08:04.528546&quot;,&quot;status&quot;:&quot;completed&quot;}"
+data-tags="[]">
+<h1 id="data">Data</h1>
+<p>We consider a subset of plays from Weeks 1-9, 2022, focusing on
+longer early-down dropbacks (<span
+class="math inline">1<sup><em>s</em><em>t</em></sup></span> &amp; <span
+class="math inline"> ≥ 10</span> or <span
+class="math inline">2<sup><em>n</em><em>d</em></sup></span> &amp; <span
+class="math inline"> ≥ 5</span>). We exclude garbage time (<span
+class="math inline">win probability ∉ (0.05,0.95)</span>), late-half
+plays (<span class="math inline">half seconds remaining ≤ 30</span>),
+and obvious pass situations (<span
+class="math inline">xpass ≥ 0.95</span>, using <a
+href="https://opensourcefootball.com/posts/2020-09-28-nflfastr-ep-wp-and-cp-models/#expected-dropback-model-features">expected
+dropback probability</a> from <em>nflFastR</em>).</p>
+<p>Our binary outcome variable, <span
+class="math inline"><em>M</em><em>O</em><em>F</em><em>O</em></span>, is
+1 if the safeties leave the middle of the field open, else 0. We derive
+<span
+class="math inline"><em>M</em><em>O</em><em>F</em><em>O</em></span> from
+<em>pff_passCoverage</em>, which we estimate as 90-95% accurate from
+film study: <span
+class="math inline"><em>M</em><em>O</em><em>F</em><em>O</em></span> is 1
+for 2-Man or variations of Cover 0, 2, 4, or 6 (zero or two deep
+safeties post-snap) and 0 for variations of Cover 1 or 3 (one deep
+safety). We exclude dropbacks with miscellaneous coverages (e.g.,
+Prevent, Goal Line).</p>
+<p>We classify a defender as a pre-snap safety if he is <span
+class="math inline"> ≥ 8.5</span> yards from the line of scrimmage at
+some time between the offensive line being set and the snap, and if he
+is not the right-most or left-most defender at the snap. Filtering for
+plays with one or two pre-snap safeties yields 4,381 plays (1,352
+single-safety, 3,029 two-safety). Just 113 of 7,410 safety-play
+combinations (1.5%) deviate from official NFL position labels,
+validating our definition.</p>
+</div>
+<div id="a50fc9d4" class="cell markdown"
+data-papermill="{&quot;duration&quot;:6.661e-3,&quot;end_time&quot;:&quot;2025-01-06T16:08:04.549075&quot;,&quot;exception&quot;:false,&quot;start_time&quot;:&quot;2025-01-06T16:08:04.542414&quot;,&quot;status&quot;:&quot;completed&quot;}"
+data-tags="[]">
+<h1 id="model-specification">Model Specification</h1>
+<p>We want to estimate <span
+class="math inline"><em>M</em><em>O</em><em>F</em><em>O</em></span>
+probability, where <span
+class="math inline"><em>M</em><em>O</em><em>F</em><em>O</em></span>
+indicates whether the safeties leave the middle of the field open, from
+pre-snap safety tracking data.</p>
+<p>We define times <span
+class="math inline"><em>t</em><sub>0</sub></span> and <span
+class="math inline"><em>t</em><sub>snap</sub></span>, in seconds, by
+<span
+class="math inline"><em>t</em><sub>0</sub> = max { − 3.0, <em>t</em><sub>set</sub>}</span>
+(3 seconds before the snap, or the time the offensive line is set, <span
+class="math inline"><em>t</em><sub>set</sub></span>, if <span
+class="math inline"><em>t</em><sub>set</sub></span> occurs after) and
+<span class="math inline"><em>t</em><sub>snap</sub> =  − 0.1</span>
+(just before the snap). For each safety, we record six covariates: his
+location <span
+class="math inline">(<em>x</em><sub>0</sub>,<em>y</em><sub>0</sub>)</span>
+at <span class="math inline"><em>t</em><sub>0</sub></span>, his location
+<span
+class="math inline">(<em>x</em><sub>snap</sub>,<em>y</em><sub>snap</sub>)</span>
+at <span class="math inline"><em>t</em><sub>snap</sub></span>, and his
+velocity <span
+class="math inline">(<em>v</em><sub>snap</sub><sup><em>x</em></sup>,<em>v</em><sub>snap</sub><sup><em>y</em></sup>)</span>
+at <span class="math inline"><em>t</em><sub>snap</sub></span>. The
+locations are standardized relative to the line of scrimmage (<span
+class="math inline"><em>x</em></span>) and field center (<span
+class="math inline"><em>y</em></span>).</p>
+<p>That our covariate space is low-dimensional is a fundamental strength
+of our modeling approach. Using too many covariates is dangerous; it is
+easy to overfit in our limited data setting (just 4,381 plays). We use
+<a href="https://www.ibm.com/think/topics/neural-networks">neural
+networks</a> (NNs) to capture the complex, nonlinear relationships
+between the covariates and response. NNs in particular generalize well
+from small datasets (<a
+href="https://dl.acm.org/doi/10.5555/3327144.3327279">Olson et al.,
+2018</a>). We train separate NNs for single- and two-safety plays, each
+with one hidden layer <a
+href="https://medium.com/@akp83540/silu-sigmoid-linear-unit-activation-function-d9b6845f0c81">(SiLU
+activation)</a> and a sigmoid output, by minimizing <a
+href="https://www.kaggle.com/code/dansbecker/what-is-log-loss">logloss</a>
+in R using Keras.</p>
+</div>
+<div id="da73187b" class="cell markdown"
+data-papermill="{&quot;duration&quot;:7.15e-3,&quot;end_time&quot;:&quot;2025-01-06T16:08:04.562820&quot;,&quot;exception&quot;:false,&quot;start_time&quot;:&quot;2025-01-06T16:08:04.555670&quot;,&quot;status&quot;:&quot;completed&quot;}"
+data-tags="[]">
+<h1 id="model-validation">Model Validation</h1>
+<p>To validate our model, we compare it to baseline null models that
+don’t (or, minimally) use the tracking data. We consider several
+baseline logistic regression models:</p>
+<!---
+<p><img src="https://github.com/jdpipping/big-data-bowl-2025/blob/main/figures_for_kaggle_notebook/Ryan_baseline_models.png?raw=true" width="650"><br />
+-->
+<p><img src="./figures/Ryan_baseline_models.png" width="650"><br />
+<br/></p>
+<p>We conduct a ten-fold cross validation prediction contest and
+transform logloss into a more interpretable scale, <span
+class="math inline"><em>q</em> = exp (−logloss)</span>. Correctly
+predicting the outcome variable <span
+class="math inline"><em>M</em><em>O</em><em>F</em><em>O</em></span> with
+identical probability <span class="math inline"><em>q</em></span> on all
+plays produces the same logloss. A higher <span
+class="math inline"><em>q</em></span> reflects a better predictor. The
+boxplots below show the cross-validation distributions of <span
+class="math inline"><em>q</em></span> across the ten folds.</p>
+<!---
+<p><img src="https://github.com/jdpipping/big-data-bowl-2025/blob/main/figures_for_kaggle_notebook/Ryan_cross_validation_results.png?raw=true" width="1000"><br />
+-->
+<p><img src="./figures/Ryan_cross_validation_results.png" width="1000"><br />
+<br/></p>
+<p>The results are encouraging: Predicting what safeties will do after
+the snap is much better with tracking data. Our model performs
+significantly better (<span
+class="math inline"><em>q</em> ≈ 0.65</span>) than the best baseline
+model (<span class="math inline"><em>q</em> ≈ 0.55</span>). That
+safeties are difficult to predict, indicated by <span
+class="math inline"><em>q</em> ≈ 0.65</span>, makes sense: were it easy,
+NFL quarterbacks wouldn’t consider it important. Our 0.10 advantage
+across 272 early-down, “regular” dropbacks per team per season is worth
+<span class="math inline"> ≈ 27</span> additional “free” plays (where
+the QB knows what the safeties will do)!</p>
+<p>Further, our model is well-calibrated, visualized below.</p>
+<!---
+<p><img src="https://github.com/jdpipping/big-data-bowl-2025/blob/main/figures_for_kaggle_notebook/Ryan_model_calibration.png?raw=true" width="350"><br />
+-->
+<p><img src="./figures/Ryan_model_calibration.png" width="350"><br />
+<br/></p>
+<p>Notably, in roughly one-third of plays, the safeties do something
+pre-snap that strongly telegraphs their post-snap behavior (1406/4381
+plays feature <span class="math inline"><em>p</em> ∉ [0.1,0.9]</span>).
+To understand why those plays are so predictable, we tease out concrete,
+interpretable features below.</p>
+</div>
+<div id="1e03b44b" class="cell markdown"
+data-papermill="{&quot;duration&quot;:6.71e-3,&quot;end_time&quot;:&quot;2025-01-06T16:08:04.576422&quot;,&quot;exception&quot;:false,&quot;start_time&quot;:&quot;2025-01-06T16:08:04.569712&quot;,&quot;status&quot;:&quot;completed&quot;}"
+data-tags="[]">
+<h1 id="measuring-disguisedness-via-safety-entropy">Measuring
+“disguisedness” via Safety Entropy</h1>
+<p>Given a play’s <span
+class="math inline"><em>M</em><em>O</em><em>F</em><em>O</em></span>
+probability <span class="math inline"><em>p</em></span>, <span
+class="math inline">entropy =  − <em>p</em> ⋅ log<sub>2</sub>(<em>p</em>) − (1−<em>p</em>) ⋅ log<sub>2</sub>(1−<em>p</em>)</span>
+is a natural measure of unpredictability, visualized below. <span
+class="math inline"><em>M</em><em>O</em><em>F</em><em>O</em></span> is
+perfectly predictable (<span class="math inline">entropy = 0</span>)
+when <span class="math inline"><em>p</em></span> is 0 or 1. <span
+class="math inline"><em>M</em><em>O</em><em>F</em><em>O</em></span> is
+most unpredictable (maximal entropy, 1) when <span
+class="math inline"><em>p</em> = 1/2</span>. Values of <span
+class="math inline"><em>p</em></span> closer to <span
+class="math inline">1/2</span> have higher entropy (more uncertain), and
+values of <span class="math inline"><em>p</em></span> closer to 0 or 1
+have lower entropy (more certain).</p>
+<!---
+<p><img src="https://github.com/jdpipping/big-data-bowl-2025/blob/main/figures_for_kaggle_notebook/Ryan_entropy_versus_p.png?raw=true" width="300"><br />
+-->
+<p><img src="./figures/Ryan_entropy_versus_p.png" width="300"><br />
+<br/></p>
+<p>We measure the unpredictability of a team’s safeties by the mean
+safety entropy across all plays, using bootstrapping to quantify
+uncertainty. We visualize these entropy rankings below (error bars
+denote 90% bootstrapped intervals).</p>
+<!---
+<p><img src="https://github.com/jdpipping/big-data-bowl-2025/blob/main/figures_for_kaggle_notebook/Ryan_safety_entropy_rank.png?raw=true" width="350"><br />
+-->
+<p><img src="./figures/Ryan_safety_entropy_rank.png" width="350"><br />
+<br/></p>
+<p>Knowing an opponent’s safety entropy is valuable for game
+preparation. For a team facing the high-entropy Rams, coaches can help
+scout defensive safeties emulate the Rams’ movements in practice. They
+can also help the QB understand that the Rams’ safeties disguise more
+successfully than other teams.</p>
+<p>Further, we find a very small correlation between a defense’s mean
+safety entropy and defensive success. Less predictable safeties (higher
+entropy) correspond to better defensive outcomes (lower EPA/play), but
+since there are so many other variables that contribute to defensive
+results (e.g., player skill), the correlation is very light.</p>
+</div>
+<div id="e8c01556" class="cell markdown"
+data-papermill="{&quot;duration&quot;:6.662e-3,&quot;end_time&quot;:&quot;2025-01-06T16:08:04.589704&quot;,&quot;exception&quot;:false,&quot;start_time&quot;:&quot;2025-01-06T16:08:04.583042&quot;,&quot;status&quot;:&quot;completed&quot;}"
+data-tags="[]">
+<h1 id="film-study">Film Study</h1>
+<p>We can emit all the jargon we want, but fans, coaches, and analysts
+all want to know: how does this show up on the field?</p>
+<p>Consider the following examples. In the first, from Buccaneers-Saints
+in Week 2, the Bucs begin with two tight ends before TE #41 Ko Kieft
+motions into the backfield. The Saints have two pre-snap safeties (#32
+Tyrann Mathieu, #6 Marcus Maye). Our model confidently predicts <span
+class="math inline"><em>M</em><em>O</em><em>F</em><em>O</em></span>
+coverage (94.0%), a good prediction, as the Saints played <a
+href="https://www.google.com/url?q=https://www.bucsnation.com/2010/5/12/1466315/tampa-2-defense-explained&amp;sa=D&amp;source=docs&amp;ust=1735980010655216&amp;usg=AOvVaw0FPVJXD2L9TIACcWJygihN">Tampa
+2</a>.</p>
+<!---
+<p><img src="https://github.com/jdpipping/big-data-bowl-2025/blob/main/figures_for_kaggle_notebook/play_animation_3_pauses.gif?raw=true" width="600"><br />
+-->
+<p><img src="./figures/play_animation_3_pauses.gif" width="600"><br />
+<br/></p>
+<p>Now, consider this play from Steelers-Browns one week later. The
+Steelers begin with two eligible receivers to each side before TE #81
+Zach Gentry motions to the offense’s left. Though the Browns have two
+pre-snap safeties (#22 Grant Delpit, #43 John Johnson), our model
+confidently predicts <span
+class="math inline"><em>M</em><em>O</em><em>F</em><em>C</em></span>
+(0.6% <span
+class="math inline"><em>M</em><em>O</em><em>F</em><em>O</em></span>
+probability). This is correct, as the Browns played Cover 1, with
+Johnson guarding Gentry.</p>
+<!---
+<p><img src="https://github.com/jdpipping/big-data-bowl-2025/blob/main/figures_for_kaggle_notebook/play_animation_4_pauses.gif?raw=true" width="600"><br />
+-->
+<p><img src="./figures/play_animation_4_pauses.gif" width="600"><br />
+<br/></p>
+<p>These plays are ostensibly similar – two pre-snap safeties, both
+<span class="math inline"> ≥ 10</span> yards off the <span
+class="math inline"><em>L</em><em>O</em><em>S</em></span> during the
+entire pre-snap time frame. What made the model provide differing
+predictions?</p>
+<ul>
+<li><em>Response to offensive motion</em>. Each play saw a TE go in
+motion, but on Play 1, the Saints’ defense didn’t noticeably react to
+Kieft’s movement. On Play 2, Delpit followed Gentry until Delpit crossed
+the ball, at which point he pointed to Johnson to take over. The
+safeties’ horizontal paths stood out to the model.</li>
+<li><em>Safeties’ vertical directions</em>. On Play 1, Mathieu and Maye
+back-pedal in lockstep, both moving in the same direction at the time of
+the snap. But on Play 2, Delpit back-pedals at the snap while Johnson
+creeps forward, movements that were slow but significant enough for our
+model to capture.</li>
+<li><em>Vertical stagger between safeties</em>. On Play 1, not only were
+Mathieu’s and Maye’s vertical directions similar, but their vertical
+locations were also similar, both roughly 14 yards off the ball at the
+snap. On Play 2, Delpit was 14.0 yards off the ball during the snap,
+while Johnson was 10.6 – a discrepancy that signals <span
+class="math inline"><em>M</em><em>O</em><em>F</em><em>C</em></span>
+likelihood.</li>
+</ul>
+<p>As demonstrated here, analyzing film in conjunction with model
+outputs can provide an edge in the pre-snap chess match. To the naked
+eye, these are both two-safety plays which happen to have vastly
+different coverage schemes. But nuances in safety movements reveal
+signals that foretell post-snap coverages.</p>
+</div>
+<div id="61fc5757" class="cell markdown"
+data-papermill="{&quot;duration&quot;:6.706e-3,&quot;end_time&quot;:&quot;2025-01-06T16:08:04.603054&quot;,&quot;exception&quot;:false,&quot;start_time&quot;:&quot;2025-01-06T16:08:04.596348&quot;,&quot;status&quot;:&quot;completed&quot;}"
+data-tags="[]">
+<h1 id="featurization-key-defensive-tells">Featurization: Key Defensive
+Tells</h1>
+<p>Subtle differences in safety movement in the previous examples appear
+to drive the differing predictions, but we aim to formalize this
+intuition. Our neural network model operates as a <em>blackbox</em>—its
+predictions arise from complex, opaque internal processes—making it
+challenging to interpret individual predictions. In this section, we
+probe the blackbox, uncovering consistent ways a defense telegraphs its
+coverages, enabling offenses to decipher signals on any given play.</p>
+<p>The strongest indicators of <span
+class="math inline"><em>M</em><em>O</em><em>F</em></span> coverages,
+with two safeties, include: <strong>vertical stagger</strong> (yards
+apart) <strong>between safeties at the snap</strong>, <strong>maximum
+distance crept forward pre-snap by a safety</strong>, and
+<strong>difference in vertical velocities between safeties</strong>
+(e.g. one moves forward while the other moves backward) <strong>at the
+snap</strong>. Below, we visualize how these features impact defensive
+tendencies. Each red line plots estimated <span
+class="math inline"><em>M</em><em>O</em><em>F</em><em>O</em></span>
+probability (<span class="math inline"><em>y</em></span>-axis) against
+the given feature (<span class="math inline"><em>x</em></span>-axis).
+<span
+class="math inline"><em>M</em><em>O</em><em>F</em><em>O</em></span>
+probability decreases as these features increase. Each blue line uses
+the empirical <span
+class="math inline"><em>M</em><em>O</em><em>F</em><em>O</em></span> rate
+(smoothed) as the <span class="math inline"><em>y</em></span>-variable.
+The red lines (predictions) closely mirror the blue lines (base-rates),
+further validating our model.</p>
+<!---
+<p><img src="https://github.com/jdpipping/big-data-bowl-2025/blob/main/figures_for_kaggle_notebook/Cole_2High_Features_3Panel.png?raw=true" width="1000"><br />
+-->
+<p><img src="./figures/Cole_2High_Features_3Panel.png" width="1000"><br />
+<br/></p>
+<p>Below, we display features that are strongly negatively correlated
+with defensive <span
+class="math inline"><em>M</em><em>O</em><em>F</em><em>O</em></span>
+outcomes. The table displays each feature’s correlation with estimated
+<span
+class="math inline"><em>M</em><em>O</em><em>F</em><em>O</em></span>
+probability (fourth column) and empirical <span
+class="math inline"><em>M</em><em>O</em><em>F</em><em>O</em></span>
+rates (third column).</p>
+<p><img src="https://github.com/jdpipping/big-data-bowl-2025/blob/main/figures_for_kaggle_notebook/Cole_table_feature_correlations.png?raw=true" width="1000"><br />
+<br/></p>
+<p>Now, consider single-safety plays. Despite a high overall <span
+class="math inline"><em>M</em><em>O</em><em>F</em><em>C</em></span> rate
+(84.4%), we still found signals, visualized below: for each
+single-safety play, we plot the safety’s pre-snap change in horizontal
+distance relative to <span
+class="math inline"><em>M</em><em>O</em><em>F</em></span> (<span
+class="math inline"><em>y</em></span>-axis) against his vertical “creep”
+distance (relative to the <span
+class="math inline"><em>L</em><em>O</em><em>S</em></span>, <span
+class="math inline"><em>x</em></span>-axis). Dot size is proportional to
+estimated <span
+class="math inline"><em>M</em><em>O</em><em>F</em><em>O</em></span>
+probability. Larger dots in the upper-left suggest that a safety moving
+towards <span class="math inline"><em>L</em><em>O</em><em>S</em></span>
+and away from <span
+class="math inline"><em>M</em><em>O</em><em>F</em></span> is associated
+with higher <span
+class="math inline"><em>M</em><em>O</em><em>F</em><em>O</em></span>
+probability. Conversely, moving away from <span
+class="math inline"><em>L</em><em>O</em><em>S</em></span> and towards
+<span class="math inline"><em>M</em><em>O</em><em>F</em></span>
+corresponds to lower <span
+class="math inline"><em>M</em><em>O</em><em>F</em><em>O</em></span>
+probability.</p>
+<!---
+<p><img src="https://github.com/jdpipping/big-data-bowl-2025/blob/main/figures_for_kaggle_notebook/Justin_1High_SafetyMovementPlot.png?raw=true" width="1000"><br />
+-->
+<p><img src="./figures/Justin_1High_SafetyMovementPlot.png" width="1000"><br />
+<br/></p>
+<p>Overall, we’ve diagnosed many tells an offense should watch for, such
+as:</p>
+<ul>
+<li>2-high plays where a safety creeps 4+ yards forward: 0.93 predicted
+<span
+class="math inline"><em>M</em><em>O</em><em>F</em><em>C</em></span>
+probability (0.92 empirical <span
+class="math inline"><em>M</em><em>O</em><em>F</em><em>C</em></span>
+rate).</li>
+<li>2-high plays where the safeties’ difference in vertical velocities
+at the snap is 4+ yards/second: 0.92 predicted <span
+class="math inline"><em>M</em><em>O</em><em>F</em><em>C</em></span>
+probability (0.91 empirical <span
+class="math inline"><em>M</em><em>O</em><em>F</em><em>C</em></span>
+rate).</li>
+<li>1-high plays where the safety is within three yards of <span
+class="math inline"><em>M</em><em>O</em><em>F</em></span> (horizontally)
+at the snap: 0.88 predicted <span
+class="math inline"><em>M</em><em>O</em><em>F</em><em>C</em></span>
+probability (0.87 empirical <span
+class="math inline"><em>M</em><em>O</em><em>F</em><em>C</em></span>
+rate).</li>
+</ul>
+</div>
+<div id="c1e5b1c0" class="cell markdown"
+data-papermill="{&quot;duration&quot;:6.62e-3,&quot;end_time&quot;:&quot;2025-01-06T16:08:04.616385&quot;,&quot;exception&quot;:false,&quot;start_time&quot;:&quot;2025-01-06T16:08:04.609765&quot;,&quot;status&quot;:&quot;completed&quot;}"
+data-tags="[]">
+<h1 id="conclusion">Conclusion</h1>
+<p>Our novel metric <em>safety entropy</em> quantifies the
+predictability of safeties' post-snap middle-of-field coverage based on
+their pre-snap positioning and movement. Low entropy indicates
+predictability; high signals unpredictability. We uncovered several core
+traits – vertical stagger between safeties, “creep” distance, difference
+in vertical velocity, etc. – that can help offenses diagnose what’s
+coming. We also evaluated the predictability of each teams’ safeties on
+aggregate. An offense who knows its opponent has particularly high or
+low safety entropy can adjust its game preparations accordingly (e.g.,
+by installing certain tells to their scout defense).</p>
+</div>
+<div id="33000d26" class="cell markdown"
+data-papermill="{&quot;duration&quot;:6.663e-3,&quot;end_time&quot;:&quot;2025-01-06T16:08:04.629709&quot;,&quot;exception&quot;:false,&quot;start_time&quot;:&quot;2025-01-06T16:08:04.623046&quot;,&quot;status&quot;:&quot;completed&quot;}"
+data-tags="[]">
+<h1 id="future-work">Future Work</h1>
+<p>Our work has limitations; ideas for improvement include:</p>
+<ul>
+<li>Accounting for all 22 players’ pre-snap movements in our model</li>
+<li>More refined definitions of pre-snap safeties &amp; <span
+class="math inline"><em>M</em><em>O</em><em>F</em><em>O</em></span></li>
+<li>Including more plays (e.g., later downs, zero pre-snap
+safeties)</li>
+<li>Continuous-time <span
+class="math inline"><em>M</em><em>O</em><em>F</em><em>O</em></span>
+probability predictions (beyond single-play predictions)</li>
+</ul>
+</div>
+<div id="f32d7da8" class="cell markdown"
+data-papermill="{&quot;duration&quot;:6.657e-3,&quot;end_time&quot;:&quot;2025-01-06T16:08:04.643405&quot;,&quot;exception&quot;:false,&quot;start_time&quot;:&quot;2025-01-06T16:08:04.636748&quot;,&quot;status&quot;:&quot;completed&quot;}"
+data-tags="[]">
+<h1 id="our-code">Our Code</h1>
+<p>Our code is publicly available at <a
+href="https://github.com/jdpipping/big-data-bowl-2025">https://github.com/jdpipping/big-data-bowl-2025</a>.</p>
+</div>
+<div id="27ad1178" class="cell markdown"
+data-papermill="{&quot;duration&quot;:7.582e-3,&quot;end_time&quot;:&quot;2025-01-06T16:08:04.657880&quot;,&quot;exception&quot;:false,&quot;start_time&quot;:&quot;2025-01-06T16:08:04.650298&quot;,&quot;status&quot;:&quot;completed&quot;}"
+data-tags="[]">
+<h1 id="citations">Citations</h1>
+<p>Olson, M., Wyner, A.J., and Berk, R. (2018). Modern Neural Networks
+Generalize on Small Data Sets. NIPS'18: Proceedings of the 32nd
+International Conference on Neural Information Processing Systems, Pages
+3623 - 3632. <a
+href="https://dl.acm.org/doi/10.5555/3327144.3327279">https://dl.acm.org/doi/10.5555/3327144.3327279</a></p>
+</div>
+<div id="1f83a87d" class="cell markdown"
+data-papermill="{&quot;duration&quot;:7.106e-3,&quot;end_time&quot;:&quot;2025-01-06T16:08:04.671930&quot;,&quot;exception&quot;:false,&quot;start_time&quot;:&quot;2025-01-06T16:08:04.664824&quot;,&quot;status&quot;:&quot;completed&quot;}"
+data-tags="[]">
+<h1 id="acknowledgements">Acknowledgements</h1>
+<p>The authors thank Josh Rosen, Paul Sabin, and Abraham Wyner for
+helpful discussions.</p>
+</div>
+<div id="f2203a44" class="cell markdown"
+data-papermill="{&quot;duration&quot;:6.848e-3,&quot;end_time&quot;:&quot;2025-01-06T16:08:04.685646&quot;,&quot;exception&quot;:false,&quot;start_time&quot;:&quot;2025-01-06T16:08:04.678798&quot;,&quot;status&quot;:&quot;completed&quot;}"
+data-tags="[]">
+<h1 id="contact-us">Contact Us</h1>
+<ul>
+<li>Ryan Brill: on X <a
+href="https://x.com/ryanbrill_?lang=en">@RyanBrill_</a>, email <a
+href="mailto:ryguy123@sas.upenn.edu">ryguy123@sas.upenn.edu</a></li>
+<li>Cole Jacobson: on X <a
+href="https://x.com/i/flow/login?redirect_after_login=%2FColeJacobson32">@ColeJacobson32</a>,
+email <a
+href="mailto:jacole@alumni.upenn.edu">jacole@alumni.upenn.edu</a></li>
+<li>Justin Lipitz: email <a
+href="mailto:justinlipitz@gmail.com">justinlipitz@gmail.com</a></li>
+<li>Jonathan Pipping: email <a
+href="mailto:jpipping@wharton.upenn.edu">jpipping@wharton.upenn.edu</a></li>
+</ul>
+</div>
+</body>
+</html>
