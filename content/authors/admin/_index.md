@@ -24,7 +24,7 @@ interests:
 - Statistics
 - Probability
 - Machine Learning
-- A.I.
+- A.I. 
 - Statistics in Sports
 - Statistical applications and case studies
 
