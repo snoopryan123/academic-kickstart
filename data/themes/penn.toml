@@ -1,0 +1,16 @@
+name = "penn"
+
+light = true
+
+primary = "#990000"
+
+link = "#011F5B"
+link_hover = "#CC0000"
+
+menu_primary = "#011F5B"
+menu_text = "#FFFFFF"
+menu_text_active = "#990000"
+menu_title = "#FFFFFF"
+
+home_section_odd = "#FFFFFF"
+home_section_even = "rgb(247, 247, 247)"
